@@ -3,7 +3,7 @@ title: "[BaekJoon] 11557번 - Yangjojang of The Year [Java][C++]"
 slug: baekjoon-11557
 date: 2026-01-06
 categories: [PS, BaekJoon]
-tags: [Sorting]
+tags: [Unlinked]
 toc: true
 math: true
 ---
@@ -12,7 +12,7 @@ math: true
 
 ---
 
-## 1. 문제 풀이
+## 1. 아이디어
 
 <br>
 
@@ -97,19 +97,29 @@ int main() {
         int n;
         cin >> n;
 
-        vector<pair<int, string>> v;
-        for (int i = 0; i < n; i++) {
-            string name;
-            int amount;
-            cin >> name >> amount;
-
-            v.push_back({amount, name});
-        }
+        vector<pair<int, string>> v(n);
+        for (auto& [amount, name] : v) cin >> name >> amount;
         sort(v.begin(), v.end());
 
         cout << v.back().second << '\n';
     }
 }
 ```
+
+---
+
+## 3. 디버깅
+
+<br>
+
+없음.
+
+---
+
+## 4. 참고
+
+<br>
+
+없음.
 
 ---
