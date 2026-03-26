@@ -43,7 +43,7 @@
 
 ## 0x04강 - 연결 리스트
 
-- [ ] [1406 에디터](https://www.acmicpc.net/problem/1406)
+- [x] [1406 에디터](https://www.acmicpc.net/problem/1406)
 - [ ] [5397 키로거](https://www.acmicpc.net/problem/5397)
 - [ ] [1158 요세푸스 문제](https://www.acmicpc.net/problem/1158)
 
