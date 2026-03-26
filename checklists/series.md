@@ -540,7 +540,7 @@
 
 ## 카드 구매하기
 
-- [ ] [11052 카드 구매하기](https://www.acmicpc.net/problem/11052)
+- [x] [11052 카드 구매하기](https://www.acmicpc.net/problem/11052)
 - [ ] [16194 카드 구매하기 2](https://www.acmicpc.net/problem/16194)
 - [ ] [16909 카드 구매하기 3](https://www.acmicpc.net/problem/16909)
 
