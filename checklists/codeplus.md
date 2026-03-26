@@ -52,7 +52,7 @@
 - [ ] [10974 모든 순열](https://www.acmicpc.net/problem/10974)
 - [ ] [10819 차이를 최대로](https://www.acmicpc.net/problem/10819)
 - [ ] [10971 외판원 순회 2](https://www.acmicpc.net/problem/10971)
-- [ ] [6603 로또](https://www.acmicpc.net/problem/6603)
+- [x] [6603 로또](https://www.acmicpc.net/problem/6603)
 
 ## 코딩 테스트 준비 - 기초 / 브루트 포스 - 비트마스크
 
@@ -133,7 +133,7 @@
 
 ## 코딩 테스트 준비 - 연습 / 브루트 포스 - 재귀
 
-- [ ] [6603 로또](https://www.acmicpc.net/problem/6603)
+- [x] [6603 로또](https://www.acmicpc.net/problem/6603)
 - [ ] [1182 부분수열의 합](https://www.acmicpc.net/problem/1182)
 - [ ] [14225 부분수열의 합](https://www.acmicpc.net/problem/14225)
 - [ ] [14888 연산자 끼워넣기](https://www.acmicpc.net/problem/14888)
@@ -469,7 +469,7 @@
 - [ ] [10974 모든 순열](https://www.acmicpc.net/problem/10974)
 - [ ] [10819 차이를 최대로](https://www.acmicpc.net/problem/10819)
 - [ ] [10971 외판원 순회 2](https://www.acmicpc.net/problem/10971)
-- [ ] [6603 로또](https://www.acmicpc.net/problem/6603)
+- [x] [6603 로또](https://www.acmicpc.net/problem/6603)
 
 ## 알고리즘 기초 2/2 / 530 - 브루트 포스 - 재귀
 
@@ -536,7 +536,7 @@
 
 ## 알고리즘 중급 1/3 / 531 - 브루트 포스 - 재귀 (연습)
 
-- [ ] [6603 로또](https://www.acmicpc.net/problem/6603)
+- [x] [6603 로또](https://www.acmicpc.net/problem/6603)
 - [ ] [1182 부분수열의 합](https://www.acmicpc.net/problem/1182)
 - [ ] [14225 부분수열의 합](https://www.acmicpc.net/problem/14225)
 - [ ] [14888 연산자 끼워넣기](https://www.acmicpc.net/problem/14888)

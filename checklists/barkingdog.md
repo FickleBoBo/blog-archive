@@ -141,7 +141,7 @@
 - [x] [15664 N과 M (10)](https://www.acmicpc.net/problem/15664)
 - [x] [15665 N과 M (11)](https://www.acmicpc.net/problem/15665)
 - [x] [15666 N과 M (12)](https://www.acmicpc.net/problem/15666)
-- [ ] [6603 로또](https://www.acmicpc.net/problem/6603)
+- [x] [6603 로또](https://www.acmicpc.net/problem/6603)
 - [ ] [1759 암호 만들기](https://www.acmicpc.net/problem/1759)
 - [ ] [1941 소문난 칠공주](https://www.acmicpc.net/problem/1941)
 - [ ] [16987 계란으로 계란치기](https://www.acmicpc.net/problem/16987)
