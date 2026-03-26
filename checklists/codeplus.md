@@ -31,7 +31,7 @@
 - [x] [15652 N과 M (4)](https://www.acmicpc.net/problem/15652)
 - [x] [15654 N과 M (5)](https://www.acmicpc.net/problem/15654)
 - [x] [15655 N과 M (6)](https://www.acmicpc.net/problem/15655)
-- [ ] [15656 N과 M (7)](https://www.acmicpc.net/problem/15656)
+- [x] [15656 N과 M (7)](https://www.acmicpc.net/problem/15656)
 - [ ] [15657 N과 M (8)](https://www.acmicpc.net/problem/15657)
 - [ ] [18290 NM과 K (1)](https://www.acmicpc.net/problem/18290)
 
@@ -455,7 +455,7 @@
 - [x] [15652 N과 M (4)](https://www.acmicpc.net/problem/15652)
 - [x] [15654 N과 M (5)](https://www.acmicpc.net/problem/15654)
 - [x] [15655 N과 M (6)](https://www.acmicpc.net/problem/15655)
-- [ ] [15656 N과 M (7)](https://www.acmicpc.net/problem/15656)
+- [x] [15656 N과 M (7)](https://www.acmicpc.net/problem/15656)
 - [ ] [15657 N과 M (8)](https://www.acmicpc.net/problem/15657)
 - [ ] [15663 N과 M (9)](https://www.acmicpc.net/problem/15663)
 - [ ] [15664 N과 M (10)](https://www.acmicpc.net/problem/15664)
