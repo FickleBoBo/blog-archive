@@ -39,7 +39,7 @@
 - [ ] [10807 개수 세기](https://www.acmicpc.net/problem/10807)
 - [ ] [13300 방 배정](https://www.acmicpc.net/problem/13300)
 - [x] [11328 Strfry](https://www.acmicpc.net/problem/11328)
-- [ ] [1919 애너그램 만들기](https://www.acmicpc.net/problem/1919)
+- [x] [1919 애너그램 만들기](https://www.acmicpc.net/problem/1919)
 
 ## 0x04강 - 연결 리스트
 
