@@ -131,7 +131,7 @@
 - [ ] [9663 N-Queen](https://www.acmicpc.net/problem/9663)
 - [ ] [1182 부분수열의 합](https://www.acmicpc.net/problem/1182)
 - [x] [15650 N과 M (2)](https://www.acmicpc.net/problem/15650)
-- [ ] [15651 N과 M (3)](https://www.acmicpc.net/problem/15651)
+- [x] [15651 N과 M (3)](https://www.acmicpc.net/problem/15651)
 - [ ] [15652 N과 M (4)](https://www.acmicpc.net/problem/15652)
 - [ ] [15654 N과 M (5)](https://www.acmicpc.net/problem/15654)
 - [ ] [15655 N과 M (6)](https://www.acmicpc.net/problem/15655)
