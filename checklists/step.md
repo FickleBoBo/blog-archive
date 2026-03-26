@@ -3,7 +3,7 @@
 ## 1단계 - 입출력과 사칙연산
 
 - [ ] [2557 Hello World](https://www.acmicpc.net/problem/2557)
-- [ ] [1000 A+B](https://www.acmicpc.net/problem/1000)
+- [x] [1000 A+B](https://www.acmicpc.net/problem/1000)
 - [ ] [1001 A-B](https://www.acmicpc.net/problem/1001)
 - [ ] [10998 A×B](https://www.acmicpc.net/problem/10998)
 - [ ] [1008 A/B](https://www.acmicpc.net/problem/1008)
