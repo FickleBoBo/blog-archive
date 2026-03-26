@@ -496,7 +496,7 @@
 
 ## 팩토리얼
 
-- [ ] [10872 팩토리얼](https://www.acmicpc.net/problem/10872)
+- [x] [10872 팩토리얼](https://www.acmicpc.net/problem/10872)
 - [ ] [27433 팩토리얼 2](https://www.acmicpc.net/problem/27433)
 - [ ] [27434 팩토리얼 3](https://www.acmicpc.net/problem/27434)
 - [ ] [27439 팩토리얼 4](https://www.acmicpc.net/problem/27439)
