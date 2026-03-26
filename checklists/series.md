@@ -600,7 +600,7 @@
 
 ## A/B
 
-- [ ] [1008 A/B](https://www.acmicpc.net/problem/1008)
+- [x] [1008 A/B](https://www.acmicpc.net/problem/1008)
 - [ ] [15792 A/B - 2](https://www.acmicpc.net/problem/15792)
 - [ ] [16428 A/B - 3](https://www.acmicpc.net/problem/16428)
 

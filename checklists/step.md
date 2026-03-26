@@ -6,7 +6,7 @@
 - [x] [1000 A+B](https://www.acmicpc.net/problem/1000)
 - [x] [1001 A-B](https://www.acmicpc.net/problem/1001)
 - [ ] [10998 A×B](https://www.acmicpc.net/problem/10998)
-- [ ] [1008 A/B](https://www.acmicpc.net/problem/1008)
+- [x] [1008 A/B](https://www.acmicpc.net/problem/1008)
 - [ ] [10869 사칙연산](https://www.acmicpc.net/problem/10869)
 - [ ] [10926 ??!](https://www.acmicpc.net/problem/10926)
 - [ ] [18108 1998년생인 내가 태국에서는 2541년생?!](https://www.acmicpc.net/problem/18108)
