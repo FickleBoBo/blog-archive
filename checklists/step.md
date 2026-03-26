@@ -176,7 +176,7 @@
 
 - [x] [28278 스택 2](https://www.acmicpc.net/problem/28278)
 - [x] [10773 제로](https://www.acmicpc.net/problem/10773)
-- [ ] [9012 괄호](https://www.acmicpc.net/problem/9012)
+- [x] [9012 괄호](https://www.acmicpc.net/problem/9012)
 - [x] [4949 균형잡힌 세상](https://www.acmicpc.net/problem/4949)
 - [ ] [12789 도키도키 간식드리미](https://www.acmicpc.net/problem/12789)
 - [x] [18258 큐 2](https://www.acmicpc.net/problem/18258)
