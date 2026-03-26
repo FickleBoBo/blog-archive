@@ -217,7 +217,7 @@
 - [x] [2750 수 정렬하기](https://www.acmicpc.net/problem/2750)
 - [x] [2751 수 정렬하기 2](https://www.acmicpc.net/problem/2751)
 - [x] [10989 수 정렬하기 3](https://www.acmicpc.net/problem/10989)
-- [ ] [11931 수 정렬하기 4](https://www.acmicpc.net/problem/11931)
+- [x] [11931 수 정렬하기 4](https://www.acmicpc.net/problem/11931)
 - [ ] [15688 수 정렬하기 5](https://www.acmicpc.net/problem/15688)
 - [ ] [10814 나이순 정렬](https://www.acmicpc.net/problem/10814)
 - [x] [11650 좌표 정렬하기](https://www.acmicpc.net/problem/11650)
