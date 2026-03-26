@@ -12,7 +12,7 @@
 - [x] [2753 윤년](https://www.acmicpc.net/problem/2753)
 - [x] [2480 주사위 세개](https://www.acmicpc.net/problem/2480)
 - [x] [2490 윷놀이](https://www.acmicpc.net/problem/2490)
-- [ ] [2576 홀수](https://www.acmicpc.net/problem/2576)
+- [x] [2576 홀수](https://www.acmicpc.net/problem/2576)
 - [x] [2587 대표값2](https://www.acmicpc.net/problem/2587)
 - [x] [2309 일곱 난쟁이](https://www.acmicpc.net/problem/2309)
 - [x] [10093 숫자](https://www.acmicpc.net/problem/10093)
