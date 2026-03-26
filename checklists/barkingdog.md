@@ -127,7 +127,7 @@
 
 ## 0x0C강 - 백트래킹
 
-- [ ] [15649 N과 M (1)](https://www.acmicpc.net/problem/15649)
+- [x] [15649 N과 M (1)](https://www.acmicpc.net/problem/15649)
 - [ ] [9663 N-Queen](https://www.acmicpc.net/problem/9663)
 - [ ] [1182 부분수열의 합](https://www.acmicpc.net/problem/1182)
 - [ ] [15650 N과 M (2)](https://www.acmicpc.net/problem/15650)
