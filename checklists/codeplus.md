@@ -459,7 +459,7 @@
 - [x] [15657 N과 M (8)](https://www.acmicpc.net/problem/15657)
 - [x] [15663 N과 M (9)](https://www.acmicpc.net/problem/15663)
 - [x] [15664 N과 M (10)](https://www.acmicpc.net/problem/15664)
-- [ ] [15665 N과 M (11)](https://www.acmicpc.net/problem/15665)
+- [x] [15665 N과 M (11)](https://www.acmicpc.net/problem/15665)
 - [ ] [15666 N과 M (12)](https://www.acmicpc.net/problem/15666)
 
 ## 알고리즘 기초 2/2 / 520 - 브루트 포스 - 순열
