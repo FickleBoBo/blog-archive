@@ -17,7 +17,7 @@
 - [ ] [2309 일곱 난쟁이](https://www.acmicpc.net/problem/2309)
 - [x] [10093 숫자](https://www.acmicpc.net/problem/10093)
 - [ ] [1267 핸드폰 요금](https://www.acmicpc.net/problem/1267)
-- [ ] [10804 카드 역배치](https://www.acmicpc.net/problem/10804)
+- [x] [10804 카드 역배치](https://www.acmicpc.net/problem/10804)
 - [ ] [15552 빠른 A+B](https://www.acmicpc.net/problem/15552)
 - [ ] [2438 별 찍기 - 1](https://www.acmicpc.net/problem/2438)
 - [ ] [2439 별 찍기 - 2](https://www.acmicpc.net/problem/2439)
