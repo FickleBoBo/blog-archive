@@ -128,7 +128,7 @@
 
 ## 12단계 - 브루트 포스
 
-- [ ] [2798 블랙잭](https://www.acmicpc.net/problem/2798)
+- [x] [2798 블랙잭](https://www.acmicpc.net/problem/2798)
 - [ ] [2231 분해합](https://www.acmicpc.net/problem/2231)
 - [x] [19532 수학은 비대면강의입니다](https://www.acmicpc.net/problem/19532)
 - [ ] [1018 체스판 다시 칠하기](https://www.acmicpc.net/problem/1018)
