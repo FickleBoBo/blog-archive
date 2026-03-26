@@ -38,7 +38,7 @@
 - [ ] [3273 두 수의 합](https://www.acmicpc.net/problem/3273)
 - [ ] [10807 개수 세기](https://www.acmicpc.net/problem/10807)
 - [ ] [13300 방 배정](https://www.acmicpc.net/problem/13300)
-- [ ] [11328 Strfry](https://www.acmicpc.net/problem/11328)
+- [x] [11328 Strfry](https://www.acmicpc.net/problem/11328)
 - [ ] [1919 애너그램 만들기](https://www.acmicpc.net/problem/1919)
 
 ## 0x04강 - 연결 리스트
