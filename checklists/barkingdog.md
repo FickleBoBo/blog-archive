@@ -4,7 +4,7 @@
 
 - [ ] [10871 X보다 작은 수](https://www.acmicpc.net/problem/10871)
 - [x] [1000 A+B](https://www.acmicpc.net/problem/1000)
-- [ ] [2557 Hello World](https://www.acmicpc.net/problem/2557)
+- [x] [2557 Hello World](https://www.acmicpc.net/problem/2557)
 - [x] [10171 고양이](https://www.acmicpc.net/problem/10171)
 - [x] [10869 사칙연산](https://www.acmicpc.net/problem/10869)
 - [ ] [9498 시험 성적](https://www.acmicpc.net/problem/9498)
