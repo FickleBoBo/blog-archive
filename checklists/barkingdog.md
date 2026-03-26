@@ -220,7 +220,7 @@
 - [ ] [11931 수 정렬하기 4](https://www.acmicpc.net/problem/11931)
 - [ ] [15688 수 정렬하기 5](https://www.acmicpc.net/problem/15688)
 - [ ] [10814 나이순 정렬](https://www.acmicpc.net/problem/10814)
-- [ ] [11650 좌표 정렬하기](https://www.acmicpc.net/problem/11650)
+- [x] [11650 좌표 정렬하기](https://www.acmicpc.net/problem/11650)
 - [ ] [11651 좌표 정렬하기 2](https://www.acmicpc.net/problem/11651)
 
 ## 0x0F강 - 정렬 II
