@@ -246,7 +246,7 @@
 - [ ] [12852 1로 만들기 2](https://www.acmicpc.net/problem/12852)
 - [ ] [1003 피보나치 함수](https://www.acmicpc.net/problem/1003)
 - [ ] [1932 정수 삼각형](https://www.acmicpc.net/problem/1932)
-- [ ] [11727 2×n 타일링 2](https://www.acmicpc.net/problem/11727)
+- [x] [11727 2×n 타일링 2](https://www.acmicpc.net/problem/11727)
 - [ ] [2193 이친수](https://www.acmicpc.net/problem/2193)
 - [ ] [1912 연속합](https://www.acmicpc.net/problem/1912)
 - [ ] [11055 가장 큰 증가하는 부분 수열](https://www.acmicpc.net/problem/11055)

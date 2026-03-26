@@ -626,7 +626,7 @@
 ## 2×n 타일링
 
 - [x] [11726 2×n 타일링](https://www.acmicpc.net/problem/11726)
-- [ ] [11727 2×n 타일링 2](https://www.acmicpc.net/problem/11727)
+- [x] [11727 2×n 타일링 2](https://www.acmicpc.net/problem/11727)
 
 ## NM과 K
 
