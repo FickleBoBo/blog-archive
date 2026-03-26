@@ -6,7 +6,7 @@
 - [x] [1000 A+B](https://www.acmicpc.net/problem/1000)
 - [ ] [2557 Hello World](https://www.acmicpc.net/problem/2557)
 - [x] [10171 고양이](https://www.acmicpc.net/problem/10171)
-- [ ] [10869 사칙연산](https://www.acmicpc.net/problem/10869)
+- [x] [10869 사칙연산](https://www.acmicpc.net/problem/10869)
 - [ ] [9498 시험 성적](https://www.acmicpc.net/problem/9498)
 - [ ] [2752 세수정렬](https://www.acmicpc.net/problem/2752)
 - [ ] [2753 윤년](https://www.acmicpc.net/problem/2753)
