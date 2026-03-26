@@ -95,7 +95,7 @@
 
 ## 코딩 테스트 준비 - 기초 / 큐와 그래프
 
-- [ ] [10845 큐](https://www.acmicpc.net/problem/10845)
+- [x] [10845 큐](https://www.acmicpc.net/problem/10845)
 - [ ] [10866 덱](https://www.acmicpc.net/problem/10866)
 - [ ] [13023 ABCDE](https://www.acmicpc.net/problem/13023)
 - [ ] [1260 DFS와 BFS](https://www.acmicpc.net/problem/1260)
@@ -347,7 +347,7 @@
 - [ ] [9012 괄호](https://www.acmicpc.net/problem/9012)
 - [ ] [1874 스택 수열](https://www.acmicpc.net/problem/1874)
 - [ ] [1406 에디터](https://www.acmicpc.net/problem/1406)
-- [ ] [10845 큐](https://www.acmicpc.net/problem/10845)
+- [x] [10845 큐](https://www.acmicpc.net/problem/10845)
 - [ ] [1158 요세푸스 문제](https://www.acmicpc.net/problem/1158)
 - [ ] [10866 덱](https://www.acmicpc.net/problem/10866)
 
