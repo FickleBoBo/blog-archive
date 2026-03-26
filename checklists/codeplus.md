@@ -14,7 +14,7 @@
 
 ## 코딩 테스트 준비 - 기초 / 브루트 포스
 
-- [ ] [2309 일곱 난쟁이](https://www.acmicpc.net/problem/2309)
+- [x] [2309 일곱 난쟁이](https://www.acmicpc.net/problem/2309)
 - [ ] [3085 사탕 게임](https://www.acmicpc.net/problem/3085)
 - [ ] [1476 날짜 계산](https://www.acmicpc.net/problem/1476)
 - [ ] [1107 리모컨](https://www.acmicpc.net/problem/1107)
@@ -438,7 +438,7 @@
 
 ## 알고리즘 기초 2/2 / 500 - 브루트 포스
 
-- [ ] [2309 일곱 난쟁이](https://www.acmicpc.net/problem/2309)
+- [x] [2309 일곱 난쟁이](https://www.acmicpc.net/problem/2309)
 - [ ] [3085 사탕 게임](https://www.acmicpc.net/problem/3085)
 - [ ] [1476 날짜 계산](https://www.acmicpc.net/problem/1476)
 - [ ] [1107 리모컨](https://www.acmicpc.net/problem/1107)
