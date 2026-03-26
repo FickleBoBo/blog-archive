@@ -33,7 +33,7 @@
 ## 0x03강 - 배열
 
 - [ ] [10808 알파벳 개수](https://www.acmicpc.net/problem/10808)
-- [ ] [2577 숫자의 개수](https://www.acmicpc.net/problem/2577)
+- [x] [2577 숫자의 개수](https://www.acmicpc.net/problem/2577)
 - [x] [1475 방 번호](https://www.acmicpc.net/problem/1475)
 - [ ] [3273 두 수의 합](https://www.acmicpc.net/problem/3273)
 - [ ] [10807 개수 세기](https://www.acmicpc.net/problem/10807)
