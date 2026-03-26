@@ -194,7 +194,7 @@
 ## 설탕배달
 
 - [ ] [2839 설탕 배달](https://www.acmicpc.net/problem/2839)
-- [ ] [26099 설탕 배달 2](https://www.acmicpc.net/problem/26099)
+- [x] [26099 설탕 배달 2](https://www.acmicpc.net/problem/26099)
 
 ## 2-SAT
 
