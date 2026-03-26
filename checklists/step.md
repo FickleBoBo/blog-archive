@@ -10,7 +10,7 @@
 - [ ] [10869 사칙연산](https://www.acmicpc.net/problem/10869)
 - [ ] [10926 ??!](https://www.acmicpc.net/problem/10926)
 - [ ] [18108 1998년생인 내가 태국에서는 2541년생?!](https://www.acmicpc.net/problem/18108)
-- [ ] [10430 나머지](https://www.acmicpc.net/problem/10430)
+- [x] [10430 나머지](https://www.acmicpc.net/problem/10430)
 - [ ] [2588 곱셈](https://www.acmicpc.net/problem/2588)
 - [ ] [11382 꼬마 정민](https://www.acmicpc.net/problem/11382)
 - [x] [10171 고양이](https://www.acmicpc.net/problem/10171)

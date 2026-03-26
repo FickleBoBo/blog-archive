@@ -2,7 +2,7 @@
 
 ## 코딩 테스트 준비 - 기초 / 수학
 
-- [ ] [10430 나머지](https://www.acmicpc.net/problem/10430)
+- [x] [10430 나머지](https://www.acmicpc.net/problem/10430)
 - [ ] [4375 1](https://www.acmicpc.net/problem/4375)
 - [ ] [1037 약수](https://www.acmicpc.net/problem/1037)
 - [ ] [17427 약수의 합 2](https://www.acmicpc.net/problem/17427)
@@ -372,7 +372,7 @@
 
 ## 알고리즘 기초 1/2 / 300 - 수학 1
 
-- [ ] [10430 나머지](https://www.acmicpc.net/problem/10430)
+- [x] [10430 나머지](https://www.acmicpc.net/problem/10430)
 - [ ] [2609 최대공약수와 최소공배수](https://www.acmicpc.net/problem/2609)
 - [ ] [1934 최소공배수](https://www.acmicpc.net/problem/1934)
 - [ ] [1978 소수 찾기](https://www.acmicpc.net/problem/1978)
