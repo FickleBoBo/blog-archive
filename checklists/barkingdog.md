@@ -61,7 +61,7 @@
 ## 0x06강 - 큐
 
 - [x] [10845 큐](https://www.acmicpc.net/problem/10845)
-- [ ] [18258 큐 2](https://www.acmicpc.net/problem/18258)
+- [x] [18258 큐 2](https://www.acmicpc.net/problem/18258)
 - [ ] [2164 카드2](https://www.acmicpc.net/problem/2164)
 
 ## 0x07강 - 덱
