@@ -119,7 +119,7 @@
 ## 11단계 - 시간 복잡도
 
 - [x] [24262 알고리즘 수업 - 알고리즘의 수행 시간 1](https://www.acmicpc.net/problem/24262)
-- [ ] [24263 알고리즘 수업 - 알고리즘의 수행 시간 2](https://www.acmicpc.net/problem/24263)
+- [x] [24263 알고리즘 수업 - 알고리즘의 수행 시간 2](https://www.acmicpc.net/problem/24263)
 - [ ] [24264 알고리즘 수업 - 알고리즘의 수행 시간 3](https://www.acmicpc.net/problem/24264)
 - [x] [24265 알고리즘 수업 - 알고리즘의 수행 시간 4](https://www.acmicpc.net/problem/24265)
 - [x] [24266 알고리즘 수업 - 알고리즘의 수행 시간 5](https://www.acmicpc.net/problem/24266)
