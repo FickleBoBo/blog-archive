@@ -297,7 +297,7 @@
 - [ ] [6064 카잉 달력](https://www.acmicpc.net/problem/6064)
 - [ ] [11050 이항 계수 1](https://www.acmicpc.net/problem/11050)
 - [ ] [11051 이항 계수 2](https://www.acmicpc.net/problem/11051)
-- [ ] [15894 수학은 체육과목 입니다](https://www.acmicpc.net/problem/15894)
+- [x] [15894 수학은 체육과목 입니다](https://www.acmicpc.net/problem/15894)
 - [ ] [4796 캠핑](https://www.acmicpc.net/problem/4796)
 - [ ] [2960 에라토스테네스의 체](https://www.acmicpc.net/problem/2960)
 - [ ] [1193 분수찾기](https://www.acmicpc.net/problem/1193)
