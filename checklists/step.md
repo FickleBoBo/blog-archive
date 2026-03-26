@@ -204,7 +204,7 @@
 
 ## 19단계 - 재귀
 
-- [ ] [27433 팩토리얼 2](https://www.acmicpc.net/problem/27433)
+- [x] [27433 팩토리얼 2](https://www.acmicpc.net/problem/27433)
 - [ ] [10870 피보나치 수 5](https://www.acmicpc.net/problem/10870)
 - [ ] [25501 재귀의 귀재](https://www.acmicpc.net/problem/25501)
 - [ ] [24060 알고리즘 수업 - 병합 정렬 1](https://www.acmicpc.net/problem/24060)
