@@ -137,7 +137,7 @@
 
 ## 13단계 - 정렬
 
-- [ ] [2750 수 정렬하기](https://www.acmicpc.net/problem/2750)
+- [x] [2750 수 정렬하기](https://www.acmicpc.net/problem/2750)
 - [ ] [2587 대표값2](https://www.acmicpc.net/problem/2587)
 - [ ] [25305 커트라인](https://www.acmicpc.net/problem/25305)
 - [ ] [2751 수 정렬하기 2](https://www.acmicpc.net/problem/2751)
