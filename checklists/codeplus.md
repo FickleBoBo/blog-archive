@@ -342,7 +342,7 @@
 
 ## 알고리즘 기초 1/2 / 200 - 자료구조 1
 
-- [ ] [10828 스택](https://www.acmicpc.net/problem/10828)
+- [x] [10828 스택](https://www.acmicpc.net/problem/10828)
 - [ ] [9093 단어 뒤집기](https://www.acmicpc.net/problem/9093)
 - [ ] [9012 괄호](https://www.acmicpc.net/problem/9012)
 - [ ] [1874 스택 수열](https://www.acmicpc.net/problem/1874)
