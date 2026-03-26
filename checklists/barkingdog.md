@@ -13,7 +13,7 @@
 - [x] [2480 주사위 세개](https://www.acmicpc.net/problem/2480)
 - [ ] [2490 윷놀이](https://www.acmicpc.net/problem/2490)
 - [ ] [2576 홀수](https://www.acmicpc.net/problem/2576)
-- [ ] [2587 대표값2](https://www.acmicpc.net/problem/2587)
+- [x] [2587 대표값2](https://www.acmicpc.net/problem/2587)
 - [ ] [2309 일곱 난쟁이](https://www.acmicpc.net/problem/2309)
 - [ ] [10093 숫자](https://www.acmicpc.net/problem/10093)
 - [ ] [1267 핸드폰 요금](https://www.acmicpc.net/problem/1267)
