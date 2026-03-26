@@ -14,7 +14,7 @@
 - [ ] [2588 곱셈](https://www.acmicpc.net/problem/2588)
 - [ ] [11382 꼬마 정민](https://www.acmicpc.net/problem/11382)
 - [x] [10171 고양이](https://www.acmicpc.net/problem/10171)
-- [ ] [10172 개](https://www.acmicpc.net/problem/10172)
+- [x] [10172 개](https://www.acmicpc.net/problem/10172)
 
 ## 2단계 - 조건문
 
