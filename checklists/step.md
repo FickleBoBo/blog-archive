@@ -188,7 +188,7 @@
 
 ## 17단계 - 조합론
 
-- [ ] [15439 베라의 패션](https://www.acmicpc.net/problem/15439)
+- [x] [15439 베라의 패션](https://www.acmicpc.net/problem/15439)
 - [ ] [24723 녹색거탑](https://www.acmicpc.net/problem/24723)
 - [x] [10872 팩토리얼](https://www.acmicpc.net/problem/10872)
 - [ ] [11050 이항 계수 1](https://www.acmicpc.net/problem/11050)
