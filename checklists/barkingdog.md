@@ -8,7 +8,7 @@
 - [x] [10171 고양이](https://www.acmicpc.net/problem/10171)
 - [x] [10869 사칙연산](https://www.acmicpc.net/problem/10869)
 - [x] [9498 시험 성적](https://www.acmicpc.net/problem/9498)
-- [ ] [2752 세수정렬](https://www.acmicpc.net/problem/2752)
+- [x] [2752 세수정렬](https://www.acmicpc.net/problem/2752)
 - [x] [2753 윤년](https://www.acmicpc.net/problem/2753)
 - [x] [2480 주사위 세개](https://www.acmicpc.net/problem/2480)
 - [ ] [2490 윷놀이](https://www.acmicpc.net/problem/2490)
