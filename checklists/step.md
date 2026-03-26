@@ -174,7 +174,7 @@
 
 ## 16단계 - 스택, 큐, 덱 1
 
-- [ ] [28278 스택 2](https://www.acmicpc.net/problem/28278)
+- [x] [28278 스택 2](https://www.acmicpc.net/problem/28278)
 - [ ] [10773 제로](https://www.acmicpc.net/problem/10773)
 - [ ] [9012 괄호](https://www.acmicpc.net/problem/9012)
 - [ ] [4949 균형잡힌 세상](https://www.acmicpc.net/problem/4949)
