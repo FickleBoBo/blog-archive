@@ -14,15 +14,11 @@ math: true
 
 ## 1. 아이디어
 
-<br>
-
 두 수의 합을 구하면 되는 간단한 문제다.
 
 ---
 
 ## 2. 코드
-
-<br>
 
 ### 1. 풀이 [Java]
 
@@ -33,8 +29,8 @@ import java.util.*;
 public class Main {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-        StringTokenizer st;
         StringBuilder sb = new StringBuilder();
+        StringTokenizer st;
 
         int t = Integer.parseInt(br.readLine());
         while (t-- > 0) {
@@ -48,8 +44,6 @@ public class Main {
     }
 }
 ```
-
-<br>
 
 ### 2. 풀이 [C++]
 
@@ -74,17 +68,7 @@ int main() {
 
 ---
 
-## 3. 디버깅
-
-<br>
-
-없음.
-
----
-
-## 4. 참고
-
-<br>
+## 3. 리뷰
 
 없음.
 
