@@ -10,7 +10,7 @@
 - [ ] [9498 시험 성적](https://www.acmicpc.net/problem/9498)
 - [ ] [2752 세수정렬](https://www.acmicpc.net/problem/2752)
 - [ ] [2753 윤년](https://www.acmicpc.net/problem/2753)
-- [ ] [2480 주사위 세개](https://www.acmicpc.net/problem/2480)
+- [x] [2480 주사위 세개](https://www.acmicpc.net/problem/2480)
 - [ ] [2490 윷놀이](https://www.acmicpc.net/problem/2490)
 - [ ] [2576 홀수](https://www.acmicpc.net/problem/2576)
 - [ ] [2587 대표값2](https://www.acmicpc.net/problem/2587)
