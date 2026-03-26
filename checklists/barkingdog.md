@@ -265,7 +265,7 @@
 - [ ] [9465 스티커](https://www.acmicpc.net/problem/9465)
 - [ ] [11057 오르막 수](https://www.acmicpc.net/problem/11057)
 - [ ] [2293 동전 1](https://www.acmicpc.net/problem/2293)
-- [ ] [1904 01타일](https://www.acmicpc.net/problem/1904)
+- [x] [1904 01타일](https://www.acmicpc.net/problem/1904)
 - [ ] [1788 피보나치 수의 확장](https://www.acmicpc.net/problem/1788)
 - [ ] [4883 삼각 그래프](https://www.acmicpc.net/problem/4883)
 
