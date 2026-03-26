@@ -636,7 +636,7 @@
 - [ ] [11651 좌표 정렬하기 2](https://www.acmicpc.net/problem/11651)
 - [ ] [10814 나이순 정렬](https://www.acmicpc.net/problem/10814)
 - [ ] [10825 국영수](https://www.acmicpc.net/problem/10825)
-- [ ] [10989 수 정렬하기 3](https://www.acmicpc.net/problem/10989)
+- [x] [10989 수 정렬하기 3](https://www.acmicpc.net/problem/10989)
 - [ ] [11652 카드](https://www.acmicpc.net/problem/11652)
 - [ ] [1377 버블 소트](https://www.acmicpc.net/problem/1377)
 
