@@ -670,7 +670,7 @@
 
 ## A×B
 
-- [ ] [10998 A×B](https://www.acmicpc.net/problem/10998)
+- [x] [10998 A×B](https://www.acmicpc.net/problem/10998)
 - [ ] [13277 큰 수 곱셈](https://www.acmicpc.net/problem/13277)
 - [ ] [15576 큰 수 곱셈 (2)](https://www.acmicpc.net/problem/15576)
 - [ ] [22289 큰 수 곱셈 (3)](https://www.acmicpc.net/problem/22289)

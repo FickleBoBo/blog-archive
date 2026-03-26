@@ -5,7 +5,7 @@
 - [ ] [2557 Hello World](https://www.acmicpc.net/problem/2557)
 - [x] [1000 A+B](https://www.acmicpc.net/problem/1000)
 - [x] [1001 A-B](https://www.acmicpc.net/problem/1001)
-- [ ] [10998 A×B](https://www.acmicpc.net/problem/10998)
+- [x] [10998 A×B](https://www.acmicpc.net/problem/10998)
 - [x] [1008 A/B](https://www.acmicpc.net/problem/1008)
 - [x] [10869 사칙연산](https://www.acmicpc.net/problem/10869)
 - [x] [10926 ??!](https://www.acmicpc.net/problem/10926)
