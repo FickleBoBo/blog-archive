@@ -310,7 +310,7 @@
 - [ ] [6359 만취한 상범](https://www.acmicpc.net/problem/6359)
 - [ ] [10250 ACM 호텔](https://www.acmicpc.net/problem/10250)
 - [ ] [1456 거의 소수](https://www.acmicpc.net/problem/1456)
-- [ ] [2839 설탕 배달](https://www.acmicpc.net/problem/2839)
+- [x] [2839 설탕 배달](https://www.acmicpc.net/problem/2839)
 - [ ] [17103 골드바흐 파티션](https://www.acmicpc.net/problem/17103)
 - [ ] [2312 수 복원하기](https://www.acmicpc.net/problem/2312)
 - [ ] [9020 골드바흐의 추측](https://www.acmicpc.net/problem/9020)
