@@ -677,7 +677,7 @@
 
 ## 큰 수 연산
 
-- [ ] [10757 큰 수 A+B](https://www.acmicpc.net/problem/10757)
+- [x] [10757 큰 수 A+B](https://www.acmicpc.net/problem/10757)
 - [ ] [15353 큰 수 A+B (2)](https://www.acmicpc.net/problem/15353)
 - [ ] [13277 큰 수 곱셈](https://www.acmicpc.net/problem/13277)
 - [ ] [15576 큰 수 곱셈 (2)](https://www.acmicpc.net/problem/15576)
