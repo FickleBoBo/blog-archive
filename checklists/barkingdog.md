@@ -66,7 +66,7 @@
 
 ## 0x07강 - 덱
 
-- [ ] [10866 덱](https://www.acmicpc.net/problem/10866)
+- [x] [10866 덱](https://www.acmicpc.net/problem/10866)
 - [ ] [1021 회전하는 큐](https://www.acmicpc.net/problem/1021)
 - [ ] [5430 AC](https://www.acmicpc.net/problem/5430)
 - [ ] [11003 최솟값 찾기](https://www.acmicpc.net/problem/11003)
