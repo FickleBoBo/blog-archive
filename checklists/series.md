@@ -411,7 +411,7 @@
 - [ ] [13549 숨바꼭질 3](https://www.acmicpc.net/problem/13549)
 - [ ] [13913 숨바꼭질 4](https://www.acmicpc.net/problem/13913)
 - [ ] [17071 숨바꼭질 5](https://www.acmicpc.net/problem/17071)
-- [ ] [17087 숨바꼭질 6](https://www.acmicpc.net/problem/17087)
+- [x] [17087 숨바꼭질 6](https://www.acmicpc.net/problem/17087)
 
 ## 구슬 탈출
 
