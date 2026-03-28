@@ -31,7 +31,7 @@
 - [ ] [2739 구구단](https://www.acmicpc.net/problem/2739)
 - [x] [10950 A+B - 3](https://www.acmicpc.net/problem/10950)
 - [ ] [8393 합](https://www.acmicpc.net/problem/8393)
-- [ ] [25304 영수증](https://www.acmicpc.net/problem/25304)
+- [x] [25304 영수증](https://www.acmicpc.net/problem/25304)
 - [ ] [25314 코딩은 체육과목 입니다](https://www.acmicpc.net/problem/25314)
 - [x] [15552 빠른 A+B](https://www.acmicpc.net/problem/15552)
 - [x] [11021 A+B - 7](https://www.acmicpc.net/problem/11021)
