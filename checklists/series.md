@@ -87,7 +87,7 @@
 - [ ] [10992 별 찍기 - 17](https://www.acmicpc.net/problem/10992)
 - [ ] [10993 별 찍기 - 18](https://www.acmicpc.net/problem/10993)
 - [ ] [10994 별 찍기 - 19](https://www.acmicpc.net/problem/10994)
-- [ ] [10995 별 찍기 - 20](https://www.acmicpc.net/problem/10995)
+- [x] [10995 별 찍기 - 20](https://www.acmicpc.net/problem/10995)
 - [ ] [10996 별 찍기 - 21](https://www.acmicpc.net/problem/10996)
 - [ ] [10997 별 찍기 - 22](https://www.acmicpc.net/problem/10997)
 - [ ] [13015 별 찍기 - 23](https://www.acmicpc.net/problem/13015)
