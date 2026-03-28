@@ -28,7 +28,7 @@
 
 ## 3단계 - 반복문
 
-- [ ] [2739 구구단](https://www.acmicpc.net/problem/2739)
+- [x] [2739 구구단](https://www.acmicpc.net/problem/2739)
 - [x] [10950 A+B - 3](https://www.acmicpc.net/problem/10950)
 - [ ] [8393 합](https://www.acmicpc.net/problem/8393)
 - [x] [25304 영수증](https://www.acmicpc.net/problem/25304)
