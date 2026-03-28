@@ -23,7 +23,7 @@
 - [x] [2439 별 찍기 - 2](https://www.acmicpc.net/problem/2439)
 - [x] [2440 별 찍기 - 3](https://www.acmicpc.net/problem/2440)
 - [x] [2441 별 찍기 - 4](https://www.acmicpc.net/problem/2441)
-- [ ] [2442 별 찍기 - 5](https://www.acmicpc.net/problem/2442)
+- [x] [2442 별 찍기 - 5](https://www.acmicpc.net/problem/2442)
 - [ ] [2443 별 찍기 - 6](https://www.acmicpc.net/problem/2443)
 - [ ] [2444 별 찍기 - 7](https://www.acmicpc.net/problem/2444)
 - [ ] [2445 별 찍기 - 8](https://www.acmicpc.net/problem/2445)
