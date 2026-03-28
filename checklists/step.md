@@ -162,7 +162,7 @@
 
 ## 15단계 - 약수, 배수와 소수 2
 
-- [ ] [1934 최소공배수](https://www.acmicpc.net/problem/1934)
+- [x] [1934 최소공배수](https://www.acmicpc.net/problem/1934)
 - [x] [13241 최소공배수](https://www.acmicpc.net/problem/13241)
 - [x] [1735 분수 합](https://www.acmicpc.net/problem/1735)
 - [ ] [2485 가로수](https://www.acmicpc.net/problem/2485)
