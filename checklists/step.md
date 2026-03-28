@@ -39,7 +39,7 @@
 - [ ] [2438 별 찍기 - 1](https://www.acmicpc.net/problem/2438)
 - [ ] [2439 별 찍기 - 2](https://www.acmicpc.net/problem/2439)
 - [ ] [10952 A+B - 5](https://www.acmicpc.net/problem/10952)
-- [ ] [10951 A+B - 4](https://www.acmicpc.net/problem/10951)
+- [x] [10951 A+B - 4](https://www.acmicpc.net/problem/10951)
 
 ## 4단계 - 1차원 배열
 
