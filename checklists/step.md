@@ -35,7 +35,7 @@
 - [ ] [25314 코딩은 체육과목 입니다](https://www.acmicpc.net/problem/25314)
 - [ ] [15552 빠른 A+B](https://www.acmicpc.net/problem/15552)
 - [x] [11021 A+B - 7](https://www.acmicpc.net/problem/11021)
-- [ ] [11022 A+B - 8](https://www.acmicpc.net/problem/11022)
+- [x] [11022 A+B - 8](https://www.acmicpc.net/problem/11022)
 - [ ] [2438 별 찍기 - 1](https://www.acmicpc.net/problem/2438)
 - [ ] [2439 별 찍기 - 2](https://www.acmicpc.net/problem/2439)
 - [x] [10952 A+B - 5](https://www.acmicpc.net/problem/10952)
