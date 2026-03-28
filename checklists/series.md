@@ -80,7 +80,7 @@
 - [ ] [2447 별 찍기 - 10](https://www.acmicpc.net/problem/2447)
 - [ ] [2448 별 찍기 - 11](https://www.acmicpc.net/problem/2448)
 - [x] [2522 별 찍기 - 12](https://www.acmicpc.net/problem/2522)
-- [ ] [2523 별 찍기 - 13](https://www.acmicpc.net/problem/2523)
+- [x] [2523 별 찍기 - 13](https://www.acmicpc.net/problem/2523)
 - [ ] [2556 별 찍기 - 14](https://www.acmicpc.net/problem/2556)
 - [x] [10990 별 찍기 - 15](https://www.acmicpc.net/problem/10990)
 - [x] [10991 별 찍기 - 16](https://www.acmicpc.net/problem/10991)
