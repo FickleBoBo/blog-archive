@@ -314,7 +314,7 @@
 - [ ] [17103 골드바흐 파티션](https://www.acmicpc.net/problem/17103)
 - [ ] [2312 수 복원하기](https://www.acmicpc.net/problem/2312)
 - [ ] [9020 골드바흐의 추측](https://www.acmicpc.net/problem/9020)
-- [ ] [5347 LCM](https://www.acmicpc.net/problem/5347)
+- [x] [5347 LCM](https://www.acmicpc.net/problem/5347)
 - [ ] [1476 날짜 계산](https://www.acmicpc.net/problem/1476)
 - [ ] [1011 Fly me to the Alpha Centauri](https://www.acmicpc.net/problem/1011)
 - [ ] [1038 감소하는 수](https://www.acmicpc.net/problem/1038)
