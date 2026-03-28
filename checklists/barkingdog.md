@@ -323,7 +323,7 @@
 - [ ] [1292 쉽게 푸는 문제](https://www.acmicpc.net/problem/1292)
 - [ ] [1790 수 이어 쓰기 2](https://www.acmicpc.net/problem/1790)
 - [ ] [3036 링](https://www.acmicpc.net/problem/3036)
-- [ ] [1735 분수 합](https://www.acmicpc.net/problem/1735)
+- [x] [1735 분수 합](https://www.acmicpc.net/problem/1735)
 - [ ] [3343 장미](https://www.acmicpc.net/problem/3343)
 - [ ] [1963 소수 경로](https://www.acmicpc.net/problem/1963)
 - [ ] [1747 소수&팰린드롬](https://www.acmicpc.net/problem/1747)

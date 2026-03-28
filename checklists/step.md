@@ -164,7 +164,7 @@
 
 - [ ] [1934 최소공배수](https://www.acmicpc.net/problem/1934)
 - [x] [13241 최소공배수](https://www.acmicpc.net/problem/13241)
-- [ ] [1735 분수 합](https://www.acmicpc.net/problem/1735)
+- [x] [1735 분수 합](https://www.acmicpc.net/problem/1735)
 - [ ] [2485 가로수](https://www.acmicpc.net/problem/2485)
 - [ ] [4134 다음 소수](https://www.acmicpc.net/problem/4134)
 - [ ] [1929 소수 구하기](https://www.acmicpc.net/problem/1929)
