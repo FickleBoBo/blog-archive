@@ -122,7 +122,7 @@
 
 - [x] [1000 A+B](https://www.acmicpc.net/problem/1000)
 - [ ] [2558 A+B - 2](https://www.acmicpc.net/problem/2558)
-- [ ] [10950 A+B - 3](https://www.acmicpc.net/problem/10950)
+- [x] [10950 A+B - 3](https://www.acmicpc.net/problem/10950)
 - [ ] [10951 A+B - 4](https://www.acmicpc.net/problem/10951)
 - [ ] [10952 A+B - 5](https://www.acmicpc.net/problem/10952)
 - [ ] [10953 A+B - 6](https://www.acmicpc.net/problem/10953)

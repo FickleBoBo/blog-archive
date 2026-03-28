@@ -29,7 +29,7 @@
 ## 3단계 - 반복문
 
 - [ ] [2739 구구단](https://www.acmicpc.net/problem/2739)
-- [ ] [10950 A+B - 3](https://www.acmicpc.net/problem/10950)
+- [x] [10950 A+B - 3](https://www.acmicpc.net/problem/10950)
 - [ ] [8393 합](https://www.acmicpc.net/problem/8393)
 - [ ] [25304 영수증](https://www.acmicpc.net/problem/25304)
 - [ ] [25314 코딩은 체육과목 입니다](https://www.acmicpc.net/problem/25314)
