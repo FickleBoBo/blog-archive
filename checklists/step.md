@@ -37,7 +37,7 @@
 - [x] [11021 A+B - 7](https://www.acmicpc.net/problem/11021)
 - [x] [11022 A+B - 8](https://www.acmicpc.net/problem/11022)
 - [x] [2438 별 찍기 - 1](https://www.acmicpc.net/problem/2438)
-- [ ] [2439 별 찍기 - 2](https://www.acmicpc.net/problem/2439)
+- [x] [2439 별 찍기 - 2](https://www.acmicpc.net/problem/2439)
 - [x] [10952 A+B - 5](https://www.acmicpc.net/problem/10952)
 - [x] [10951 A+B - 4](https://www.acmicpc.net/problem/10951)
 

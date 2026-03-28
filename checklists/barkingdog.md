@@ -20,7 +20,7 @@
 - [x] [10804 카드 역배치](https://www.acmicpc.net/problem/10804)
 - [x] [15552 빠른 A+B](https://www.acmicpc.net/problem/15552)
 - [x] [2438 별 찍기 - 1](https://www.acmicpc.net/problem/2438)
-- [ ] [2439 별 찍기 - 2](https://www.acmicpc.net/problem/2439)
+- [x] [2439 별 찍기 - 2](https://www.acmicpc.net/problem/2439)
 - [ ] [2440 별 찍기 - 3](https://www.acmicpc.net/problem/2440)
 - [ ] [2441 별 찍기 - 4](https://www.acmicpc.net/problem/2441)
 - [ ] [2442 별 찍기 - 5](https://www.acmicpc.net/problem/2442)
