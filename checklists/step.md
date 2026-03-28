@@ -44,7 +44,7 @@
 ## 4단계 - 1차원 배열
 
 - [x] [10807 개수 세기](https://www.acmicpc.net/problem/10807)
-- [ ] [10871 X보다 작은 수](https://www.acmicpc.net/problem/10871)
+- [x] [10871 X보다 작은 수](https://www.acmicpc.net/problem/10871)
 - [x] [10818 최소, 최대](https://www.acmicpc.net/problem/10818)
 - [ ] [2562 최댓값](https://www.acmicpc.net/problem/2562)
 - [x] [10810 공 넣기](https://www.acmicpc.net/problem/10810)
