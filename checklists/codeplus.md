@@ -596,7 +596,7 @@
 - [ ] [1541 잃어버린 괄호](https://www.acmicpc.net/problem/1541)
 - [ ] [1744 수 묶기](https://www.acmicpc.net/problem/1744)
 - [ ] [2875 대회 or 인턴](https://www.acmicpc.net/problem/2875)
-- [ ] [10610 30](https://www.acmicpc.net/problem/10610)
+- [x] [10610 30](https://www.acmicpc.net/problem/10610)
 - [ ] [1783 병든 나이트](https://www.acmicpc.net/problem/1783)
 - [ ] [12970 AB](https://www.acmicpc.net/problem/12970)
 - [ ] [12904 A와 B](https://www.acmicpc.net/problem/12904)

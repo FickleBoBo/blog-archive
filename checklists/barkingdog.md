@@ -306,7 +306,7 @@
 - [x] [9613 GCD 합](https://www.acmicpc.net/problem/9613)
 - [ ] [2292 벌집](https://www.acmicpc.net/problem/2292)
 - [ ] [2869 달팽이는 올라가고 싶다](https://www.acmicpc.net/problem/2869)
-- [ ] [10610 30](https://www.acmicpc.net/problem/10610)
+- [x] [10610 30](https://www.acmicpc.net/problem/10610)
 - [ ] [6359 만취한 상범](https://www.acmicpc.net/problem/6359)
 - [ ] [10250 ACM 호텔](https://www.acmicpc.net/problem/10250)
 - [ ] [1456 거의 소수](https://www.acmicpc.net/problem/1456)
