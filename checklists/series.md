@@ -635,7 +635,7 @@
 
 ## 색종이
 
-- [ ] [2563 색종이](https://www.acmicpc.net/problem/2563)
+- [x] [2563 색종이](https://www.acmicpc.net/problem/2563)
 - [ ] [2567 색종이 - 2](https://www.acmicpc.net/problem/2567)
 - [ ] [2571 색종이 - 3](https://www.acmicpc.net/problem/2571)
 
