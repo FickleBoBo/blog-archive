@@ -88,7 +88,7 @@
 - [ ] [1697 숨바꼭질](https://www.acmicpc.net/problem/1697)
 - [x] [1012 유기농 배추](https://www.acmicpc.net/problem/1012)
 - [x] [10026 적록색약](https://www.acmicpc.net/problem/10026)
-- [ ] [7569 토마토](https://www.acmicpc.net/problem/7569)
+- [x] [7569 토마토](https://www.acmicpc.net/problem/7569)
 - [x] [7562 나이트의 이동](https://www.acmicpc.net/problem/7562)
 - [x] [5427 불](https://www.acmicpc.net/problem/5427)
 - [x] [2583 영역 구하기](https://www.acmicpc.net/problem/2583)
