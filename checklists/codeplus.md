@@ -734,7 +734,7 @@
 - [ ] [6549 히스토그램에서 가장 큰 직사각형](https://www.acmicpc.net/problem/6549)
 - [ ] [3015 오아시스 재결합](https://www.acmicpc.net/problem/3015)
 - [ ] [1717 집합의 표현](https://www.acmicpc.net/problem/1717)
-- [ ] [2606 바이러스](https://www.acmicpc.net/problem/2606)
+- [x] [2606 바이러스](https://www.acmicpc.net/problem/2606)
 - [ ] [11279 최대 힙](https://www.acmicpc.net/problem/11279)
 - [ ] [1927 최소 힙](https://www.acmicpc.net/problem/1927)
 - [ ] [1655 가운데를 말해요](https://www.acmicpc.net/problem/1655)

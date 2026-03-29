@@ -406,7 +406,7 @@
 
 - [ ] [11724 연결 요소의 개수](https://www.acmicpc.net/problem/11724)
 - [x] [1260 DFS와 BFS](https://www.acmicpc.net/problem/1260)
-- [ ] [2606 바이러스](https://www.acmicpc.net/problem/2606)
+- [x] [2606 바이러스](https://www.acmicpc.net/problem/2606)
 - [ ] [5567 결혼식](https://www.acmicpc.net/problem/5567)
 - [ ] [11403 경로 찾기](https://www.acmicpc.net/problem/11403)
 - [ ] [2660 회장뽑기](https://www.acmicpc.net/problem/2660)
