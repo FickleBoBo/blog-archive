@@ -109,7 +109,7 @@
 - [ ] [11967 불켜기](https://www.acmicpc.net/problem/11967)
 - [ ] [17071 숨바꼭질 5](https://www.acmicpc.net/problem/17071)
 - [x] [9328 열쇠](https://www.acmicpc.net/problem/9328)
-- [ ] [3197 백조의 호수](https://www.acmicpc.net/problem/3197)
+- [x] [3197 백조의 호수](https://www.acmicpc.net/problem/3197)
 - [ ] [20304 비밀번호 제작](https://www.acmicpc.net/problem/20304)
 
 ## 0x0B강 - 재귀

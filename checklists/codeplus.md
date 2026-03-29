@@ -907,7 +907,7 @@
 - [ ] [16959 체스판 여행 1](https://www.acmicpc.net/problem/16959)
 - [ ] [16952 체스판 여행 2](https://www.acmicpc.net/problem/16952)
 - [ ] [12851 숨바꼭질 2](https://www.acmicpc.net/problem/12851)
-- [ ] [3197 백조의 호수](https://www.acmicpc.net/problem/3197)
+- [x] [3197 백조의 호수](https://www.acmicpc.net/problem/3197)
 - [x] [9328 열쇠](https://www.acmicpc.net/problem/9328)
 - [ ] [16920 확장 게임](https://www.acmicpc.net/problem/16920)
 - [ ] [15653 구슬 탈출 4](https://www.acmicpc.net/problem/15653)
