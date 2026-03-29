@@ -66,7 +66,7 @@
 - [x] [1152 단어의 개수](https://www.acmicpc.net/problem/1152)
 - [ ] [2908 상수](https://www.acmicpc.net/problem/2908)
 - [ ] [5622 다이얼](https://www.acmicpc.net/problem/5622)
-- [ ] [11718 그대로 출력하기](https://www.acmicpc.net/problem/11718)
+- [x] [11718 그대로 출력하기](https://www.acmicpc.net/problem/11718)
 
 ## 6단계 - 심화 1
 
