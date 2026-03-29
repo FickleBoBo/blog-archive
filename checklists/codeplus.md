@@ -564,7 +564,7 @@
 
 - [ ] [16928 뱀과 사다리 게임](https://www.acmicpc.net/problem/16928)
 - [ ] [16948 데스 나이트](https://www.acmicpc.net/problem/16948)
-- [ ] [9019 DSLR](https://www.acmicpc.net/problem/9019)
+- [x] [9019 DSLR](https://www.acmicpc.net/problem/9019)
 - [ ] [14502 연구소](https://www.acmicpc.net/problem/14502)
 - [ ] [12886 돌 그룹](https://www.acmicpc.net/problem/12886)
 - [ ] [2206 벽 부수고 이동하기](https://www.acmicpc.net/problem/2206)
