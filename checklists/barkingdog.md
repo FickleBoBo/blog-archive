@@ -96,7 +96,7 @@
 - [x] [5014 스타트링크](https://www.acmicpc.net/problem/5014)
 - [x] [2468 안전 영역](https://www.acmicpc.net/problem/2468)
 - [x] [6593 상범 빌딩](https://www.acmicpc.net/problem/6593)
-- [ ] [2206 벽 부수고 이동하기](https://www.acmicpc.net/problem/2206)
+- [x] [2206 벽 부수고 이동하기](https://www.acmicpc.net/problem/2206)
 - [ ] [9466 텀 프로젝트](https://www.acmicpc.net/problem/9466)
 - [ ] [2573 빙산](https://www.acmicpc.net/problem/2573)
 - [ ] [2146 다리 만들기](https://www.acmicpc.net/problem/2146)

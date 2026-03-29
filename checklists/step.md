@@ -306,7 +306,7 @@
 - [x] [7576 토마토](https://www.acmicpc.net/problem/7576)
 - [x] [7569 토마토](https://www.acmicpc.net/problem/7569)
 - [ ] [16928 뱀과 사다리 게임](https://www.acmicpc.net/problem/16928)
-- [ ] [2206 벽 부수고 이동하기](https://www.acmicpc.net/problem/2206)
+- [x] [2206 벽 부수고 이동하기](https://www.acmicpc.net/problem/2206)
 - [ ] [1707 이분 그래프](https://www.acmicpc.net/problem/1707)
 
 ## 28단계 - 위상 정렬
