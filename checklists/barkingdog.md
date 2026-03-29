@@ -90,7 +90,7 @@
 - [x] [10026 적록색약](https://www.acmicpc.net/problem/10026)
 - [ ] [7569 토마토](https://www.acmicpc.net/problem/7569)
 - [x] [7562 나이트의 이동](https://www.acmicpc.net/problem/7562)
-- [ ] [5427 불](https://www.acmicpc.net/problem/5427)
+- [x] [5427 불](https://www.acmicpc.net/problem/5427)
 - [x] [2583 영역 구하기](https://www.acmicpc.net/problem/2583)
 - [x] [2667 단지번호붙이기](https://www.acmicpc.net/problem/2667)
 - [x] [5014 스타트링크](https://www.acmicpc.net/problem/5014)
