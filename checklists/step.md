@@ -295,7 +295,7 @@
 - [ ] [24479 알고리즘 수업 - 깊이 우선 탐색 1](https://www.acmicpc.net/problem/24479)
 - [ ] [24480 알고리즘 수업 - 깊이 우선 탐색 2](https://www.acmicpc.net/problem/24480)
 - [x] [24444 알고리즘 수업 - 너비 우선 탐색 1](https://www.acmicpc.net/problem/24444)
-- [ ] [24445 알고리즘 수업 - 너비 우선 탐색 2](https://www.acmicpc.net/problem/24445)
+- [x] [24445 알고리즘 수업 - 너비 우선 탐색 2](https://www.acmicpc.net/problem/24445)
 - [x] [2606 바이러스](https://www.acmicpc.net/problem/2606)
 - [x] [1260 DFS와 BFS](https://www.acmicpc.net/problem/1260)
 - [x] [2667 단지번호붙이기](https://www.acmicpc.net/problem/2667)
