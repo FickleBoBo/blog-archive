@@ -191,7 +191,7 @@
 - [ ] [1963 소수 경로](https://www.acmicpc.net/problem/1963)
 - [x] [10026 적록색약](https://www.acmicpc.net/problem/10026)
 - [ ] [14395 4연산](https://www.acmicpc.net/problem/14395)
-- [ ] [5014 스타트링크](https://www.acmicpc.net/problem/5014)
+- [x] [5014 스타트링크](https://www.acmicpc.net/problem/5014)
 - [ ] [9376 탈옥](https://www.acmicpc.net/problem/9376)
 - [ ] [1600 말이 되고픈 원숭이](https://www.acmicpc.net/problem/1600)
 - [ ] [17086 아기 상어 2](https://www.acmicpc.net/problem/17086)
@@ -715,7 +715,7 @@
 ## 알고리즘 중급 2/3 / 612 - BFS (연습 2)
 
 - [ ] [16956 늑대와 양](https://www.acmicpc.net/problem/16956)
-- [ ] [5014 스타트링크](https://www.acmicpc.net/problem/5014)
+- [x] [5014 스타트링크](https://www.acmicpc.net/problem/5014)
 - [ ] [9376 탈옥](https://www.acmicpc.net/problem/9376)
 - [ ] [2251 물통](https://www.acmicpc.net/problem/2251)
 - [ ] [16932 모양 만들기](https://www.acmicpc.net/problem/16932)
