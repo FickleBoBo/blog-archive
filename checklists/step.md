@@ -108,7 +108,7 @@
 ## 10단계 - 기하 1: 직사각형과 삼각형
 
 - [ ] [27323 직사각형](https://www.acmicpc.net/problem/27323)
-- [ ] [1085 직사각형에서 탈출](https://www.acmicpc.net/problem/1085)
+- [x] [1085 직사각형에서 탈출](https://www.acmicpc.net/problem/1085)
 - [ ] [3009 네 번째 점](https://www.acmicpc.net/problem/3009)
 - [x] [15894 수학은 체육과목 입니다](https://www.acmicpc.net/problem/15894)
 - [ ] [9063 대지](https://www.acmicpc.net/problem/9063)
