@@ -341,7 +341,7 @@
 ## 벽 부수고 이동하기
 
 - [ ] [2206 벽 부수고 이동하기](https://www.acmicpc.net/problem/2206)
-- [ ] [14442 벽 부수고 이동하기 2](https://www.acmicpc.net/problem/14442)
+- [x] [14442 벽 부수고 이동하기 2](https://www.acmicpc.net/problem/14442)
 - [ ] [16933 벽 부수고 이동하기 3](https://www.acmicpc.net/problem/16933)
 - [ ] [16946 벽 부수고 이동하기 4](https://www.acmicpc.net/problem/16946)
 
