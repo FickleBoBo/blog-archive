@@ -270,7 +270,7 @@
 - [ ] [15684 사다리 조작](https://www.acmicpc.net/problem/15684)
 - [ ] [4902 삼각형의 값](https://www.acmicpc.net/problem/4902)
 - [ ] [16945 매직 스퀘어로 변경하기](https://www.acmicpc.net/problem/16945)
-- [ ] [16953 A → B](https://www.acmicpc.net/problem/16953)
+- [x] [16953 A → B](https://www.acmicpc.net/problem/16953)
 - [ ] [17136 색종이 붙이기](https://www.acmicpc.net/problem/17136)
 - [ ] [17471 게리맨더링](https://www.acmicpc.net/problem/17471)
 
@@ -690,7 +690,7 @@
 - [ ] [15684 사다리 조작](https://www.acmicpc.net/problem/15684)
 - [ ] [4902 삼각형의 값](https://www.acmicpc.net/problem/4902)
 - [ ] [16945 매직 스퀘어로 변경하기](https://www.acmicpc.net/problem/16945)
-- [ ] [16953 A → B](https://www.acmicpc.net/problem/16953)
+- [x] [16953 A → B](https://www.acmicpc.net/problem/16953)
 
 ## 알고리즘 중급 2/3 / 552 - 브루트 포스 - 문제 (도전)
 
