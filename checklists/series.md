@@ -254,7 +254,7 @@
 - [ ] [24429 알고리즘 수업 - 행렬 경로 문제 6](https://www.acmicpc.net/problem/24429)
 - [ ] [24430 알고리즘 수업 - 행렬 경로 문제 7](https://www.acmicpc.net/problem/24430)
 - [ ] [24443 알고리즘 수업 - 선택 알고리즘 4](https://www.acmicpc.net/problem/24443)
-- [ ] [24444 알고리즘 수업 - 너비 우선 탐색 1](https://www.acmicpc.net/problem/24444)
+- [x] [24444 알고리즘 수업 - 너비 우선 탐색 1](https://www.acmicpc.net/problem/24444)
 - [ ] [24445 알고리즘 수업 - 너비 우선 탐색 2](https://www.acmicpc.net/problem/24445)
 - [ ] [24446 알고리즘 수업 - 너비 우선 탐색 3](https://www.acmicpc.net/problem/24446)
 - [ ] [24447 알고리즘 수업 - 너비 우선 탐색 4](https://www.acmicpc.net/problem/24447)
