@@ -56,7 +56,7 @@
 
 ## 5단계 - 문자열
 
-- [ ] [27866 문자와 문자열](https://www.acmicpc.net/problem/27866)
+- [x] [27866 문자와 문자열](https://www.acmicpc.net/problem/27866)
 - [x] [2743 단어 길이 재기](https://www.acmicpc.net/problem/2743)
 - [ ] [9086 문자열](https://www.acmicpc.net/problem/9086)
 - [x] [11654 아스키 코드](https://www.acmicpc.net/problem/11654)
