@@ -102,7 +102,7 @@
 - [ ] [11724 연결 요소의 개수](https://www.acmicpc.net/problem/11724)
 - [ ] [1707 이분 그래프](https://www.acmicpc.net/problem/1707)
 - [ ] [2667 단지번호붙이기](https://www.acmicpc.net/problem/2667)
-- [ ] [2178 미로 탐색](https://www.acmicpc.net/problem/2178)
+- [x] [2178 미로 탐색](https://www.acmicpc.net/problem/2178)
 - [ ] [7576 토마토](https://www.acmicpc.net/problem/7576)
 - [ ] [7562 나이트의 이동](https://www.acmicpc.net/problem/7562)
 
@@ -496,7 +496,7 @@
 - [ ] [1707 이분 그래프](https://www.acmicpc.net/problem/1707)
 - [ ] [2667 단지번호붙이기](https://www.acmicpc.net/problem/2667)
 - [ ] [4963 섬의 개수](https://www.acmicpc.net/problem/4963)
-- [ ] [2178 미로 탐색](https://www.acmicpc.net/problem/2178)
+- [x] [2178 미로 탐색](https://www.acmicpc.net/problem/2178)
 - [ ] [7576 토마토](https://www.acmicpc.net/problem/7576)
 - [ ] [7562 나이트의 이동](https://www.acmicpc.net/problem/7562)
 
