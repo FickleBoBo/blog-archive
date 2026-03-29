@@ -409,7 +409,7 @@
 - [ ] [1697 숨바꼭질](https://www.acmicpc.net/problem/1697)
 - [x] [12851 숨바꼭질 2](https://www.acmicpc.net/problem/12851)
 - [ ] [13549 숨바꼭질 3](https://www.acmicpc.net/problem/13549)
-- [ ] [13913 숨바꼭질 4](https://www.acmicpc.net/problem/13913)
+- [x] [13913 숨바꼭질 4](https://www.acmicpc.net/problem/13913)
 - [ ] [17071 숨바꼭질 5](https://www.acmicpc.net/problem/17071)
 - [x] [17087 숨바꼭질 6](https://www.acmicpc.net/problem/17087)
 

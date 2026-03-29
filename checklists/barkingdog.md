@@ -102,7 +102,7 @@
 - [ ] [2146 다리 만들기](https://www.acmicpc.net/problem/2146)
 - [ ] [13549 숨바꼭질 3](https://www.acmicpc.net/problem/13549)
 - [x] [1600 말이 되고픈 원숭이](https://www.acmicpc.net/problem/1600)
-- [ ] [13913 숨바꼭질 4](https://www.acmicpc.net/problem/13913)
+- [x] [13913 숨바꼭질 4](https://www.acmicpc.net/problem/13913)
 - [x] [14442 벽 부수고 이동하기 2](https://www.acmicpc.net/problem/14442)
 - [x] [16933 벽 부수고 이동하기 3](https://www.acmicpc.net/problem/16933)
 - [ ] [16920 확장 게임](https://www.acmicpc.net/problem/16920)
