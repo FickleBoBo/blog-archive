@@ -104,7 +104,7 @@
 - [x] [1600 말이 되고픈 원숭이](https://www.acmicpc.net/problem/1600)
 - [ ] [13913 숨바꼭질 4](https://www.acmicpc.net/problem/13913)
 - [x] [14442 벽 부수고 이동하기 2](https://www.acmicpc.net/problem/14442)
-- [ ] [16933 벽 부수고 이동하기 3](https://www.acmicpc.net/problem/16933)
+- [x] [16933 벽 부수고 이동하기 3](https://www.acmicpc.net/problem/16933)
 - [ ] [16920 확장 게임](https://www.acmicpc.net/problem/16920)
 - [ ] [11967 불켜기](https://www.acmicpc.net/problem/11967)
 - [ ] [17071 숨바꼭질 5](https://www.acmicpc.net/problem/17071)
