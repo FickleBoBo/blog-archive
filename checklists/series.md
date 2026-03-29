@@ -406,7 +406,7 @@
 
 ## 숨바꼭질
 
-- [ ] [1697 숨바꼭질](https://www.acmicpc.net/problem/1697)
+- [x] [1697 숨바꼭질](https://www.acmicpc.net/problem/1697)
 - [x] [12851 숨바꼭질 2](https://www.acmicpc.net/problem/12851)
 - [ ] [13549 숨바꼭질 3](https://www.acmicpc.net/problem/13549)
 - [x] [13913 숨바꼭질 4](https://www.acmicpc.net/problem/13913)

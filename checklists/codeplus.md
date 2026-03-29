@@ -108,7 +108,7 @@
 
 ## 코딩 테스트 준비 - 기초 / BFS
 
-- [ ] [1697 숨바꼭질](https://www.acmicpc.net/problem/1697)
+- [x] [1697 숨바꼭질](https://www.acmicpc.net/problem/1697)
 - [x] [13913 숨바꼭질 4](https://www.acmicpc.net/problem/13913)
 - [x] [14226 이모티콘](https://www.acmicpc.net/problem/14226)
 - [ ] [13549 숨바꼭질 3](https://www.acmicpc.net/problem/13549)
@@ -513,7 +513,7 @@
 
 ## 알고리즘 기초 2/2 / 610 - BFS
 
-- [ ] [1697 숨바꼭질](https://www.acmicpc.net/problem/1697)
+- [x] [1697 숨바꼭질](https://www.acmicpc.net/problem/1697)
 - [x] [13913 숨바꼭질 4](https://www.acmicpc.net/problem/13913)
 - [x] [14226 이모티콘](https://www.acmicpc.net/problem/14226)
 - [ ] [13549 숨바꼭질 3](https://www.acmicpc.net/problem/13549)
