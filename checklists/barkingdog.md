@@ -84,7 +84,7 @@
 - [x] [1926 그림](https://www.acmicpc.net/problem/1926)
 - [x] [2178 미로 탐색](https://www.acmicpc.net/problem/2178)
 - [ ] [7576 토마토](https://www.acmicpc.net/problem/7576)
-- [ ] [4179 불!](https://www.acmicpc.net/problem/4179)
+- [x] [4179 불!](https://www.acmicpc.net/problem/4179)
 - [ ] [1697 숨바꼭질](https://www.acmicpc.net/problem/1697)
 - [x] [1012 유기농 배추](https://www.acmicpc.net/problem/1012)
 - [x] [10026 적록색약](https://www.acmicpc.net/problem/10026)
