@@ -394,7 +394,7 @@
 ## 알고리즘 기초 1/2 / 303 - 수학 1 (참고)
 
 - [ ] [11005 진법 변환 2](https://www.acmicpc.net/problem/11005)
-- [ ] [2745 진법 변환](https://www.acmicpc.net/problem/2745)
+- [x] [2745 진법 변환](https://www.acmicpc.net/problem/2745)
 - [ ] [11576 Base Conversion](https://www.acmicpc.net/problem/11576)
 - [ ] [11653 소인수분해](https://www.acmicpc.net/problem/11653)
 
