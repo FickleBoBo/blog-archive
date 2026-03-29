@@ -298,7 +298,7 @@
 - [ ] [24445 알고리즘 수업 - 너비 우선 탐색 2](https://www.acmicpc.net/problem/24445)
 - [x] [2606 바이러스](https://www.acmicpc.net/problem/2606)
 - [x] [1260 DFS와 BFS](https://www.acmicpc.net/problem/1260)
-- [ ] [2667 단지번호붙이기](https://www.acmicpc.net/problem/2667)
+- [x] [2667 단지번호붙이기](https://www.acmicpc.net/problem/2667)
 - [x] [1012 유기농 배추](https://www.acmicpc.net/problem/1012)
 - [x] [2178 미로 탐색](https://www.acmicpc.net/problem/2178)
 - [ ] [1697 숨바꼭질](https://www.acmicpc.net/problem/1697)
