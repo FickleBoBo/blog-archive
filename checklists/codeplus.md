@@ -110,7 +110,7 @@
 
 - [ ] [1697 숨바꼭질](https://www.acmicpc.net/problem/1697)
 - [x] [13913 숨바꼭질 4](https://www.acmicpc.net/problem/13913)
-- [ ] [14226 이모티콘](https://www.acmicpc.net/problem/14226)
+- [x] [14226 이모티콘](https://www.acmicpc.net/problem/14226)
 - [ ] [13549 숨바꼭질 3](https://www.acmicpc.net/problem/13549)
 - [ ] [1261 알고스팟](https://www.acmicpc.net/problem/1261)
 
@@ -515,7 +515,7 @@
 
 - [ ] [1697 숨바꼭질](https://www.acmicpc.net/problem/1697)
 - [x] [13913 숨바꼭질 4](https://www.acmicpc.net/problem/13913)
-- [ ] [14226 이모티콘](https://www.acmicpc.net/problem/14226)
+- [x] [14226 이모티콘](https://www.acmicpc.net/problem/14226)
 - [ ] [13549 숨바꼭질 3](https://www.acmicpc.net/problem/13549)
 - [ ] [1261 알고스팟](https://www.acmicpc.net/problem/1261)
 
