@@ -71,7 +71,7 @@
 ## 6단계 - 심화 1
 
 - [x] [25083 새싹](https://www.acmicpc.net/problem/25083)
-- [ ] [3003 킹, 퀸, 룩, 비숍, 나이트, 폰](https://www.acmicpc.net/problem/3003)
+- [x] [3003 킹, 퀸, 룩, 비숍, 나이트, 폰](https://www.acmicpc.net/problem/3003)
 - [x] [2444 별 찍기 - 7](https://www.acmicpc.net/problem/2444)
 - [x] [10988 팰린드롬인지 확인하기](https://www.acmicpc.net/problem/10988)
 - [ ] [1157 단어 공부](https://www.acmicpc.net/problem/1157)
