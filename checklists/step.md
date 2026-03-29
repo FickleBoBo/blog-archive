@@ -64,7 +64,7 @@
 - [x] [10809 알파벳 찾기](https://www.acmicpc.net/problem/10809)
 - [x] [2675 문자열 반복](https://www.acmicpc.net/problem/2675)
 - [x] [1152 단어의 개수](https://www.acmicpc.net/problem/1152)
-- [ ] [2908 상수](https://www.acmicpc.net/problem/2908)
+- [x] [2908 상수](https://www.acmicpc.net/problem/2908)
 - [ ] [5622 다이얼](https://www.acmicpc.net/problem/5622)
 - [x] [11718 그대로 출력하기](https://www.acmicpc.net/problem/11718)
 
