@@ -302,7 +302,7 @@
 - [x] [1012 유기농 배추](https://www.acmicpc.net/problem/1012)
 - [x] [2178 미로 탐색](https://www.acmicpc.net/problem/2178)
 - [ ] [1697 숨바꼭질](https://www.acmicpc.net/problem/1697)
-- [ ] [7562 나이트의 이동](https://www.acmicpc.net/problem/7562)
+- [x] [7562 나이트의 이동](https://www.acmicpc.net/problem/7562)
 - [ ] [7576 토마토](https://www.acmicpc.net/problem/7576)
 - [ ] [7569 토마토](https://www.acmicpc.net/problem/7569)
 - [ ] [16928 뱀과 사다리 게임](https://www.acmicpc.net/problem/16928)
