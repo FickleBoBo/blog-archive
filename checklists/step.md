@@ -303,7 +303,7 @@
 - [x] [2178 미로 탐색](https://www.acmicpc.net/problem/2178)
 - [ ] [1697 숨바꼭질](https://www.acmicpc.net/problem/1697)
 - [x] [7562 나이트의 이동](https://www.acmicpc.net/problem/7562)
-- [ ] [7576 토마토](https://www.acmicpc.net/problem/7576)
+- [x] [7576 토마토](https://www.acmicpc.net/problem/7576)
 - [x] [7569 토마토](https://www.acmicpc.net/problem/7569)
 - [ ] [16928 뱀과 사다리 게임](https://www.acmicpc.net/problem/16928)
 - [ ] [2206 벽 부수고 이동하기](https://www.acmicpc.net/problem/2206)
