@@ -58,7 +58,7 @@
 
 - [x] [27866 문자와 문자열](https://www.acmicpc.net/problem/27866)
 - [x] [2743 단어 길이 재기](https://www.acmicpc.net/problem/2743)
-- [ ] [9086 문자열](https://www.acmicpc.net/problem/9086)
+- [x] [9086 문자열](https://www.acmicpc.net/problem/9086)
 - [x] [11654 아스키 코드](https://www.acmicpc.net/problem/11654)
 - [x] [11720 숫자의 합](https://www.acmicpc.net/problem/11720)
 - [x] [10809 알파벳 찾기](https://www.acmicpc.net/problem/10809)
