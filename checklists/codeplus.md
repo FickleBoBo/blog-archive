@@ -189,7 +189,7 @@
 - [ ] [16236 아기 상어](https://www.acmicpc.net/problem/16236)
 - [ ] [6087 레이저 통신](https://www.acmicpc.net/problem/6087)
 - [ ] [1963 소수 경로](https://www.acmicpc.net/problem/1963)
-- [ ] [10026 적록색약](https://www.acmicpc.net/problem/10026)
+- [x] [10026 적록색약](https://www.acmicpc.net/problem/10026)
 - [ ] [14395 4연산](https://www.acmicpc.net/problem/14395)
 - [ ] [5014 스타트링크](https://www.acmicpc.net/problem/5014)
 - [ ] [9376 탈옥](https://www.acmicpc.net/problem/9376)
@@ -576,7 +576,7 @@
 - [ ] [16236 아기 상어](https://www.acmicpc.net/problem/16236)
 - [ ] [6087 레이저 통신](https://www.acmicpc.net/problem/6087)
 - [ ] [1963 소수 경로](https://www.acmicpc.net/problem/1963)
-- [ ] [10026 적록색약](https://www.acmicpc.net/problem/10026)
+- [x] [10026 적록색약](https://www.acmicpc.net/problem/10026)
 - [ ] [14395 4연산](https://www.acmicpc.net/problem/14395)
 
 ## 알고리즘 중급 1/3 / 710 - 그리디 알고리즘
