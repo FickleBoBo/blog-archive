@@ -121,14 +121,14 @@
 ## A+B
 
 - [x] [1000 A+B](https://www.acmicpc.net/problem/1000)
-- [ ] [2558 A+B - 2](https://www.acmicpc.net/problem/2558)
+- [x] [2558 A+B - 2](https://www.acmicpc.net/problem/2558)
 - [x] [10950 A+B - 3](https://www.acmicpc.net/problem/10950)
 - [x] [10951 A+B - 4](https://www.acmicpc.net/problem/10951)
 - [x] [10952 A+B - 5](https://www.acmicpc.net/problem/10952)
-- [ ] [10953 A+B - 6](https://www.acmicpc.net/problem/10953)
+- [x] [10953 A+B - 6](https://www.acmicpc.net/problem/10953)
 - [x] [11021 A+B - 7](https://www.acmicpc.net/problem/11021)
 - [x] [11022 A+B - 8](https://www.acmicpc.net/problem/11022)
-- [ ] [15740 A+B - 9](https://www.acmicpc.net/problem/15740)
+- [x] [15740 A+B - 9](https://www.acmicpc.net/problem/15740)
 
 ## LIS
 
@@ -347,7 +347,7 @@
 
 ## 영화감독 숌
 
-- [ ] [1436 영화감독 숌](https://www.acmicpc.net/problem/1436)
+- [x] [1436 영화감독 숌](https://www.acmicpc.net/problem/1436)
 - [ ] [27438 영화감독 숌 2](https://www.acmicpc.net/problem/27438)
 - [ ] [27441 영화감독 숌 3](https://www.acmicpc.net/problem/27441)
 - [ ] [27458 영화감독 숌 4](https://www.acmicpc.net/problem/27458)
@@ -601,7 +601,7 @@
 ## A/B
 
 - [x] [1008 A/B](https://www.acmicpc.net/problem/1008)
-- [ ] [15792 A/B - 2](https://www.acmicpc.net/problem/15792)
+- [x] [15792 A/B - 2](https://www.acmicpc.net/problem/15792)
 - [ ] [16428 A/B - 3](https://www.acmicpc.net/problem/16428)
 
 ## 괄호 추가하기

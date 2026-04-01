@@ -16,7 +16,7 @@
 - [x] [2587 대표값2](https://www.acmicpc.net/problem/2587)
 - [x] [2309 일곱 난쟁이](https://www.acmicpc.net/problem/2309)
 - [x] [10093 숫자](https://www.acmicpc.net/problem/10093)
-- [ ] [1267 핸드폰 요금](https://www.acmicpc.net/problem/1267)
+- [x] [1267 핸드폰 요금](https://www.acmicpc.net/problem/1267)
 - [x] [10804 카드 역배치](https://www.acmicpc.net/problem/10804)
 - [x] [15552 빠른 A+B](https://www.acmicpc.net/problem/15552)
 - [x] [2438 별 찍기 - 1](https://www.acmicpc.net/problem/2438)
@@ -372,7 +372,7 @@
 ## 0x15강 - 해시
 
 - [ ] [7785 회사에 있는 사람](https://www.acmicpc.net/problem/7785)
-- [ ] [1620 나는야 포켓몬 마스터 이다솜](https://www.acmicpc.net/problem/1620)
+- [x] [1620 나는야 포켓몬 마스터 이다솜](https://www.acmicpc.net/problem/1620)
 - [ ] [13414 수강신청](https://www.acmicpc.net/problem/13414)
 - [ ] [17219 비밀번호 찾기](https://www.acmicpc.net/problem/17219)
 - [ ] [9375 패션왕 신해빈](https://www.acmicpc.net/problem/9375)

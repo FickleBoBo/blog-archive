@@ -739,7 +739,7 @@
 - [ ] [1927 최소 힙](https://www.acmicpc.net/problem/1927)
 - [ ] [1655 가운데를 말해요](https://www.acmicpc.net/problem/1655)
 - [ ] [7785 회사에 있는 사람](https://www.acmicpc.net/problem/7785)
-- [ ] [1764 듣보잡](https://www.acmicpc.net/problem/1764)
+- [x] [1764 듣보잡](https://www.acmicpc.net/problem/1764)
 
 ## 알고리즘 중급 2/3 / 901 - 자료구조 2 (연습)
 

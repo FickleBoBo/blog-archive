@@ -90,7 +90,7 @@
 
 - [x] [2745 진법 변환](https://www.acmicpc.net/problem/2745)
 - [ ] [11005 진법 변환 2](https://www.acmicpc.net/problem/11005)
-- [ ] [2720 세탁소 사장 동혁](https://www.acmicpc.net/problem/2720)
+- [x] [2720 세탁소 사장 동혁](https://www.acmicpc.net/problem/2720)
 - [ ] [2903 중앙 이동 알고리즘](https://www.acmicpc.net/problem/2903)
 - [ ] [2292 벌집](https://www.acmicpc.net/problem/2292)
 - [ ] [1193 분수찾기](https://www.acmicpc.net/problem/1193)
@@ -111,7 +111,7 @@
 - [x] [1085 직사각형에서 탈출](https://www.acmicpc.net/problem/1085)
 - [ ] [3009 네 번째 점](https://www.acmicpc.net/problem/3009)
 - [x] [15894 수학은 체육과목 입니다](https://www.acmicpc.net/problem/15894)
-- [ ] [9063 대지](https://www.acmicpc.net/problem/9063)
+- [x] [9063 대지](https://www.acmicpc.net/problem/9063)
 - [x] [10101 삼각형 외우기](https://www.acmicpc.net/problem/10101)
 - [x] [5073 삼각형과 세 변](https://www.acmicpc.net/problem/5073)
 - [x] [14215 세 막대](https://www.acmicpc.net/problem/14215)
@@ -132,7 +132,7 @@
 - [ ] [2231 분해합](https://www.acmicpc.net/problem/2231)
 - [x] [19532 수학은 비대면강의입니다](https://www.acmicpc.net/problem/19532)
 - [ ] [1018 체스판 다시 칠하기](https://www.acmicpc.net/problem/1018)
-- [ ] [1436 영화감독 숌](https://www.acmicpc.net/problem/1436)
+- [x] [1436 영화감독 숌](https://www.acmicpc.net/problem/1436)
 - [x] [2839 설탕 배달](https://www.acmicpc.net/problem/2839)
 
 ## 13단계 - 정렬
@@ -154,10 +154,10 @@
 - [ ] [10815 숫자 카드](https://www.acmicpc.net/problem/10815)
 - [ ] [14425 문자열 집합](https://www.acmicpc.net/problem/14425)
 - [ ] [7785 회사에 있는 사람](https://www.acmicpc.net/problem/7785)
-- [ ] [1620 나는야 포켓몬 마스터 이다솜](https://www.acmicpc.net/problem/1620)
+- [x] [1620 나는야 포켓몬 마스터 이다솜](https://www.acmicpc.net/problem/1620)
 - [ ] [10816 숫자 카드 2](https://www.acmicpc.net/problem/10816)
-- [ ] [1764 듣보잡](https://www.acmicpc.net/problem/1764)
-- [ ] [1269 대칭 차집합](https://www.acmicpc.net/problem/1269)
+- [x] [1764 듣보잡](https://www.acmicpc.net/problem/1764)
+- [x] [1269 대칭 차집합](https://www.acmicpc.net/problem/1269)
 - [ ] [11478 서로 다른 부분 문자열의 개수](https://www.acmicpc.net/problem/11478)
 
 ## 15단계 - 약수, 배수와 소수 2
