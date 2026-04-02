@@ -606,7 +606,7 @@
 
 ## 57단계 - 스프라그 그런디 정리
 
-- [ ] [9658 돌 게임 4](https://www.acmicpc.net/problem/9658)
+- [x] [9658 돌 게임 4](https://www.acmicpc.net/problem/9658)
 - [ ] [9662 돌 게임 8](https://www.acmicpc.net/problem/9662)
 - [ ] [11868 님 게임 2](https://www.acmicpc.net/problem/11868)
 - [ ] [11694 님 게임](https://www.acmicpc.net/problem/11694)

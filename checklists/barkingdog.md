@@ -568,7 +568,7 @@
 - [ ] [1005 ACM Craft](https://www.acmicpc.net/problem/1005)
 - [ ] [10942 팰린드롬?](https://www.acmicpc.net/problem/10942)
 - [ ] [1699 제곱수의 합](https://www.acmicpc.net/problem/1699)
-- [ ] [9657 돌 게임 3](https://www.acmicpc.net/problem/9657)
+- [x] [9657 돌 게임 3](https://www.acmicpc.net/problem/9657)
 - [ ] [11660 구간 합 구하기 5](https://www.acmicpc.net/problem/11660)
 - [ ] [2011 암호코드](https://www.acmicpc.net/problem/2011)
 - [ ] [12784 인하니카 공화국](https://www.acmicpc.net/problem/12784)
