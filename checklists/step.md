@@ -50,7 +50,7 @@
 - [x] [10810 공 넣기](https://www.acmicpc.net/problem/10810)
 - [x] [10813 공 바꾸기](https://www.acmicpc.net/problem/10813)
 - [x] [5597 과제 안 내신 분..?](https://www.acmicpc.net/problem/5597)
-- [ ] [3052 나머지](https://www.acmicpc.net/problem/3052)
+- [x] [3052 나머지](https://www.acmicpc.net/problem/3052)
 - [x] [10811 바구니 뒤집기](https://www.acmicpc.net/problem/10811)
 - [x] [1546 평균](https://www.acmicpc.net/problem/1546)
 
@@ -65,7 +65,7 @@
 - [x] [2675 문자열 반복](https://www.acmicpc.net/problem/2675)
 - [x] [1152 단어의 개수](https://www.acmicpc.net/problem/1152)
 - [x] [2908 상수](https://www.acmicpc.net/problem/2908)
-- [ ] [5622 다이얼](https://www.acmicpc.net/problem/5622)
+- [x] [5622 다이얼](https://www.acmicpc.net/problem/5622)
 - [x] [11718 그대로 출력하기](https://www.acmicpc.net/problem/11718)
 
 ## 6단계 - 심화 1
@@ -189,7 +189,7 @@
 ## 17단계 - 조합론
 
 - [x] [15439 베라의 패션](https://www.acmicpc.net/problem/15439)
-- [ ] [24723 녹색거탑](https://www.acmicpc.net/problem/24723)
+- [x] [24723 녹색거탑](https://www.acmicpc.net/problem/24723)
 - [x] [10872 팩토리얼](https://www.acmicpc.net/problem/10872)
 - [ ] [11050 이항 계수 1](https://www.acmicpc.net/problem/11050)
 - [x] [1010 다리 놓기](https://www.acmicpc.net/problem/1010)
@@ -209,8 +209,8 @@
 - [ ] [25501 재귀의 귀재](https://www.acmicpc.net/problem/25501)
 - [ ] [24060 알고리즘 수업 - 병합 정렬 1](https://www.acmicpc.net/problem/24060)
 - [ ] [4779 칸토어 집합](https://www.acmicpc.net/problem/4779)
-- [ ] [2447 별 찍기 - 10](https://www.acmicpc.net/problem/2447)
-- [ ] [11729 하노이 탑 이동 순서](https://www.acmicpc.net/problem/11729)
+- [x] [2447 별 찍기 - 10](https://www.acmicpc.net/problem/2447)
+- [x] [11729 하노이 탑 이동 순서](https://www.acmicpc.net/problem/11729)
 
 ## 20단계 - 백트래킹
 
@@ -261,9 +261,9 @@
 
 ## 24단계 - 분할 정복
 
-- [ ] [2630 색종이 만들기](https://www.acmicpc.net/problem/2630)
-- [ ] [1992 쿼드트리](https://www.acmicpc.net/problem/1992)
-- [ ] [1780 종이의 개수](https://www.acmicpc.net/problem/1780)
+- [x] [2630 색종이 만들기](https://www.acmicpc.net/problem/2630)
+- [x] [1992 쿼드트리](https://www.acmicpc.net/problem/1992)
+- [x] [1780 종이의 개수](https://www.acmicpc.net/problem/1780)
 - [ ] [1629 곱셈](https://www.acmicpc.net/problem/1629)
 - [ ] [11401 이항 계수 3](https://www.acmicpc.net/problem/11401)
 - [ ] [2740 행렬 곱셈](https://www.acmicpc.net/problem/2740)

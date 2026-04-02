@@ -615,13 +615,13 @@
 
 ## 알고리즘 중급 1/3 / 801 - 분할 정복 (연습)
 
-- [ ] [1780 종이의 개수](https://www.acmicpc.net/problem/1780)
-- [ ] [11729 하노이 탑 이동 순서](https://www.acmicpc.net/problem/11729)
+- [x] [1780 종이의 개수](https://www.acmicpc.net/problem/1780)
+- [x] [11729 하노이 탑 이동 순서](https://www.acmicpc.net/problem/11729)
 - [ ] [2263 트리의 순회](https://www.acmicpc.net/problem/2263)
 - [ ] [1074 Z](https://www.acmicpc.net/problem/1074)
 - [ ] [1891 사분면](https://www.acmicpc.net/problem/1891)
-- [ ] [2447 별 찍기 - 10](https://www.acmicpc.net/problem/2447)
-- [ ] [2448 별 찍기 - 11](https://www.acmicpc.net/problem/2448)
+- [x] [2447 별 찍기 - 10](https://www.acmicpc.net/problem/2447)
+- [x] [2448 별 찍기 - 11](https://www.acmicpc.net/problem/2448)
 - [ ] [1517 버블 소트](https://www.acmicpc.net/problem/1517)
 
 ## 알고리즘 중급 1/3 / 802 - 분할 정복 (도전)
