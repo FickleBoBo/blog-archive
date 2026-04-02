@@ -83,10 +83,10 @@
 
 - [ ] [15988 1, 2, 3 더하기 3](https://www.acmicpc.net/problem/15988)
 - [ ] [1149 RGB거리](https://www.acmicpc.net/problem/1149)
-- [ ] [1309 동물원](https://www.acmicpc.net/problem/1309)
+- [x] [1309 동물원](https://www.acmicpc.net/problem/1309)
 - [ ] [11057 오르막 수](https://www.acmicpc.net/problem/11057)
 - [ ] [2156 포도주 시식](https://www.acmicpc.net/problem/2156)
-- [ ] [1932 정수 삼각형](https://www.acmicpc.net/problem/1932)
+- [x] [1932 정수 삼각형](https://www.acmicpc.net/problem/1932)
 - [ ] [11055 가장 큰 증가하는 부분 수열](https://www.acmicpc.net/problem/11055)
 - [ ] [11722 가장 긴 감소하는 부분 수열](https://www.acmicpc.net/problem/11722)
 - [ ] [11054 가장 긴 바이토닉 부분 수열](https://www.acmicpc.net/problem/11054)
@@ -419,11 +419,11 @@
 
 - [ ] [15988 1, 2, 3 더하기 3](https://www.acmicpc.net/problem/15988)
 - [ ] [1149 RGB거리](https://www.acmicpc.net/problem/1149)
-- [ ] [1309 동물원](https://www.acmicpc.net/problem/1309)
+- [x] [1309 동물원](https://www.acmicpc.net/problem/1309)
 - [ ] [11057 오르막 수](https://www.acmicpc.net/problem/11057)
 - [ ] [9465 스티커](https://www.acmicpc.net/problem/9465)
 - [ ] [2156 포도주 시식](https://www.acmicpc.net/problem/2156)
-- [ ] [1932 정수 삼각형](https://www.acmicpc.net/problem/1932)
+- [x] [1932 정수 삼각형](https://www.acmicpc.net/problem/1932)
 - [ ] [11055 가장 큰 증가하는 부분 수열](https://www.acmicpc.net/problem/11055)
 - [ ] [11722 가장 긴 감소하는 부분 수열](https://www.acmicpc.net/problem/11722)
 - [ ] [11054 가장 긴 바이토닉 부분 수열](https://www.acmicpc.net/problem/11054)
@@ -432,7 +432,7 @@
 
 ## 알고리즘 기초 1/2 / 402 - 다이나믹 프로그래밍 1 (도전)
 
-- [ ] [1309 동물원](https://www.acmicpc.net/problem/1309)
+- [x] [1309 동물원](https://www.acmicpc.net/problem/1309)
 - [ ] [2225 합분해](https://www.acmicpc.net/problem/2225)
 - [ ] [17404 RGB거리 2](https://www.acmicpc.net/problem/17404)
 
@@ -634,7 +634,7 @@
 - [x] [2751 수 정렬하기 2](https://www.acmicpc.net/problem/2751)
 - [x] [11650 좌표 정렬하기](https://www.acmicpc.net/problem/11650)
 - [x] [11651 좌표 정렬하기 2](https://www.acmicpc.net/problem/11651)
-- [ ] [10814 나이순 정렬](https://www.acmicpc.net/problem/10814)
+- [x] [10814 나이순 정렬](https://www.acmicpc.net/problem/10814)
 - [ ] [10825 국영수](https://www.acmicpc.net/problem/10825)
 - [x] [10989 수 정렬하기 3](https://www.acmicpc.net/problem/10989)
 - [ ] [11652 카드](https://www.acmicpc.net/problem/11652)
@@ -738,7 +738,7 @@
 - [ ] [11279 최대 힙](https://www.acmicpc.net/problem/11279)
 - [ ] [1927 최소 힙](https://www.acmicpc.net/problem/1927)
 - [ ] [1655 가운데를 말해요](https://www.acmicpc.net/problem/1655)
-- [ ] [7785 회사에 있는 사람](https://www.acmicpc.net/problem/7785)
+- [x] [7785 회사에 있는 사람](https://www.acmicpc.net/problem/7785)
 - [x] [1764 듣보잡](https://www.acmicpc.net/problem/1764)
 
 ## 알고리즘 중급 2/3 / 901 - 자료구조 2 (연습)
@@ -1037,7 +1037,7 @@
 - [ ] [13013 접미사 배열 2](https://www.acmicpc.net/problem/13013)
 - [ ] [13012 접미사 배열 1](https://www.acmicpc.net/problem/13012)
 - [ ] [13264 접미사 배열 2](https://www.acmicpc.net/problem/13264)
-- [ ] [11478 서로 다른 부분 문자열의 개수](https://www.acmicpc.net/problem/11478)
+- [x] [11478 서로 다른 부분 문자열의 개수](https://www.acmicpc.net/problem/11478)
 - [ ] [11479 서로 다른 부분 문자열의 개수 2](https://www.acmicpc.net/problem/11479)
 - [ ] [9248 Suffix Array](https://www.acmicpc.net/problem/9248)
 
