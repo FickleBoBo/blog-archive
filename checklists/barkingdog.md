@@ -45,7 +45,7 @@
 
 - [x] [1406 에디터](https://www.acmicpc.net/problem/1406)
 - [x] [5397 키로거](https://www.acmicpc.net/problem/5397)
-- [ ] [1158 요세푸스 문제](https://www.acmicpc.net/problem/1158)
+- [x] [1158 요세푸스 문제](https://www.acmicpc.net/problem/1158)
 
 ## 0x05강 - 스택
 
@@ -116,14 +116,14 @@
 
 - [ ] [1629 곱셈](https://www.acmicpc.net/problem/1629)
 - [x] [11729 하노이 탑 이동 순서](https://www.acmicpc.net/problem/11729)
-- [ ] [1074 Z](https://www.acmicpc.net/problem/1074)
+- [x] [1074 Z](https://www.acmicpc.net/problem/1074)
 - [x] [17478 재귀함수가 뭔가요?](https://www.acmicpc.net/problem/17478)
 - [x] [1780 종이의 개수](https://www.acmicpc.net/problem/1780)
 - [x] [2630 색종이 만들기](https://www.acmicpc.net/problem/2630)
 - [x] [1992 쿼드트리](https://www.acmicpc.net/problem/1992)
 - [x] [2447 별 찍기 - 10](https://www.acmicpc.net/problem/2447)
 - [x] [2448 별 찍기 - 11](https://www.acmicpc.net/problem/2448)
-- [ ] [14956 Philosopher's Walk](https://www.acmicpc.net/problem/14956)
+- [x] [14956 Philosopher's Walk](https://www.acmicpc.net/problem/14956)
 
 ## 0x0C강 - 백트래킹
 
@@ -146,7 +146,7 @@
 - [ ] [1941 소문난 칠공주](https://www.acmicpc.net/problem/1941)
 - [ ] [16987 계란으로 계란치기](https://www.acmicpc.net/problem/16987)
 - [ ] [18809 Gaaaaaaaaaarden](https://www.acmicpc.net/problem/18809)
-- [ ] [1799 비숍](https://www.acmicpc.net/problem/1799)
+- [x] [1799 비숍](https://www.acmicpc.net/problem/1799)
 
 ## 0x0D강 - 시뮬레이션
 
@@ -228,7 +228,7 @@
 - [ ] [1431 시리얼 번호](https://www.acmicpc.net/problem/1431)
 - [ ] [11652 카드](https://www.acmicpc.net/problem/11652)
 - [ ] [5648 역원소 정렬](https://www.acmicpc.net/problem/5648)
-- [ ] [1181 단어 정렬](https://www.acmicpc.net/problem/1181)
+- [x] [1181 단어 정렬](https://www.acmicpc.net/problem/1181)
 - [ ] [2910 빈도 정렬](https://www.acmicpc.net/problem/2910)
 - [x] [10814 나이순 정렬](https://www.acmicpc.net/problem/10814)
 - [ ] [11656 접미사 배열](https://www.acmicpc.net/problem/11656)
@@ -302,7 +302,7 @@
 - [ ] [2960 에라토스테네스의 체](https://www.acmicpc.net/problem/2960)
 - [ ] [1193 분수찾기](https://www.acmicpc.net/problem/1193)
 - [ ] [4948 베르트랑 공준](https://www.acmicpc.net/problem/4948)
-- [ ] [1676 팩토리얼 0의 개수](https://www.acmicpc.net/problem/1676)
+- [x] [1676 팩토리얼 0의 개수](https://www.acmicpc.net/problem/1676)
 - [x] [9613 GCD 합](https://www.acmicpc.net/problem/9613)
 - [ ] [2292 벌집](https://www.acmicpc.net/problem/2292)
 - [ ] [2869 달팽이는 올라가고 싶다](https://www.acmicpc.net/problem/2869)
@@ -319,7 +319,7 @@
 - [ ] [1011 Fly me to the Alpha Centauri](https://www.acmicpc.net/problem/1011)
 - [ ] [1038 감소하는 수](https://www.acmicpc.net/problem/1038)
 - [ ] [1057 토너먼트](https://www.acmicpc.net/problem/1057)
-- [ ] [2004 조합 0의 개수](https://www.acmicpc.net/problem/2004)
+- [x] [2004 조합 0의 개수](https://www.acmicpc.net/problem/2004)
 - [ ] [1292 쉽게 푸는 문제](https://www.acmicpc.net/problem/1292)
 - [ ] [1790 수 이어 쓰기 2](https://www.acmicpc.net/problem/1790)
 - [ ] [3036 링](https://www.acmicpc.net/problem/3036)
@@ -335,7 +335,7 @@
 
 - [ ] [1920 수 찾기](https://www.acmicpc.net/problem/1920)
 - [ ] [10816 숫자 카드 2](https://www.acmicpc.net/problem/10816)
-- [ ] [18870 좌표 압축](https://www.acmicpc.net/problem/18870)
+- [x] [18870 좌표 압축](https://www.acmicpc.net/problem/18870)
 - [ ] [2295 세 수의 합](https://www.acmicpc.net/problem/2295)
 - [ ] [1654 랜선 자르기](https://www.acmicpc.net/problem/1654)
 - [ ] [10815 숫자 카드](https://www.acmicpc.net/problem/10815)

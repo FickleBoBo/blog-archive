@@ -76,29 +76,29 @@
 - [x] [10988 팰린드롬인지 확인하기](https://www.acmicpc.net/problem/10988)
 - [ ] [1157 단어 공부](https://www.acmicpc.net/problem/1157)
 - [ ] [2941 크로아티아 알파벳](https://www.acmicpc.net/problem/2941)
-- [ ] [1316 그룹 단어 체커](https://www.acmicpc.net/problem/1316)
+- [x] [1316 그룹 단어 체커](https://www.acmicpc.net/problem/1316)
 - [ ] [25206 너의 평점은](https://www.acmicpc.net/problem/25206)
 
 ## 7단계 - 2차원 배열
 
 - [x] [2738 행렬 덧셈](https://www.acmicpc.net/problem/2738)
 - [x] [2566 최댓값](https://www.acmicpc.net/problem/2566)
-- [ ] [10798 세로읽기](https://www.acmicpc.net/problem/10798)
+- [x] [10798 세로읽기](https://www.acmicpc.net/problem/10798)
 - [x] [2563 색종이](https://www.acmicpc.net/problem/2563)
 
 ## 8단계 - 수학 1
 
 - [x] [2745 진법 변환](https://www.acmicpc.net/problem/2745)
-- [ ] [11005 진법 변환 2](https://www.acmicpc.net/problem/11005)
+- [x] [11005 진법 변환 2](https://www.acmicpc.net/problem/11005)
 - [x] [2720 세탁소 사장 동혁](https://www.acmicpc.net/problem/2720)
-- [ ] [2903 중앙 이동 알고리즘](https://www.acmicpc.net/problem/2903)
+- [x] [2903 중앙 이동 알고리즘](https://www.acmicpc.net/problem/2903)
 - [ ] [2292 벌집](https://www.acmicpc.net/problem/2292)
 - [ ] [1193 분수찾기](https://www.acmicpc.net/problem/1193)
 - [ ] [2869 달팽이는 올라가고 싶다](https://www.acmicpc.net/problem/2869)
 
 ## 9단계 - 약수, 배수와 소수 1
 
-- [ ] [5086 배수와 약수](https://www.acmicpc.net/problem/5086)
+- [x] [5086 배수와 약수](https://www.acmicpc.net/problem/5086)
 - [ ] [2501 약수 구하기](https://www.acmicpc.net/problem/2501)
 - [ ] [9506 약수들의 합](https://www.acmicpc.net/problem/9506)
 - [ ] [1978 소수 찾기](https://www.acmicpc.net/problem/1978)
@@ -131,7 +131,7 @@
 - [x] [2798 블랙잭](https://www.acmicpc.net/problem/2798)
 - [ ] [2231 분해합](https://www.acmicpc.net/problem/2231)
 - [x] [19532 수학은 비대면강의입니다](https://www.acmicpc.net/problem/19532)
-- [ ] [1018 체스판 다시 칠하기](https://www.acmicpc.net/problem/1018)
+- [x] [1018 체스판 다시 칠하기](https://www.acmicpc.net/problem/1018)
 - [x] [1436 영화감독 숌](https://www.acmicpc.net/problem/1436)
 - [x] [2839 설탕 배달](https://www.acmicpc.net/problem/2839)
 
@@ -139,15 +139,15 @@
 
 - [x] [2750 수 정렬하기](https://www.acmicpc.net/problem/2750)
 - [x] [2587 대표값2](https://www.acmicpc.net/problem/2587)
-- [ ] [25305 커트라인](https://www.acmicpc.net/problem/25305)
+- [x] [25305 커트라인](https://www.acmicpc.net/problem/25305)
 - [x] [2751 수 정렬하기 2](https://www.acmicpc.net/problem/2751)
 - [x] [10989 수 정렬하기 3](https://www.acmicpc.net/problem/10989)
 - [x] [1427 소트인사이드](https://www.acmicpc.net/problem/1427)
 - [x] [11650 좌표 정렬하기](https://www.acmicpc.net/problem/11650)
 - [x] [11651 좌표 정렬하기 2](https://www.acmicpc.net/problem/11651)
-- [ ] [1181 단어 정렬](https://www.acmicpc.net/problem/1181)
+- [x] [1181 단어 정렬](https://www.acmicpc.net/problem/1181)
 - [x] [10814 나이순 정렬](https://www.acmicpc.net/problem/10814)
-- [ ] [18870 좌표 압축](https://www.acmicpc.net/problem/18870)
+- [x] [18870 좌표 압축](https://www.acmicpc.net/problem/18870)
 
 ## 14단계 - 집합과 맵
 
@@ -170,7 +170,7 @@
 - [ ] [1929 소수 구하기](https://www.acmicpc.net/problem/1929)
 - [ ] [4948 베르트랑 공준](https://www.acmicpc.net/problem/4948)
 - [ ] [17103 골드바흐 파티션](https://www.acmicpc.net/problem/17103)
-- [ ] [13909 창문 닫기](https://www.acmicpc.net/problem/13909)
+- [x] [13909 창문 닫기](https://www.acmicpc.net/problem/13909)
 
 ## 16단계 - 스택, 큐, 덱 1
 
@@ -181,7 +181,7 @@
 - [ ] [12789 도키도키 간식드리미](https://www.acmicpc.net/problem/12789)
 - [x] [18258 큐 2](https://www.acmicpc.net/problem/18258)
 - [x] [2164 카드2](https://www.acmicpc.net/problem/2164)
-- [ ] [11866 요세푸스 문제 0](https://www.acmicpc.net/problem/11866)
+- [x] [11866 요세푸스 문제 0](https://www.acmicpc.net/problem/11866)
 - [x] [28279 덱 2](https://www.acmicpc.net/problem/28279)
 - [ ] [2346 풍선 터뜨리기](https://www.acmicpc.net/problem/2346)
 - [ ] [24511 queuestack](https://www.acmicpc.net/problem/24511)

@@ -348,7 +348,7 @@
 - [ ] [1874 스택 수열](https://www.acmicpc.net/problem/1874)
 - [x] [1406 에디터](https://www.acmicpc.net/problem/1406)
 - [x] [10845 큐](https://www.acmicpc.net/problem/10845)
-- [ ] [1158 요세푸스 문제](https://www.acmicpc.net/problem/1158)
+- [x] [1158 요세푸스 문제](https://www.acmicpc.net/problem/1158)
 - [x] [10866 덱](https://www.acmicpc.net/problem/10866)
 
 ## 알고리즘 기초 1/2 / 201 - 자료구조 1 (연습)
@@ -379,8 +379,8 @@
 - [ ] [1929 소수 구하기](https://www.acmicpc.net/problem/1929)
 - [ ] [6588 골드바흐의 추측](https://www.acmicpc.net/problem/6588)
 - [x] [10872 팩토리얼](https://www.acmicpc.net/problem/10872)
-- [ ] [1676 팩토리얼 0의 개수](https://www.acmicpc.net/problem/1676)
-- [ ] [2004 조합 0의 개수](https://www.acmicpc.net/problem/2004)
+- [x] [1676 팩토리얼 0의 개수](https://www.acmicpc.net/problem/1676)
+- [x] [2004 조합 0의 개수](https://www.acmicpc.net/problem/2004)
 
 ## 알고리즘 기초 1/2 / 301 - 수학 1 (연습)
 
@@ -393,7 +393,7 @@
 
 ## 알고리즘 기초 1/2 / 303 - 수학 1 (참고)
 
-- [ ] [11005 진법 변환 2](https://www.acmicpc.net/problem/11005)
+- [x] [11005 진법 변환 2](https://www.acmicpc.net/problem/11005)
 - [x] [2745 진법 변환](https://www.acmicpc.net/problem/2745)
 - [ ] [11576 Base Conversion](https://www.acmicpc.net/problem/11576)
 - [ ] [11653 소인수분해](https://www.acmicpc.net/problem/11653)
@@ -618,7 +618,7 @@
 - [x] [1780 종이의 개수](https://www.acmicpc.net/problem/1780)
 - [x] [11729 하노이 탑 이동 순서](https://www.acmicpc.net/problem/11729)
 - [ ] [2263 트리의 순회](https://www.acmicpc.net/problem/2263)
-- [ ] [1074 Z](https://www.acmicpc.net/problem/1074)
+- [x] [1074 Z](https://www.acmicpc.net/problem/1074)
 - [ ] [1891 사분면](https://www.acmicpc.net/problem/1891)
 - [x] [2447 별 찍기 - 10](https://www.acmicpc.net/problem/2447)
 - [x] [2448 별 찍기 - 11](https://www.acmicpc.net/problem/2448)
