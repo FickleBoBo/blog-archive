@@ -975,7 +975,7 @@
 - [x] [9656 돌 게임 2](https://www.acmicpc.net/problem/9656)
 - [x] [9657 돌 게임 3](https://www.acmicpc.net/problem/9657)
 - [x] [9658 돌 게임 4](https://www.acmicpc.net/problem/9658)
-- [ ] [9659 돌 게임 5](https://www.acmicpc.net/problem/9659)
+- [x] [9659 돌 게임 5](https://www.acmicpc.net/problem/9659)
 - [ ] [9660 돌 게임 6](https://www.acmicpc.net/problem/9660)
 - [ ] [9661 돌 게임 7](https://www.acmicpc.net/problem/9661)
 - [ ] [9662 돌 게임 8](https://www.acmicpc.net/problem/9662)
