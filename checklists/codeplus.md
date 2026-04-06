@@ -354,8 +354,8 @@
 ## 알고리즘 기초 1/2 / 201 - 자료구조 1 (연습)
 
 - [ ] [17413 단어 뒤집기 2](https://www.acmicpc.net/problem/17413)
-- [ ] [10799 쇠막대기](https://www.acmicpc.net/problem/10799)
-- [ ] [17298 오큰수](https://www.acmicpc.net/problem/17298)
+- [x] [10799 쇠막대기](https://www.acmicpc.net/problem/10799)
+- [x] [17298 오큰수](https://www.acmicpc.net/problem/17298)
 - [ ] [17299 오등큰수](https://www.acmicpc.net/problem/17299)
 
 ## 알고리즘 기초 1/2 / 203 - 자료구조 1 (참고)
@@ -583,7 +583,7 @@
 
 - [ ] [11047 동전 0](https://www.acmicpc.net/problem/11047)
 - [ ] [1931 회의실 배정](https://www.acmicpc.net/problem/1931)
-- [ ] [11399 ATM](https://www.acmicpc.net/problem/11399)
+- [x] [11399 ATM](https://www.acmicpc.net/problem/11399)
 - [ ] [1080 행렬](https://www.acmicpc.net/problem/1080)
 - [ ] [2138 전구와 스위치](https://www.acmicpc.net/problem/2138)
 - [ ] [1285 동전 뒤집기](https://www.acmicpc.net/problem/1285)
@@ -731,7 +731,7 @@
 ## 알고리즘 중급 2/3 / 900 - 자료구조 2
 
 - [ ] [9935 문자열 폭발](https://www.acmicpc.net/problem/9935)
-- [ ] [6549 히스토그램에서 가장 큰 직사각형](https://www.acmicpc.net/problem/6549)
+- [x] [6549 히스토그램에서 가장 큰 직사각형](https://www.acmicpc.net/problem/6549)
 - [ ] [3015 오아시스 재결합](https://www.acmicpc.net/problem/3015)
 - [ ] [1717 집합의 표현](https://www.acmicpc.net/problem/1717)
 - [x] [2606 바이러스](https://www.acmicpc.net/problem/2606)
@@ -1067,7 +1067,7 @@
 
 ## 알고리즘 고급으로 가는 연결고리 1/2 / 1601 - 세그먼트 트리와 펜윅 트리 (연습)
 
-- [ ] [6549 히스토그램에서 가장 큰 직사각형](https://www.acmicpc.net/problem/6549)
+- [x] [6549 히스토그램에서 가장 큰 직사각형](https://www.acmicpc.net/problem/6549)
 - [ ] [17408 수열과 쿼리 24](https://www.acmicpc.net/problem/17408)
 - [ ] [1517 버블 소트](https://www.acmicpc.net/problem/1517)
 - [ ] [3006 터보소트](https://www.acmicpc.net/problem/3006)

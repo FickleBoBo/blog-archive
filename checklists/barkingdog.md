@@ -52,11 +52,11 @@
 - [x] [10828 스택](https://www.acmicpc.net/problem/10828)
 - [x] [10773 제로](https://www.acmicpc.net/problem/10773)
 - [ ] [1874 스택 수열](https://www.acmicpc.net/problem/1874)
-- [ ] [2493 탑](https://www.acmicpc.net/problem/2493)
-- [ ] [6198 옥상 정원 꾸미기](https://www.acmicpc.net/problem/6198)
-- [ ] [17298 오큰수](https://www.acmicpc.net/problem/17298)
+- [x] [2493 탑](https://www.acmicpc.net/problem/2493)
+- [x] [6198 옥상 정원 꾸미기](https://www.acmicpc.net/problem/6198)
+- [x] [17298 오큰수](https://www.acmicpc.net/problem/17298)
 - [ ] [3015 오아시스 재결합](https://www.acmicpc.net/problem/3015)
-- [ ] [6549 히스토그램에서 가장 큰 직사각형](https://www.acmicpc.net/problem/6549)
+- [x] [6549 히스토그램에서 가장 큰 직사각형](https://www.acmicpc.net/problem/6549)
 
 ## 0x06강 - 큐
 
@@ -74,9 +74,9 @@
 ## 0x08강 - 스택의 활용(수식의 괄호 쌍)
 
 - [x] [4949 균형잡힌 세상](https://www.acmicpc.net/problem/4949)
-- [ ] [3986 좋은 단어](https://www.acmicpc.net/problem/3986)
+- [x] [3986 좋은 단어](https://www.acmicpc.net/problem/3986)
 - [x] [9012 괄호](https://www.acmicpc.net/problem/9012)
-- [ ] [10799 쇠막대기](https://www.acmicpc.net/problem/10799)
+- [x] [10799 쇠막대기](https://www.acmicpc.net/problem/10799)
 - [ ] [2504 괄호의 값](https://www.acmicpc.net/problem/2504)
 
 ## 0x09강 - BFS
@@ -273,12 +273,12 @@
 
 - [ ] [11047 동전 0](https://www.acmicpc.net/problem/11047)
 - [ ] [1931 회의실 배정](https://www.acmicpc.net/problem/1931)
-- [ ] [2217 로프](https://www.acmicpc.net/problem/2217)
+- [x] [2217 로프](https://www.acmicpc.net/problem/2217)
 - [ ] [1026 보물](https://www.acmicpc.net/problem/1026)
-- [ ] [11399 ATM](https://www.acmicpc.net/problem/11399)
+- [x] [11399 ATM](https://www.acmicpc.net/problem/11399)
 - [ ] [2457 공주님의 정원](https://www.acmicpc.net/problem/2457)
 - [ ] [1541 잃어버린 괄호](https://www.acmicpc.net/problem/1541)
-- [ ] [11501 주식](https://www.acmicpc.net/problem/11501)
+- [x] [11501 주식](https://www.acmicpc.net/problem/11501)
 - [ ] [1744 수 묶기](https://www.acmicpc.net/problem/1744)
 - [ ] [2847 게임을 만든 동준이](https://www.acmicpc.net/problem/2847)
 - [ ] [1439 뒤집기](https://www.acmicpc.net/problem/1439)

@@ -255,7 +255,7 @@
 
 - [ ] [11047 동전 0](https://www.acmicpc.net/problem/11047)
 - [ ] [1931 회의실 배정](https://www.acmicpc.net/problem/1931)
-- [ ] [11399 ATM](https://www.acmicpc.net/problem/11399)
+- [x] [11399 ATM](https://www.acmicpc.net/problem/11399)
 - [ ] [1541 잃어버린 괄호](https://www.acmicpc.net/problem/1541)
 - [ ] [13305 주유소](https://www.acmicpc.net/problem/13305)
 
@@ -269,7 +269,7 @@
 - [ ] [2740 행렬 곱셈](https://www.acmicpc.net/problem/2740)
 - [ ] [10830 행렬 제곱](https://www.acmicpc.net/problem/10830)
 - [ ] [11444 피보나치 수 6](https://www.acmicpc.net/problem/11444)
-- [ ] [6549 히스토그램에서 가장 큰 직사각형](https://www.acmicpc.net/problem/6549)
+- [x] [6549 히스토그램에서 가장 큰 직사각형](https://www.acmicpc.net/problem/6549)
 
 ## 25단계 - 이분 탐색
 
@@ -405,7 +405,7 @@
 ## 38단계 - 스택, 큐, 덱 2
 
 - [ ] [9935 문자열 폭발](https://www.acmicpc.net/problem/9935)
-- [ ] [17298 오큰수](https://www.acmicpc.net/problem/17298)
+- [x] [17298 오큰수](https://www.acmicpc.net/problem/17298)
 - [ ] [17299 오등큰수](https://www.acmicpc.net/problem/17299)
 - [ ] [1725 히스토그램](https://www.acmicpc.net/problem/1725)
 - [ ] [3015 오아시스 재결합](https://www.acmicpc.net/problem/3015)
