@@ -345,7 +345,7 @@
 - [x] [10828 스택](https://www.acmicpc.net/problem/10828)
 - [ ] [9093 단어 뒤집기](https://www.acmicpc.net/problem/9093)
 - [x] [9012 괄호](https://www.acmicpc.net/problem/9012)
-- [ ] [1874 스택 수열](https://www.acmicpc.net/problem/1874)
+- [x] [1874 스택 수열](https://www.acmicpc.net/problem/1874)
 - [x] [1406 에디터](https://www.acmicpc.net/problem/1406)
 - [x] [10845 큐](https://www.acmicpc.net/problem/10845)
 - [x] [1158 요세푸스 문제](https://www.acmicpc.net/problem/1158)

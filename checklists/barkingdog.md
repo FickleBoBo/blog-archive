@@ -51,7 +51,7 @@
 
 - [x] [10828 스택](https://www.acmicpc.net/problem/10828)
 - [x] [10773 제로](https://www.acmicpc.net/problem/10773)
-- [ ] [1874 스택 수열](https://www.acmicpc.net/problem/1874)
+- [x] [1874 스택 수열](https://www.acmicpc.net/problem/1874)
 - [x] [2493 탑](https://www.acmicpc.net/problem/2493)
 - [x] [6198 옥상 정원 꾸미기](https://www.acmicpc.net/problem/6198)
 - [x] [17298 오큰수](https://www.acmicpc.net/problem/17298)
