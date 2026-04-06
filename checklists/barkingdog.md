@@ -280,7 +280,7 @@
 - [ ] [1541 잃어버린 괄호](https://www.acmicpc.net/problem/1541)
 - [x] [11501 주식](https://www.acmicpc.net/problem/11501)
 - [ ] [1744 수 묶기](https://www.acmicpc.net/problem/1744)
-- [ ] [2847 게임을 만든 동준이](https://www.acmicpc.net/problem/2847)
+- [x] [2847 게임을 만든 동준이](https://www.acmicpc.net/problem/2847)
 - [ ] [1439 뒤집기](https://www.acmicpc.net/problem/1439)
 - [ ] [11000 강의실 배정](https://www.acmicpc.net/problem/11000)
 - [ ] [15903 카드 합체 놀이](https://www.acmicpc.net/problem/15903)

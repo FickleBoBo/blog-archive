@@ -257,7 +257,7 @@
 - [ ] [1931 회의실 배정](https://www.acmicpc.net/problem/1931)
 - [x] [11399 ATM](https://www.acmicpc.net/problem/11399)
 - [ ] [1541 잃어버린 괄호](https://www.acmicpc.net/problem/1541)
-- [ ] [13305 주유소](https://www.acmicpc.net/problem/13305)
+- [x] [13305 주유소](https://www.acmicpc.net/problem/13305)
 
 ## 24단계 - 분할 정복
 
