@@ -594,7 +594,7 @@
 ## 알고리즘 중급 1/3 / 711 - 그리디 알고리즘 (연습)
 
 - [ ] [1541 잃어버린 괄호](https://www.acmicpc.net/problem/1541)
-- [ ] [1744 수 묶기](https://www.acmicpc.net/problem/1744)
+- [x] [1744 수 묶기](https://www.acmicpc.net/problem/1744)
 - [ ] [2875 대회 or 인턴](https://www.acmicpc.net/problem/2875)
 - [x] [10610 30](https://www.acmicpc.net/problem/10610)
 - [ ] [1783 병든 나이트](https://www.acmicpc.net/problem/1783)
@@ -847,7 +847,7 @@
 - [ ] [2261 가장 가까운 두 점](https://www.acmicpc.net/problem/2261)
 - [ ] [11873 최대 직사각형](https://www.acmicpc.net/problem/11873)
 - [ ] [1689 겹치는 선분](https://www.acmicpc.net/problem/1689)
-- [ ] [2170 선 긋기](https://www.acmicpc.net/problem/2170)
+- [x] [2170 선 긋기](https://www.acmicpc.net/problem/2170)
 
 ## 알고리즘 중급 3/3 / 1200 - 그래프 2
 

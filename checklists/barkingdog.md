@@ -77,7 +77,7 @@
 - [x] [3986 좋은 단어](https://www.acmicpc.net/problem/3986)
 - [x] [9012 괄호](https://www.acmicpc.net/problem/9012)
 - [x] [10799 쇠막대기](https://www.acmicpc.net/problem/10799)
-- [ ] [2504 괄호의 값](https://www.acmicpc.net/problem/2504)
+- [x] [2504 괄호의 값](https://www.acmicpc.net/problem/2504)
 
 ## 0x09강 - BFS
 
@@ -279,12 +279,12 @@
 - [ ] [2457 공주님의 정원](https://www.acmicpc.net/problem/2457)
 - [ ] [1541 잃어버린 괄호](https://www.acmicpc.net/problem/1541)
 - [x] [11501 주식](https://www.acmicpc.net/problem/11501)
-- [ ] [1744 수 묶기](https://www.acmicpc.net/problem/1744)
+- [x] [1744 수 묶기](https://www.acmicpc.net/problem/1744)
 - [x] [2847 게임을 만든 동준이](https://www.acmicpc.net/problem/2847)
 - [x] [1439 뒤집기](https://www.acmicpc.net/problem/1439)
 - [ ] [11000 강의실 배정](https://www.acmicpc.net/problem/11000)
-- [ ] [15903 카드 합체 놀이](https://www.acmicpc.net/problem/15903)
-- [ ] [2170 선 긋기](https://www.acmicpc.net/problem/2170)
+- [x] [15903 카드 합체 놀이](https://www.acmicpc.net/problem/15903)
+- [x] [2170 선 긋기](https://www.acmicpc.net/problem/2170)
 - [ ] [1700 멀티탭 스케줄링](https://www.acmicpc.net/problem/1700)
 - [ ] [8980 택배](https://www.acmicpc.net/problem/8980)
 - [ ] [7570 줄 세우기](https://www.acmicpc.net/problem/7570)

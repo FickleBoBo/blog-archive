@@ -124,7 +124,7 @@
 - [x] [24265 알고리즘 수업 - 알고리즘의 수행 시간 4](https://www.acmicpc.net/problem/24265)
 - [x] [24266 알고리즘 수업 - 알고리즘의 수행 시간 5](https://www.acmicpc.net/problem/24266)
 - [ ] [24267 알고리즘 수업 - 알고리즘의 수행 시간 6](https://www.acmicpc.net/problem/24267)
-- [ ] [24313 알고리즘 수업 - 점근적 표기 1](https://www.acmicpc.net/problem/24313)
+- [x] [24313 알고리즘 수업 - 점근적 표기 1](https://www.acmicpc.net/problem/24313)
 
 ## 12단계 - 브루트 포스
 
@@ -524,7 +524,7 @@
 
 ## 49단계 - 스위핑
 
-- [ ] [2170 선 긋기](https://www.acmicpc.net/problem/2170)
+- [x] [2170 선 긋기](https://www.acmicpc.net/problem/2170)
 - [ ] [2836 수상 택시](https://www.acmicpc.net/problem/2836)
 - [ ] [5419 북서풍](https://www.acmicpc.net/problem/5419)
 - [ ] [17131 여우가 정보섬에 올라온 이유](https://www.acmicpc.net/problem/17131)
