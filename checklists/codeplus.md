@@ -609,8 +609,8 @@
 
 ## 알고리즘 중급 1/3 / 800 - 분할 정복
 
-- [ ] [10815 숫자 카드](https://www.acmicpc.net/problem/10815)
-- [ ] [10816 숫자 카드 2](https://www.acmicpc.net/problem/10816)
+- [x] [10815 숫자 카드](https://www.acmicpc.net/problem/10815)
+- [x] [10816 숫자 카드 2](https://www.acmicpc.net/problem/10816)
 - [ ] [11728 배열 합치기](https://www.acmicpc.net/problem/11728)
 
 ## 알고리즘 중급 1/3 / 801 - 분할 정복 (연습)

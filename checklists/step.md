@@ -151,11 +151,11 @@
 
 ## 14단계 - 집합과 맵
 
-- [ ] [10815 숫자 카드](https://www.acmicpc.net/problem/10815)
+- [x] [10815 숫자 카드](https://www.acmicpc.net/problem/10815)
 - [ ] [14425 문자열 집합](https://www.acmicpc.net/problem/14425)
 - [x] [7785 회사에 있는 사람](https://www.acmicpc.net/problem/7785)
 - [x] [1620 나는야 포켓몬 마스터 이다솜](https://www.acmicpc.net/problem/1620)
-- [ ] [10816 숫자 카드 2](https://www.acmicpc.net/problem/10816)
+- [x] [10816 숫자 카드 2](https://www.acmicpc.net/problem/10816)
 - [x] [1764 듣보잡](https://www.acmicpc.net/problem/1764)
 - [x] [1269 대칭 차집합](https://www.acmicpc.net/problem/1269)
 - [x] [11478 서로 다른 부분 문자열의 개수](https://www.acmicpc.net/problem/11478)
@@ -274,7 +274,7 @@
 ## 25단계 - 이분 탐색
 
 - [ ] [1920 수 찾기](https://www.acmicpc.net/problem/1920)
-- [ ] [10816 숫자 카드 2](https://www.acmicpc.net/problem/10816)
+- [x] [10816 숫자 카드 2](https://www.acmicpc.net/problem/10816)
 - [ ] [1654 랜선 자르기](https://www.acmicpc.net/problem/1654)
 - [ ] [2805 나무 자르기](https://www.acmicpc.net/problem/2805)
 - [ ] [2110 공유기 설치](https://www.acmicpc.net/problem/2110)
