@@ -276,7 +276,7 @@
 - [x] [2217 로프](https://www.acmicpc.net/problem/2217)
 - [x] [1026 보물](https://www.acmicpc.net/problem/1026)
 - [x] [11399 ATM](https://www.acmicpc.net/problem/11399)
-- [ ] [2457 공주님의 정원](https://www.acmicpc.net/problem/2457)
+- [x] [2457 공주님의 정원](https://www.acmicpc.net/problem/2457)
 - [ ] [1541 잃어버린 괄호](https://www.acmicpc.net/problem/1541)
 - [x] [11501 주식](https://www.acmicpc.net/problem/11501)
 - [x] [1744 수 묶기](https://www.acmicpc.net/problem/1744)
