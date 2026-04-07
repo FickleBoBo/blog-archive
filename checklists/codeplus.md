@@ -295,7 +295,7 @@
 ## 코딩 테스트 준비 - 문제 / BFS 알고리즘
 
 - [ ] [8111 0과 1](https://www.acmicpc.net/problem/8111)
-- [ ] [17071 숨바꼭질 5](https://www.acmicpc.net/problem/17071)
+- [x] [17071 숨바꼭질 5](https://www.acmicpc.net/problem/17071)
 - [ ] [1525 퍼즐](https://www.acmicpc.net/problem/1525)
 - [ ] [16973 직사각형 탈출](https://www.acmicpc.net/problem/16973)
 - [ ] [1175 배달](https://www.acmicpc.net/problem/1175)
@@ -900,7 +900,7 @@
 ## 알고리즘 중급 3/3 / 1220 - BFS 2
 
 - [ ] [8111 0과 1](https://www.acmicpc.net/problem/8111)
-- [ ] [17071 숨바꼭질 5](https://www.acmicpc.net/problem/17071)
+- [x] [17071 숨바꼭질 5](https://www.acmicpc.net/problem/17071)
 - [ ] [1525 퍼즐](https://www.acmicpc.net/problem/1525)
 - [ ] [16973 직사각형 탈출](https://www.acmicpc.net/problem/16973)
 - [ ] [1175 배달](https://www.acmicpc.net/problem/1175)
