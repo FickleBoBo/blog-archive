@@ -244,11 +244,11 @@
 
 ## 22단계 - 누적 합
 
-- [ ] [11659 구간 합 구하기 4](https://www.acmicpc.net/problem/11659)
+- [x] [11659 구간 합 구하기 4](https://www.acmicpc.net/problem/11659)
 - [ ] [2559 수열](https://www.acmicpc.net/problem/2559)
 - [ ] [16139 인간-컴퓨터 상호작용](https://www.acmicpc.net/problem/16139)
 - [ ] [10986 나머지 합](https://www.acmicpc.net/problem/10986)
-- [ ] [11660 구간 합 구하기 5](https://www.acmicpc.net/problem/11660)
+- [x] [11660 구간 합 구하기 5](https://www.acmicpc.net/problem/11660)
 - [ ] [25682 체스판 다시 칠하기 2](https://www.acmicpc.net/problem/25682)
 
 ## 23단계 - 그리디 알고리즘 1
@@ -348,7 +348,7 @@
 - [ ] [12852 1로 만들기 2](https://www.acmicpc.net/problem/12852)
 - [ ] [14002 가장 긴 증가하는 부분 수열 4](https://www.acmicpc.net/problem/14002)
 - [ ] [14003 가장 긴 증가하는 부분 수열 5](https://www.acmicpc.net/problem/14003)
-- [ ] [9252 LCS 2](https://www.acmicpc.net/problem/9252)
+- [x] [9252 LCS 2](https://www.acmicpc.net/problem/9252)
 - [ ] [2618 경찰차](https://www.acmicpc.net/problem/2618)
 - [x] [13913 숨바꼭질 4](https://www.acmicpc.net/problem/13913)
 - [x] [9019 DSLR](https://www.acmicpc.net/problem/9019)
@@ -608,8 +608,8 @@
 
 - [x] [9658 돌 게임 4](https://www.acmicpc.net/problem/9658)
 - [ ] [9662 돌 게임 8](https://www.acmicpc.net/problem/9662)
-- [ ] [11868 님 게임 2](https://www.acmicpc.net/problem/11868)
-- [ ] [11694 님 게임](https://www.acmicpc.net/problem/11694)
+- [x] [11868 님 게임 2](https://www.acmicpc.net/problem/11868)
+- [x] [11694 님 게임](https://www.acmicpc.net/problem/11694)
 - [ ] [27852 Kruskal](https://www.acmicpc.net/problem/27852)
 - [ ] [21970 Football](https://www.acmicpc.net/problem/21970)
 - [ ] [8170 Pebbles](https://www.acmicpc.net/problem/8170)

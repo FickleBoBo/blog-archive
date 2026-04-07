@@ -216,8 +216,8 @@
 - [ ] [2294 동전 2](https://www.acmicpc.net/problem/2294)
 - [ ] [11058 크리보드](https://www.acmicpc.net/problem/11058)
 - [x] [9251 LCS](https://www.acmicpc.net/problem/9251)
-- [ ] [9252 LCS 2](https://www.acmicpc.net/problem/9252)
-- [ ] [5582 공통 부분 문자열](https://www.acmicpc.net/problem/5582)
+- [x] [9252 LCS 2](https://www.acmicpc.net/problem/9252)
+- [x] [5582 공통 부분 문자열](https://www.acmicpc.net/problem/5582)
 - [ ] [5557 1학년](https://www.acmicpc.net/problem/5557)
 
 ## 코딩 테스트 준비 - 연습 / 시뮬레이션과 구현
@@ -920,10 +920,10 @@
 
 ## 알고리즘 중급 3/3 / 1240 - 펜윅 트리
 
-- [ ] [11659 구간 합 구하기 4](https://www.acmicpc.net/problem/11659)
+- [x] [11659 구간 합 구하기 4](https://www.acmicpc.net/problem/11659)
 - [ ] [2015 수들의 합 4](https://www.acmicpc.net/problem/2015)
 - [ ] [10986 나머지 합](https://www.acmicpc.net/problem/10986)
-- [ ] [11660 구간 합 구하기 5](https://www.acmicpc.net/problem/11660)
+- [x] [11660 구간 합 구하기 5](https://www.acmicpc.net/problem/11660)
 - [ ] [2042 구간 합 구하기](https://www.acmicpc.net/problem/2042)
 - [ ] [11658 구간 합 구하기 3](https://www.acmicpc.net/problem/11658)
 
@@ -981,7 +981,7 @@
 - [ ] [9662 돌 게임 8](https://www.acmicpc.net/problem/9662)
 - [ ] [11867 박스 나누기 게임](https://www.acmicpc.net/problem/11867)
 - [ ] [16876 재미있는 숫자 게임](https://www.acmicpc.net/problem/16876)
-- [ ] [11868 님 게임 2](https://www.acmicpc.net/problem/11868)
+- [x] [11868 님 게임 2](https://www.acmicpc.net/problem/11868)
 - [ ] [11869 님블](https://www.acmicpc.net/problem/11869)
 - [ ] [16877 핌버](https://www.acmicpc.net/problem/16877)
 - [ ] [11871 님 게임 홀짝](https://www.acmicpc.net/problem/11871)
@@ -1045,7 +1045,7 @@
 
 - [ ] [1701 Cubeditor](https://www.acmicpc.net/problem/1701)
 - [ ] [1605 반복 부분문자열](https://www.acmicpc.net/problem/1605)
-- [ ] [5582 공통 부분 문자열](https://www.acmicpc.net/problem/5582)
+- [x] [5582 공통 부분 문자열](https://www.acmicpc.net/problem/5582)
 - [ ] [9249 최장 공통 부분 문자열](https://www.acmicpc.net/problem/9249)
 - [ ] [3789 Hidden Password](https://www.acmicpc.net/problem/3789)
 - [ ] [13275 가장 긴 팰린드롬 부분 문자열](https://www.acmicpc.net/problem/13275)

@@ -150,7 +150,7 @@
 ## LCS
 
 - [x] [9251 LCS](https://www.acmicpc.net/problem/9251)
-- [ ] [9252 LCS 2](https://www.acmicpc.net/problem/9252)
+- [x] [9252 LCS 2](https://www.acmicpc.net/problem/9252)
 - [x] [1958 LCS 3](https://www.acmicpc.net/problem/1958)
 - [ ] [13711 LCS 4](https://www.acmicpc.net/problem/13711)
 - [ ] [18438 LCS 5](https://www.acmicpc.net/problem/18438)
@@ -373,8 +373,8 @@
 - [ ] [2042 구간 합 구하기](https://www.acmicpc.net/problem/2042)
 - [ ] [10999 구간 합 구하기 2](https://www.acmicpc.net/problem/10999)
 - [ ] [11658 구간 합 구하기 3](https://www.acmicpc.net/problem/11658)
-- [ ] [11659 구간 합 구하기 4](https://www.acmicpc.net/problem/11659)
-- [ ] [11660 구간 합 구하기 5](https://www.acmicpc.net/problem/11660)
+- [x] [11659 구간 합 구하기 4](https://www.acmicpc.net/problem/11659)
+- [x] [11660 구간 합 구하기 5](https://www.acmicpc.net/problem/11660)
 - [ ] [11505 구간 곱 구하기](https://www.acmicpc.net/problem/11505)
 
 ## 열혈강호
@@ -741,8 +741,8 @@
 
 ## 님 게임
 
-- [ ] [11694 님 게임](https://www.acmicpc.net/problem/11694)
-- [ ] [11868 님 게임 2](https://www.acmicpc.net/problem/11868)
+- [x] [11694 님 게임](https://www.acmicpc.net/problem/11694)
+- [x] [11868 님 게임 2](https://www.acmicpc.net/problem/11868)
 - [x] [16895 님 게임 3](https://www.acmicpc.net/problem/16895)
 
 ## 행렬 곱셈 순서
