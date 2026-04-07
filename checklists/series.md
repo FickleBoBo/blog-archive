@@ -149,9 +149,9 @@
 
 ## LCS
 
-- [ ] [9251 LCS](https://www.acmicpc.net/problem/9251)
+- [x] [9251 LCS](https://www.acmicpc.net/problem/9251)
 - [ ] [9252 LCS 2](https://www.acmicpc.net/problem/9252)
-- [ ] [1958 LCS 3](https://www.acmicpc.net/problem/1958)
+- [x] [1958 LCS 3](https://www.acmicpc.net/problem/1958)
 - [ ] [13711 LCS 4](https://www.acmicpc.net/problem/13711)
 - [ ] [18438 LCS 5](https://www.acmicpc.net/problem/18438)
 - [ ] [18439 LCS 6](https://www.acmicpc.net/problem/18439)
@@ -743,7 +743,7 @@
 
 - [ ] [11694 님 게임](https://www.acmicpc.net/problem/11694)
 - [ ] [11868 님 게임 2](https://www.acmicpc.net/problem/11868)
-- [ ] [16895 님 게임 3](https://www.acmicpc.net/problem/16895)
+- [x] [16895 님 게임 3](https://www.acmicpc.net/problem/16895)
 
 ## 행렬 곱셈 순서
 

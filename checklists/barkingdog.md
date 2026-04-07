@@ -110,7 +110,7 @@
 - [ ] [17071 숨바꼭질 5](https://www.acmicpc.net/problem/17071)
 - [x] [9328 열쇠](https://www.acmicpc.net/problem/9328)
 - [x] [3197 백조의 호수](https://www.acmicpc.net/problem/3197)
-- [ ] [20304 비밀번호 제작](https://www.acmicpc.net/problem/20304)
+- [x] [20304 비밀번호 제작](https://www.acmicpc.net/problem/20304)
 
 ## 0x0B강 - 재귀
 
@@ -305,7 +305,7 @@
 - [x] [1676 팩토리얼 0의 개수](https://www.acmicpc.net/problem/1676)
 - [x] [9613 GCD 합](https://www.acmicpc.net/problem/9613)
 - [ ] [2292 벌집](https://www.acmicpc.net/problem/2292)
-- [ ] [2869 달팽이는 올라가고 싶다](https://www.acmicpc.net/problem/2869)
+- [x] [2869 달팽이는 올라가고 싶다](https://www.acmicpc.net/problem/2869)
 - [x] [10610 30](https://www.acmicpc.net/problem/10610)
 - [ ] [6359 만취한 상범](https://www.acmicpc.net/problem/6359)
 - [ ] [10250 ACM 호텔](https://www.acmicpc.net/problem/10250)
@@ -558,7 +558,7 @@
 
 ## 부록 E - 다이나믹 프로그래밍 심화
 
-- [ ] [9251 LCS](https://www.acmicpc.net/problem/9251)
+- [x] [9251 LCS](https://www.acmicpc.net/problem/9251)
 - [ ] [9084 동전](https://www.acmicpc.net/problem/9084)
 - [ ] [12865 평범한 배낭](https://www.acmicpc.net/problem/12865)
 - [ ] [1915 가장 큰 정사각형](https://www.acmicpc.net/problem/1915)

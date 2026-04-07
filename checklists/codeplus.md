@@ -215,7 +215,7 @@
 - [ ] [2293 동전 1](https://www.acmicpc.net/problem/2293)
 - [ ] [2294 동전 2](https://www.acmicpc.net/problem/2294)
 - [ ] [11058 크리보드](https://www.acmicpc.net/problem/11058)
-- [ ] [9251 LCS](https://www.acmicpc.net/problem/9251)
+- [x] [9251 LCS](https://www.acmicpc.net/problem/9251)
 - [ ] [9252 LCS 2](https://www.acmicpc.net/problem/9252)
 - [ ] [5582 공통 부분 문자열](https://www.acmicpc.net/problem/5582)
 - [ ] [5557 1학년](https://www.acmicpc.net/problem/5557)

@@ -94,13 +94,13 @@
 - [x] [2903 중앙 이동 알고리즘](https://www.acmicpc.net/problem/2903)
 - [ ] [2292 벌집](https://www.acmicpc.net/problem/2292)
 - [ ] [1193 분수찾기](https://www.acmicpc.net/problem/1193)
-- [ ] [2869 달팽이는 올라가고 싶다](https://www.acmicpc.net/problem/2869)
+- [x] [2869 달팽이는 올라가고 싶다](https://www.acmicpc.net/problem/2869)
 
 ## 9단계 - 약수, 배수와 소수 1
 
 - [x] [5086 배수와 약수](https://www.acmicpc.net/problem/5086)
 - [ ] [2501 약수 구하기](https://www.acmicpc.net/problem/2501)
-- [ ] [9506 약수들의 합](https://www.acmicpc.net/problem/9506)
+- [x] [9506 약수들의 합](https://www.acmicpc.net/problem/9506)
 - [ ] [1978 소수 찾기](https://www.acmicpc.net/problem/1978)
 - [ ] [2581 소수](https://www.acmicpc.net/problem/2581)
 - [ ] [11653 소인수분해](https://www.acmicpc.net/problem/11653)
@@ -239,7 +239,7 @@
 - [ ] [11053 가장 긴 증가하는 부분 수열](https://www.acmicpc.net/problem/11053)
 - [ ] [11054 가장 긴 바이토닉 부분 수열](https://www.acmicpc.net/problem/11054)
 - [ ] [2565 전깃줄](https://www.acmicpc.net/problem/2565)
-- [ ] [9251 LCS](https://www.acmicpc.net/problem/9251)
+- [x] [9251 LCS](https://www.acmicpc.net/problem/9251)
 - [ ] [12865 평범한 배낭](https://www.acmicpc.net/problem/12865)
 
 ## 22단계 - 누적 합
