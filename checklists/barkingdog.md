@@ -300,7 +300,7 @@
 - [x] [15894 수학은 체육과목 입니다](https://www.acmicpc.net/problem/15894)
 - [ ] [4796 캠핑](https://www.acmicpc.net/problem/4796)
 - [ ] [2960 에라토스테네스의 체](https://www.acmicpc.net/problem/2960)
-- [ ] [1193 분수찾기](https://www.acmicpc.net/problem/1193)
+- [x] [1193 분수찾기](https://www.acmicpc.net/problem/1193)
 - [ ] [4948 베르트랑 공준](https://www.acmicpc.net/problem/4948)
 - [x] [1676 팩토리얼 0의 개수](https://www.acmicpc.net/problem/1676)
 - [x] [9613 GCD 합](https://www.acmicpc.net/problem/9613)

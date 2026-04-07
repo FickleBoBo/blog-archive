@@ -984,8 +984,8 @@
 - [x] [11868 님 게임 2](https://www.acmicpc.net/problem/11868)
 - [x] [11869 님블](https://www.acmicpc.net/problem/11869)
 - [x] [16877 핌버](https://www.acmicpc.net/problem/16877)
-- [ ] [11871 님 게임 홀짝](https://www.acmicpc.net/problem/11871)
-- [ ] [11872 님 게임 나누기](https://www.acmicpc.net/problem/11872)
+- [x] [11871 님 게임 홀짝](https://www.acmicpc.net/problem/11871)
+- [x] [11872 님 게임 나누기](https://www.acmicpc.net/problem/11872)
 
 ## 알고리즘 고급으로 가는 연결고리 1/2 / 1311 - 조합 게임 1 (연습)
 
