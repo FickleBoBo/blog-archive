@@ -613,7 +613,7 @@
 - [ ] [27852 Kruskal](https://www.acmicpc.net/problem/27852)
 - [ ] [21970 Football](https://www.acmicpc.net/problem/21970)
 - [ ] [8170 Pebbles](https://www.acmicpc.net/problem/8170)
-- [ ] [13034 다각형 게임](https://www.acmicpc.net/problem/13034)
+- [x] [13034 다각형 게임](https://www.acmicpc.net/problem/13034)
 - [ ] [11717 Wall Making Game](https://www.acmicpc.net/problem/11717)
 - [ ] [16883 대각 게임](https://www.acmicpc.net/problem/16883)
 

@@ -982,14 +982,14 @@
 - [ ] [11867 박스 나누기 게임](https://www.acmicpc.net/problem/11867)
 - [ ] [16876 재미있는 숫자 게임](https://www.acmicpc.net/problem/16876)
 - [x] [11868 님 게임 2](https://www.acmicpc.net/problem/11868)
-- [ ] [11869 님블](https://www.acmicpc.net/problem/11869)
+- [x] [11869 님블](https://www.acmicpc.net/problem/11869)
 - [x] [16877 핌버](https://www.acmicpc.net/problem/16877)
 - [ ] [11871 님 게임 홀짝](https://www.acmicpc.net/problem/11871)
 - [ ] [11872 님 게임 나누기](https://www.acmicpc.net/problem/11872)
 
 ## 알고리즘 고급으로 가는 연결고리 1/2 / 1311 - 조합 게임 1 (연습)
 
-- [ ] [13034 다각형 게임](https://www.acmicpc.net/problem/13034)
+- [x] [13034 다각형 게임](https://www.acmicpc.net/problem/13034)
 - [ ] [16879 궁전 게임](https://www.acmicpc.net/problem/16879)
 - [ ] [16880 룩, 비숍, 킹, 나이트, 궁전 게임](https://www.acmicpc.net/problem/16880)
 - [ ] [16881 행렬 게임](https://www.acmicpc.net/problem/16881)
