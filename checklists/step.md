@@ -408,7 +408,7 @@
 - [x] [17298 오큰수](https://www.acmicpc.net/problem/17298)
 - [ ] [17299 오등큰수](https://www.acmicpc.net/problem/17299)
 - [ ] [1725 히스토그램](https://www.acmicpc.net/problem/1725)
-- [ ] [3015 오아시스 재결합](https://www.acmicpc.net/problem/3015)
+- [x] [3015 오아시스 재결합](https://www.acmicpc.net/problem/3015)
 - [ ] [11003 최솟값 찾기](https://www.acmicpc.net/problem/11003)
 - [ ] [5977 Mowing the Lawn](https://www.acmicpc.net/problem/5977)
 - [ ] [15678 연세워터파크](https://www.acmicpc.net/problem/15678)

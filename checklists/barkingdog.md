@@ -55,7 +55,7 @@
 - [x] [2493 탑](https://www.acmicpc.net/problem/2493)
 - [x] [6198 옥상 정원 꾸미기](https://www.acmicpc.net/problem/6198)
 - [x] [17298 오큰수](https://www.acmicpc.net/problem/17298)
-- [ ] [3015 오아시스 재결합](https://www.acmicpc.net/problem/3015)
+- [x] [3015 오아시스 재결합](https://www.acmicpc.net/problem/3015)
 - [x] [6549 히스토그램에서 가장 큰 직사각형](https://www.acmicpc.net/problem/6549)
 
 ## 0x06강 - 큐
