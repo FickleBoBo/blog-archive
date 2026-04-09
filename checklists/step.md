@@ -7,7 +7,7 @@
 - [x] [1001 A-B](https://www.acmicpc.net/problem/1001)
 - [x] [10998 A×B](https://www.acmicpc.net/problem/10998)
 - [x] [1008 A/B](https://www.acmicpc.net/problem/1008)
-- [ ] [10869 사칙연산](https://www.acmicpc.net/problem/10869)
+- [x] [10869 사칙연산](https://www.acmicpc.net/problem/10869)
 - [x] [10926 ??!](https://www.acmicpc.net/problem/10926)
 - [x] [18108 1998년생인 내가 태국에서는 2541년생?!](https://www.acmicpc.net/problem/18108)
 - [x] [10430 나머지](https://www.acmicpc.net/problem/10430)
@@ -31,8 +31,8 @@
 - [x] [2739 구구단](https://www.acmicpc.net/problem/2739)
 - [x] [10950 A+B - 3](https://www.acmicpc.net/problem/10950)
 - [ ] [8393 합](https://www.acmicpc.net/problem/8393)
-- [ ] [25304 영수증](https://www.acmicpc.net/problem/25304)
-- [ ] [25314 코딩은 체육과목 입니다](https://www.acmicpc.net/problem/25314)
+- [x] [25304 영수증](https://www.acmicpc.net/problem/25304)
+- [x] [25314 코딩은 체육과목 입니다](https://www.acmicpc.net/problem/25314)
 - [x] [15552 빠른 A+B](https://www.acmicpc.net/problem/15552)
 - [x] [11021 A+B - 7](https://www.acmicpc.net/problem/11021)
 - [x] [11022 A+B - 8](https://www.acmicpc.net/problem/11022)
@@ -44,26 +44,26 @@
 ## 4단계 - 1차원 배열
 
 - [ ] [10807 개수 세기](https://www.acmicpc.net/problem/10807)
-- [ ] [10871 X보다 작은 수](https://www.acmicpc.net/problem/10871)
+- [x] [10871 X보다 작은 수](https://www.acmicpc.net/problem/10871)
 - [ ] [10818 최소, 최대](https://www.acmicpc.net/problem/10818)
 - [ ] [2562 최댓값](https://www.acmicpc.net/problem/2562)
 - [ ] [10810 공 넣기](https://www.acmicpc.net/problem/10810)
 - [ ] [10813 공 바꾸기](https://www.acmicpc.net/problem/10813)
-- [ ] [5597 과제 안 내신 분..?](https://www.acmicpc.net/problem/5597)
-- [ ] [3052 나머지](https://www.acmicpc.net/problem/3052)
+- [x] [5597 과제 안 내신 분..?](https://www.acmicpc.net/problem/5597)
+- [x] [3052 나머지](https://www.acmicpc.net/problem/3052)
 - [ ] [10811 바구니 뒤집기](https://www.acmicpc.net/problem/10811)
 - [ ] [1546 평균](https://www.acmicpc.net/problem/1546)
 
 ## 5단계 - 문자열
 
 - [ ] [27866 문자와 문자열](https://www.acmicpc.net/problem/27866)
-- [ ] [2743 단어 길이 재기](https://www.acmicpc.net/problem/2743)
+- [x] [2743 단어 길이 재기](https://www.acmicpc.net/problem/2743)
 - [x] [9086 문자열](https://www.acmicpc.net/problem/9086)
 - [x] [11654 아스키 코드](https://www.acmicpc.net/problem/11654)
-- [ ] [11720 숫자의 합](https://www.acmicpc.net/problem/11720)
-- [ ] [10809 알파벳 찾기](https://www.acmicpc.net/problem/10809)
+- [x] [11720 숫자의 합](https://www.acmicpc.net/problem/11720)
+- [x] [10809 알파벳 찾기](https://www.acmicpc.net/problem/10809)
 - [ ] [2675 문자열 반복](https://www.acmicpc.net/problem/2675)
-- [ ] [1152 단어의 개수](https://www.acmicpc.net/problem/1152)
+- [x] [1152 단어의 개수](https://www.acmicpc.net/problem/1152)
 - [x] [2908 상수](https://www.acmicpc.net/problem/2908)
 - [x] [5622 다이얼](https://www.acmicpc.net/problem/5622)
 - [x] [11718 그대로 출력하기](https://www.acmicpc.net/problem/11718)
@@ -81,15 +81,15 @@
 
 ## 7단계 - 2차원 배열
 
-- [ ] [2738 행렬 덧셈](https://www.acmicpc.net/problem/2738)
+- [x] [2738 행렬 덧셈](https://www.acmicpc.net/problem/2738)
 - [ ] [2566 최댓값](https://www.acmicpc.net/problem/2566)
 - [ ] [10798 세로읽기](https://www.acmicpc.net/problem/10798)
 - [ ] [2563 색종이](https://www.acmicpc.net/problem/2563)
 
 ## 8단계 - 수학 1
 
-- [ ] [2745 진법 변환](https://www.acmicpc.net/problem/2745)
-- [ ] [11005 진법 변환 2](https://www.acmicpc.net/problem/11005)
+- [x] [2745 진법 변환](https://www.acmicpc.net/problem/2745)
+- [x] [11005 진법 변환 2](https://www.acmicpc.net/problem/11005)
 - [x] [2720 세탁소 사장 동혁](https://www.acmicpc.net/problem/2720)
 - [ ] [2903 중앙 이동 알고리즘](https://www.acmicpc.net/problem/2903)
 - [ ] [2292 벌집](https://www.acmicpc.net/problem/2292)
@@ -98,7 +98,7 @@
 
 ## 9단계 - 약수, 배수와 소수 1
 
-- [ ] [5086 배수와 약수](https://www.acmicpc.net/problem/5086)
+- [x] [5086 배수와 약수](https://www.acmicpc.net/problem/5086)
 - [ ] [2501 약수 구하기](https://www.acmicpc.net/problem/2501)
 - [ ] [9506 약수들의 합](https://www.acmicpc.net/problem/9506)
 - [ ] [1978 소수 찾기](https://www.acmicpc.net/problem/1978)
@@ -113,7 +113,7 @@
 - [x] [15894 수학은 체육과목 입니다](https://www.acmicpc.net/problem/15894)
 - [x] [9063 대지](https://www.acmicpc.net/problem/9063)
 - [x] [10101 삼각형 외우기](https://www.acmicpc.net/problem/10101)
-- [ ] [5073 삼각형과 세 변](https://www.acmicpc.net/problem/5073)
+- [x] [5073 삼각형과 세 변](https://www.acmicpc.net/problem/5073)
 - [ ] [14215 세 막대](https://www.acmicpc.net/problem/14215)
 
 ## 11단계 - 시간 복잡도
@@ -132,7 +132,7 @@
 - [ ] [2231 분해합](https://www.acmicpc.net/problem/2231)
 - [x] [19532 수학은 비대면강의입니다](https://www.acmicpc.net/problem/19532)
 - [ ] [1018 체스판 다시 칠하기](https://www.acmicpc.net/problem/1018)
-- [ ] [1436 영화감독 숌](https://www.acmicpc.net/problem/1436)
+- [x] [1436 영화감독 숌](https://www.acmicpc.net/problem/1436)
 - [x] [2839 설탕 배달](https://www.acmicpc.net/problem/2839)
 
 ## 13단계 - 정렬
@@ -145,7 +145,7 @@
 - [x] [1427 소트인사이드](https://www.acmicpc.net/problem/1427)
 - [x] [11650 좌표 정렬하기](https://www.acmicpc.net/problem/11650)
 - [x] [11651 좌표 정렬하기 2](https://www.acmicpc.net/problem/11651)
-- [ ] [1181 단어 정렬](https://www.acmicpc.net/problem/1181)
+- [x] [1181 단어 정렬](https://www.acmicpc.net/problem/1181)
 - [ ] [10814 나이순 정렬](https://www.acmicpc.net/problem/10814)
 - [ ] [18870 좌표 압축](https://www.acmicpc.net/problem/18870)
 
@@ -156,7 +156,7 @@
 - [x] [7785 회사에 있는 사람](https://www.acmicpc.net/problem/7785)
 - [x] [1620 나는야 포켓몬 마스터 이다솜](https://www.acmicpc.net/problem/1620)
 - [ ] [10816 숫자 카드 2](https://www.acmicpc.net/problem/10816)
-- [ ] [1764 듣보잡](https://www.acmicpc.net/problem/1764)
+- [x] [1764 듣보잡](https://www.acmicpc.net/problem/1764)
 - [x] [1269 대칭 차집합](https://www.acmicpc.net/problem/1269)
 - [x] [11478 서로 다른 부분 문자열의 개수](https://www.acmicpc.net/problem/11478)
 
@@ -244,16 +244,16 @@
 
 ## 22단계 - 누적 합
 
-- [ ] [11659 구간 합 구하기 4](https://www.acmicpc.net/problem/11659)
+- [x] [11659 구간 합 구하기 4](https://www.acmicpc.net/problem/11659)
 - [ ] [2559 수열](https://www.acmicpc.net/problem/2559)
 - [ ] [16139 인간-컴퓨터 상호작용](https://www.acmicpc.net/problem/16139)
 - [ ] [10986 나머지 합](https://www.acmicpc.net/problem/10986)
-- [ ] [11660 구간 합 구하기 5](https://www.acmicpc.net/problem/11660)
+- [x] [11660 구간 합 구하기 5](https://www.acmicpc.net/problem/11660)
 - [ ] [25682 체스판 다시 칠하기 2](https://www.acmicpc.net/problem/25682)
 
 ## 23단계 - 그리디 알고리즘 1
 
-- [ ] [11047 동전 0](https://www.acmicpc.net/problem/11047)
+- [x] [11047 동전 0](https://www.acmicpc.net/problem/11047)
 - [ ] [1931 회의실 배정](https://www.acmicpc.net/problem/1931)
 - [ ] [11399 ATM](https://www.acmicpc.net/problem/11399)
 - [ ] [1541 잃어버린 괄호](https://www.acmicpc.net/problem/1541)

@@ -2,11 +2,11 @@
 
 ## 0x02강 - 기초 코드 작성 요령 II
 
-- [ ] [10871 X보다 작은 수](https://www.acmicpc.net/problem/10871)
+- [x] [10871 X보다 작은 수](https://www.acmicpc.net/problem/10871)
 - [x] [1000 A+B](https://www.acmicpc.net/problem/1000)
 - [x] [2557 Hello World](https://www.acmicpc.net/problem/2557)
 - [x] [10171 고양이](https://www.acmicpc.net/problem/10171)
-- [ ] [10869 사칙연산](https://www.acmicpc.net/problem/10869)
+- [x] [10869 사칙연산](https://www.acmicpc.net/problem/10869)
 - [ ] [9498 시험 성적](https://www.acmicpc.net/problem/9498)
 - [x] [2752 세수정렬](https://www.acmicpc.net/problem/2752)
 - [ ] [2753 윤년](https://www.acmicpc.net/problem/2753)
@@ -43,8 +43,8 @@
 
 ## 0x04강 - 연결 리스트
 
-- [ ] [1406 에디터](https://www.acmicpc.net/problem/1406)
-- [ ] [5397 키로거](https://www.acmicpc.net/problem/5397)
+- [x] [1406 에디터](https://www.acmicpc.net/problem/1406)
+- [x] [5397 키로거](https://www.acmicpc.net/problem/5397)
 - [x] [1158 요세푸스 문제](https://www.acmicpc.net/problem/1158)
 
 ## 0x05강 - 스택
@@ -228,7 +228,7 @@
 - [ ] [1431 시리얼 번호](https://www.acmicpc.net/problem/1431)
 - [ ] [11652 카드](https://www.acmicpc.net/problem/11652)
 - [ ] [5648 역원소 정렬](https://www.acmicpc.net/problem/5648)
-- [ ] [1181 단어 정렬](https://www.acmicpc.net/problem/1181)
+- [x] [1181 단어 정렬](https://www.acmicpc.net/problem/1181)
 - [ ] [2910 빈도 정렬](https://www.acmicpc.net/problem/2910)
 - [ ] [10814 나이순 정렬](https://www.acmicpc.net/problem/10814)
 - [ ] [11656 접미사 배열](https://www.acmicpc.net/problem/11656)
@@ -242,7 +242,7 @@
 - [ ] [2579 계단 오르기](https://www.acmicpc.net/problem/2579)
 - [ ] [1149 RGB거리](https://www.acmicpc.net/problem/1149)
 - [ ] [11726 2×n 타일링](https://www.acmicpc.net/problem/11726)
-- [ ] [11659 구간 합 구하기 4](https://www.acmicpc.net/problem/11659)
+- [x] [11659 구간 합 구하기 4](https://www.acmicpc.net/problem/11659)
 - [ ] [12852 1로 만들기 2](https://www.acmicpc.net/problem/12852)
 - [ ] [1003 피보나치 함수](https://www.acmicpc.net/problem/1003)
 - [ ] [1932 정수 삼각형](https://www.acmicpc.net/problem/1932)
@@ -271,7 +271,7 @@
 
 ## 0x11강 - 그리디
 
-- [ ] [11047 동전 0](https://www.acmicpc.net/problem/11047)
+- [x] [11047 동전 0](https://www.acmicpc.net/problem/11047)
 - [ ] [1931 회의실 배정](https://www.acmicpc.net/problem/1931)
 - [ ] [2217 로프](https://www.acmicpc.net/problem/2217)
 - [ ] [1026 보물](https://www.acmicpc.net/problem/1026)
@@ -306,7 +306,7 @@
 - [ ] [9613 GCD 합](https://www.acmicpc.net/problem/9613)
 - [ ] [2292 벌집](https://www.acmicpc.net/problem/2292)
 - [ ] [2869 달팽이는 올라가고 싶다](https://www.acmicpc.net/problem/2869)
-- [ ] [10610 30](https://www.acmicpc.net/problem/10610)
+- [x] [10610 30](https://www.acmicpc.net/problem/10610)
 - [ ] [6359 만취한 상범](https://www.acmicpc.net/problem/6359)
 - [ ] [10250 ACM 호텔](https://www.acmicpc.net/problem/10250)
 - [ ] [1456 거의 소수](https://www.acmicpc.net/problem/1456)
@@ -336,7 +336,7 @@
 - [ ] [1920 수 찾기](https://www.acmicpc.net/problem/1920)
 - [ ] [10816 숫자 카드 2](https://www.acmicpc.net/problem/10816)
 - [ ] [18870 좌표 압축](https://www.acmicpc.net/problem/18870)
-- [ ] [2295 세 수의 합](https://www.acmicpc.net/problem/2295)
+- [x] [2295 세 수의 합](https://www.acmicpc.net/problem/2295)
 - [ ] [1654 랜선 자르기](https://www.acmicpc.net/problem/1654)
 - [ ] [10815 숫자 카드](https://www.acmicpc.net/problem/10815)
 - [ ] [1822 차집합](https://www.acmicpc.net/problem/1822)
@@ -569,7 +569,7 @@
 - [ ] [10942 팰린드롬?](https://www.acmicpc.net/problem/10942)
 - [ ] [1699 제곱수의 합](https://www.acmicpc.net/problem/1699)
 - [ ] [9657 돌 게임 3](https://www.acmicpc.net/problem/9657)
-- [ ] [11660 구간 합 구하기 5](https://www.acmicpc.net/problem/11660)
+- [x] [11660 구간 합 구하기 5](https://www.acmicpc.net/problem/11660)
 - [ ] [2011 암호코드](https://www.acmicpc.net/problem/2011)
 - [ ] [12784 인하니카 공화국](https://www.acmicpc.net/problem/12784)
 - [ ] [25515 트리 노드 합의 최댓값](https://www.acmicpc.net/problem/25515)

@@ -347,7 +347,7 @@
 
 ## 영화감독 숌
 
-- [ ] [1436 영화감독 숌](https://www.acmicpc.net/problem/1436)
+- [x] [1436 영화감독 숌](https://www.acmicpc.net/problem/1436)
 - [ ] [27438 영화감독 숌 2](https://www.acmicpc.net/problem/27438)
 - [ ] [27441 영화감독 숌 3](https://www.acmicpc.net/problem/27441)
 - [ ] [27458 영화감독 숌 4](https://www.acmicpc.net/problem/27458)
@@ -364,7 +364,7 @@
 
 ## 동전
 
-- [ ] [11047 동전 0](https://www.acmicpc.net/problem/11047)
+- [x] [11047 동전 0](https://www.acmicpc.net/problem/11047)
 - [ ] [2293 동전 1](https://www.acmicpc.net/problem/2293)
 - [ ] [2294 동전 2](https://www.acmicpc.net/problem/2294)
 
@@ -373,8 +373,8 @@
 - [ ] [2042 구간 합 구하기](https://www.acmicpc.net/problem/2042)
 - [ ] [10999 구간 합 구하기 2](https://www.acmicpc.net/problem/10999)
 - [ ] [11658 구간 합 구하기 3](https://www.acmicpc.net/problem/11658)
-- [ ] [11659 구간 합 구하기 4](https://www.acmicpc.net/problem/11659)
-- [ ] [11660 구간 합 구하기 5](https://www.acmicpc.net/problem/11660)
+- [x] [11659 구간 합 구하기 4](https://www.acmicpc.net/problem/11659)
+- [x] [11660 구간 합 구하기 5](https://www.acmicpc.net/problem/11660)
 - [ ] [11505 구간 곱 구하기](https://www.acmicpc.net/problem/11505)
 
 ## 열혈강호

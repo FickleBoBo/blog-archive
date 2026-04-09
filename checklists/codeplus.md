@@ -346,7 +346,7 @@
 - [ ] [9093 단어 뒤집기](https://www.acmicpc.net/problem/9093)
 - [ ] [9012 괄호](https://www.acmicpc.net/problem/9012)
 - [ ] [1874 스택 수열](https://www.acmicpc.net/problem/1874)
-- [ ] [1406 에디터](https://www.acmicpc.net/problem/1406)
+- [x] [1406 에디터](https://www.acmicpc.net/problem/1406)
 - [ ] [10845 큐](https://www.acmicpc.net/problem/10845)
 - [x] [1158 요세푸스 문제](https://www.acmicpc.net/problem/1158)
 - [ ] [10866 덱](https://www.acmicpc.net/problem/10866)
@@ -363,9 +363,9 @@
 - [ ] [1935 후위 표기식2](https://www.acmicpc.net/problem/1935)
 - [ ] [1918 후위 표기식](https://www.acmicpc.net/problem/1918)
 - [x] [10808 알파벳 개수](https://www.acmicpc.net/problem/10808)
-- [ ] [10809 알파벳 찾기](https://www.acmicpc.net/problem/10809)
+- [x] [10809 알파벳 찾기](https://www.acmicpc.net/problem/10809)
 - [ ] [10820 문자열 분석](https://www.acmicpc.net/problem/10820)
-- [ ] [2743 단어 길이 재기](https://www.acmicpc.net/problem/2743)
+- [x] [2743 단어 길이 재기](https://www.acmicpc.net/problem/2743)
 - [ ] [11655 ROT13](https://www.acmicpc.net/problem/11655)
 - [ ] [10824 네 수](https://www.acmicpc.net/problem/10824)
 - [ ] [11656 접미사 배열](https://www.acmicpc.net/problem/11656)
@@ -393,8 +393,8 @@
 
 ## 알고리즘 기초 1/2 / 303 - 수학 1 (참고)
 
-- [ ] [11005 진법 변환 2](https://www.acmicpc.net/problem/11005)
-- [ ] [2745 진법 변환](https://www.acmicpc.net/problem/2745)
+- [x] [11005 진법 변환 2](https://www.acmicpc.net/problem/11005)
+- [x] [2745 진법 변환](https://www.acmicpc.net/problem/2745)
 - [ ] [11576 Base Conversion](https://www.acmicpc.net/problem/11576)
 - [ ] [11653 소인수분해](https://www.acmicpc.net/problem/11653)
 
@@ -581,7 +581,7 @@
 
 ## 알고리즘 중급 1/3 / 710 - 그리디 알고리즘
 
-- [ ] [11047 동전 0](https://www.acmicpc.net/problem/11047)
+- [x] [11047 동전 0](https://www.acmicpc.net/problem/11047)
 - [ ] [1931 회의실 배정](https://www.acmicpc.net/problem/1931)
 - [ ] [11399 ATM](https://www.acmicpc.net/problem/11399)
 - [ ] [1080 행렬](https://www.acmicpc.net/problem/1080)
@@ -596,7 +596,7 @@
 - [ ] [1541 잃어버린 괄호](https://www.acmicpc.net/problem/1541)
 - [ ] [1744 수 묶기](https://www.acmicpc.net/problem/1744)
 - [ ] [2875 대회 or 인턴](https://www.acmicpc.net/problem/2875)
-- [ ] [10610 30](https://www.acmicpc.net/problem/10610)
+- [x] [10610 30](https://www.acmicpc.net/problem/10610)
 - [ ] [1783 병든 나이트](https://www.acmicpc.net/problem/1783)
 - [ ] [12970 AB](https://www.acmicpc.net/problem/12970)
 - [ ] [12904 A와 B](https://www.acmicpc.net/problem/12904)
@@ -739,7 +739,7 @@
 - [ ] [1927 최소 힙](https://www.acmicpc.net/problem/1927)
 - [ ] [1655 가운데를 말해요](https://www.acmicpc.net/problem/1655)
 - [x] [7785 회사에 있는 사람](https://www.acmicpc.net/problem/7785)
-- [ ] [1764 듣보잡](https://www.acmicpc.net/problem/1764)
+- [x] [1764 듣보잡](https://www.acmicpc.net/problem/1764)
 
 ## 알고리즘 중급 2/3 / 901 - 자료구조 2 (연습)
 
@@ -920,10 +920,10 @@
 
 ## 알고리즘 중급 3/3 / 1240 - 펜윅 트리
 
-- [ ] [11659 구간 합 구하기 4](https://www.acmicpc.net/problem/11659)
+- [x] [11659 구간 합 구하기 4](https://www.acmicpc.net/problem/11659)
 - [ ] [2015 수들의 합 4](https://www.acmicpc.net/problem/2015)
 - [ ] [10986 나머지 합](https://www.acmicpc.net/problem/10986)
-- [ ] [11660 구간 합 구하기 5](https://www.acmicpc.net/problem/11660)
+- [x] [11660 구간 합 구하기 5](https://www.acmicpc.net/problem/11660)
 - [ ] [2042 구간 합 구하기](https://www.acmicpc.net/problem/2042)
 - [ ] [11658 구간 합 구하기 3](https://www.acmicpc.net/problem/11658)
 
