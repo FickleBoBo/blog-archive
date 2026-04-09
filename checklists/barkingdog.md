@@ -50,7 +50,7 @@
 ## 0x05강 - 스택
 
 - [ ] [10828 스택](https://www.acmicpc.net/problem/10828)
-- [ ] [10773 제로](https://www.acmicpc.net/problem/10773)
+- [x] [10773 제로](https://www.acmicpc.net/problem/10773)
 - [ ] [1874 스택 수열](https://www.acmicpc.net/problem/1874)
 - [ ] [2493 탑](https://www.acmicpc.net/problem/2493)
 - [ ] [6198 옥상 정원 꾸미기](https://www.acmicpc.net/problem/6198)
@@ -214,14 +214,14 @@
 
 ## 0x0E강 - 정렬 I
 
-- [ ] [2750 수 정렬하기](https://www.acmicpc.net/problem/2750)
-- [ ] [2751 수 정렬하기 2](https://www.acmicpc.net/problem/2751)
-- [ ] [10989 수 정렬하기 3](https://www.acmicpc.net/problem/10989)
-- [ ] [11931 수 정렬하기 4](https://www.acmicpc.net/problem/11931)
-- [ ] [15688 수 정렬하기 5](https://www.acmicpc.net/problem/15688)
+- [x] [2750 수 정렬하기](https://www.acmicpc.net/problem/2750)
+- [x] [2751 수 정렬하기 2](https://www.acmicpc.net/problem/2751)
+- [x] [10989 수 정렬하기 3](https://www.acmicpc.net/problem/10989)
+- [x] [11931 수 정렬하기 4](https://www.acmicpc.net/problem/11931)
+- [x] [15688 수 정렬하기 5](https://www.acmicpc.net/problem/15688)
 - [ ] [10814 나이순 정렬](https://www.acmicpc.net/problem/10814)
-- [ ] [11650 좌표 정렬하기](https://www.acmicpc.net/problem/11650)
-- [ ] [11651 좌표 정렬하기 2](https://www.acmicpc.net/problem/11651)
+- [x] [11650 좌표 정렬하기](https://www.acmicpc.net/problem/11650)
+- [x] [11651 좌표 정렬하기 2](https://www.acmicpc.net/problem/11651)
 
 ## 0x0F강 - 정렬 II
 
@@ -297,7 +297,7 @@
 - [ ] [6064 카잉 달력](https://www.acmicpc.net/problem/6064)
 - [ ] [11050 이항 계수 1](https://www.acmicpc.net/problem/11050)
 - [ ] [11051 이항 계수 2](https://www.acmicpc.net/problem/11051)
-- [ ] [15894 수학은 체육과목 입니다](https://www.acmicpc.net/problem/15894)
+- [x] [15894 수학은 체육과목 입니다](https://www.acmicpc.net/problem/15894)
 - [ ] [4796 캠핑](https://www.acmicpc.net/problem/4796)
 - [ ] [2960 에라토스테네스의 체](https://www.acmicpc.net/problem/2960)
 - [ ] [1193 분수찾기](https://www.acmicpc.net/problem/1193)
@@ -310,7 +310,7 @@
 - [ ] [6359 만취한 상범](https://www.acmicpc.net/problem/6359)
 - [ ] [10250 ACM 호텔](https://www.acmicpc.net/problem/10250)
 - [ ] [1456 거의 소수](https://www.acmicpc.net/problem/1456)
-- [ ] [2839 설탕 배달](https://www.acmicpc.net/problem/2839)
+- [x] [2839 설탕 배달](https://www.acmicpc.net/problem/2839)
 - [ ] [17103 골드바흐 파티션](https://www.acmicpc.net/problem/17103)
 - [ ] [2312 수 복원하기](https://www.acmicpc.net/problem/2312)
 - [ ] [9020 골드바흐의 추측](https://www.acmicpc.net/problem/9020)
@@ -372,7 +372,7 @@
 ## 0x15강 - 해시
 
 - [ ] [7785 회사에 있는 사람](https://www.acmicpc.net/problem/7785)
-- [ ] [1620 나는야 포켓몬 마스터 이다솜](https://www.acmicpc.net/problem/1620)
+- [x] [1620 나는야 포켓몬 마스터 이다솜](https://www.acmicpc.net/problem/1620)
 - [ ] [13414 수강신청](https://www.acmicpc.net/problem/13414)
 - [ ] [17219 비밀번호 찾기](https://www.acmicpc.net/problem/17219)
 - [ ] [9375 패션왕 신해빈](https://www.acmicpc.net/problem/9375)

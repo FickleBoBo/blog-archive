@@ -9,7 +9,7 @@
 - [x] [1008 A/B](https://www.acmicpc.net/problem/1008)
 - [ ] [10869 사칙연산](https://www.acmicpc.net/problem/10869)
 - [x] [10926 ??!](https://www.acmicpc.net/problem/10926)
-- [ ] [18108 1998년생인 내가 태국에서는 2541년생?!](https://www.acmicpc.net/problem/18108)
+- [x] [18108 1998년생인 내가 태국에서는 2541년생?!](https://www.acmicpc.net/problem/18108)
 - [x] [10430 나머지](https://www.acmicpc.net/problem/10430)
 - [ ] [2588 곱셈](https://www.acmicpc.net/problem/2588)
 - [x] [11382 꼬마 정민](https://www.acmicpc.net/problem/11382)
@@ -21,7 +21,7 @@
 - [ ] [1330 두 수 비교하기](https://www.acmicpc.net/problem/1330)
 - [ ] [9498 시험 성적](https://www.acmicpc.net/problem/9498)
 - [ ] [2753 윤년](https://www.acmicpc.net/problem/2753)
-- [ ] [14681 사분면 고르기](https://www.acmicpc.net/problem/14681)
+- [x] [14681 사분면 고르기](https://www.acmicpc.net/problem/14681)
 - [ ] [2884 알람 시계](https://www.acmicpc.net/problem/2884)
 - [ ] [2525 오븐 시계](https://www.acmicpc.net/problem/2525)
 - [ ] [2480 주사위 세개](https://www.acmicpc.net/problem/2480)
@@ -70,7 +70,7 @@
 
 ## 6단계 - 심화 1
 
-- [ ] [25083 새싹](https://www.acmicpc.net/problem/25083)
+- [x] [25083 새싹](https://www.acmicpc.net/problem/25083)
 - [x] [3003 킹, 퀸, 룩, 비숍, 나이트, 폰](https://www.acmicpc.net/problem/3003)
 - [ ] [2444 별 찍기 - 7](https://www.acmicpc.net/problem/2444)
 - [ ] [10988 팰린드롬인지 확인하기](https://www.acmicpc.net/problem/10988)
@@ -107,10 +107,10 @@
 
 ## 10단계 - 기하 1: 직사각형과 삼각형
 
-- [ ] [27323 직사각형](https://www.acmicpc.net/problem/27323)
+- [x] [27323 직사각형](https://www.acmicpc.net/problem/27323)
 - [ ] [1085 직사각형에서 탈출](https://www.acmicpc.net/problem/1085)
 - [ ] [3009 네 번째 점](https://www.acmicpc.net/problem/3009)
-- [ ] [15894 수학은 체육과목 입니다](https://www.acmicpc.net/problem/15894)
+- [x] [15894 수학은 체육과목 입니다](https://www.acmicpc.net/problem/15894)
 - [ ] [9063 대지](https://www.acmicpc.net/problem/9063)
 - [ ] [10101 삼각형 외우기](https://www.acmicpc.net/problem/10101)
 - [ ] [5073 삼각형과 세 변](https://www.acmicpc.net/problem/5073)
@@ -133,18 +133,18 @@
 - [ ] [19532 수학은 비대면강의입니다](https://www.acmicpc.net/problem/19532)
 - [ ] [1018 체스판 다시 칠하기](https://www.acmicpc.net/problem/1018)
 - [ ] [1436 영화감독 숌](https://www.acmicpc.net/problem/1436)
-- [ ] [2839 설탕 배달](https://www.acmicpc.net/problem/2839)
+- [x] [2839 설탕 배달](https://www.acmicpc.net/problem/2839)
 
 ## 13단계 - 정렬
 
-- [ ] [2750 수 정렬하기](https://www.acmicpc.net/problem/2750)
+- [x] [2750 수 정렬하기](https://www.acmicpc.net/problem/2750)
 - [ ] [2587 대표값2](https://www.acmicpc.net/problem/2587)
 - [ ] [25305 커트라인](https://www.acmicpc.net/problem/25305)
-- [ ] [2751 수 정렬하기 2](https://www.acmicpc.net/problem/2751)
-- [ ] [10989 수 정렬하기 3](https://www.acmicpc.net/problem/10989)
-- [ ] [1427 소트인사이드](https://www.acmicpc.net/problem/1427)
-- [ ] [11650 좌표 정렬하기](https://www.acmicpc.net/problem/11650)
-- [ ] [11651 좌표 정렬하기 2](https://www.acmicpc.net/problem/11651)
+- [x] [2751 수 정렬하기 2](https://www.acmicpc.net/problem/2751)
+- [x] [10989 수 정렬하기 3](https://www.acmicpc.net/problem/10989)
+- [x] [1427 소트인사이드](https://www.acmicpc.net/problem/1427)
+- [x] [11650 좌표 정렬하기](https://www.acmicpc.net/problem/11650)
+- [x] [11651 좌표 정렬하기 2](https://www.acmicpc.net/problem/11651)
 - [ ] [1181 단어 정렬](https://www.acmicpc.net/problem/1181)
 - [ ] [10814 나이순 정렬](https://www.acmicpc.net/problem/10814)
 - [ ] [18870 좌표 압축](https://www.acmicpc.net/problem/18870)
@@ -154,7 +154,7 @@
 - [ ] [10815 숫자 카드](https://www.acmicpc.net/problem/10815)
 - [ ] [14425 문자열 집합](https://www.acmicpc.net/problem/14425)
 - [ ] [7785 회사에 있는 사람](https://www.acmicpc.net/problem/7785)
-- [ ] [1620 나는야 포켓몬 마스터 이다솜](https://www.acmicpc.net/problem/1620)
+- [x] [1620 나는야 포켓몬 마스터 이다솜](https://www.acmicpc.net/problem/1620)
 - [ ] [10816 숫자 카드 2](https://www.acmicpc.net/problem/10816)
 - [ ] [1764 듣보잡](https://www.acmicpc.net/problem/1764)
 - [ ] [1269 대칭 차집합](https://www.acmicpc.net/problem/1269)
@@ -175,7 +175,7 @@
 ## 16단계 - 스택, 큐, 덱 1
 
 - [ ] [28278 스택 2](https://www.acmicpc.net/problem/28278)
-- [ ] [10773 제로](https://www.acmicpc.net/problem/10773)
+- [x] [10773 제로](https://www.acmicpc.net/problem/10773)
 - [ ] [9012 괄호](https://www.acmicpc.net/problem/9012)
 - [ ] [4949 균형잡힌 세상](https://www.acmicpc.net/problem/4949)
 - [ ] [12789 도키도키 간식드리미](https://www.acmicpc.net/problem/12789)
@@ -188,7 +188,7 @@
 
 ## 17단계 - 조합론
 
-- [ ] [15439 베라의 패션](https://www.acmicpc.net/problem/15439)
+- [x] [15439 베라의 패션](https://www.acmicpc.net/problem/15439)
 - [ ] [24723 녹색거탑](https://www.acmicpc.net/problem/24723)
 - [ ] [10872 팩토리얼](https://www.acmicpc.net/problem/10872)
 - [ ] [11050 이항 계수 1](https://www.acmicpc.net/problem/11050)
