@@ -64,8 +64,8 @@
 ## 코딩 테스트 준비 - 기초 / 다이나믹 프로그래밍 Part 1
 
 - [ ] [1463 1로 만들기](https://www.acmicpc.net/problem/1463)
-- [ ] [11726 2×n 타일링](https://www.acmicpc.net/problem/11726)
-- [ ] [11727 2×n 타일링 2](https://www.acmicpc.net/problem/11727)
+- [x] [11726 2×n 타일링](https://www.acmicpc.net/problem/11726)
+- [x] [11727 2×n 타일링 2](https://www.acmicpc.net/problem/11727)
 - [ ] [9095 1, 2, 3 더하기](https://www.acmicpc.net/problem/9095)
 - [ ] [11052 카드 구매하기](https://www.acmicpc.net/problem/11052)
 - [ ] [16194 카드 구매하기 2](https://www.acmicpc.net/problem/16194)
@@ -86,7 +86,7 @@
 - [ ] [1309 동물원](https://www.acmicpc.net/problem/1309)
 - [ ] [11057 오르막 수](https://www.acmicpc.net/problem/11057)
 - [ ] [2156 포도주 시식](https://www.acmicpc.net/problem/2156)
-- [ ] [1932 정수 삼각형](https://www.acmicpc.net/problem/1932)
+- [x] [1932 정수 삼각형](https://www.acmicpc.net/problem/1932)
 - [ ] [11055 가장 큰 증가하는 부분 수열](https://www.acmicpc.net/problem/11055)
 - [ ] [11722 가장 긴 감소하는 부분 수열](https://www.acmicpc.net/problem/11722)
 - [ ] [11054 가장 긴 바이토닉 부분 수열](https://www.acmicpc.net/problem/11054)
@@ -344,7 +344,7 @@
 
 - [ ] [10828 스택](https://www.acmicpc.net/problem/10828)
 - [ ] [9093 단어 뒤집기](https://www.acmicpc.net/problem/9093)
-- [ ] [9012 괄호](https://www.acmicpc.net/problem/9012)
+- [x] [9012 괄호](https://www.acmicpc.net/problem/9012)
 - [ ] [1874 스택 수열](https://www.acmicpc.net/problem/1874)
 - [x] [1406 에디터](https://www.acmicpc.net/problem/1406)
 - [ ] [10845 큐](https://www.acmicpc.net/problem/10845)
@@ -354,7 +354,7 @@
 ## 알고리즘 기초 1/2 / 201 - 자료구조 1 (연습)
 
 - [ ] [17413 단어 뒤집기 2](https://www.acmicpc.net/problem/17413)
-- [ ] [10799 쇠막대기](https://www.acmicpc.net/problem/10799)
+- [x] [10799 쇠막대기](https://www.acmicpc.net/problem/10799)
 - [ ] [17298 오큰수](https://www.acmicpc.net/problem/17298)
 - [ ] [17299 오등큰수](https://www.acmicpc.net/problem/17299)
 
@@ -401,8 +401,8 @@
 ## 알고리즘 기초 1/2 / 400 - 다이나믹 프로그래밍 1
 
 - [ ] [1463 1로 만들기](https://www.acmicpc.net/problem/1463)
-- [ ] [11726 2×n 타일링](https://www.acmicpc.net/problem/11726)
-- [ ] [11727 2×n 타일링 2](https://www.acmicpc.net/problem/11727)
+- [x] [11726 2×n 타일링](https://www.acmicpc.net/problem/11726)
+- [x] [11727 2×n 타일링 2](https://www.acmicpc.net/problem/11727)
 - [ ] [9095 1, 2, 3 더하기](https://www.acmicpc.net/problem/9095)
 - [ ] [11052 카드 구매하기](https://www.acmicpc.net/problem/11052)
 - [ ] [16194 카드 구매하기 2](https://www.acmicpc.net/problem/16194)
@@ -423,7 +423,7 @@
 - [ ] [11057 오르막 수](https://www.acmicpc.net/problem/11057)
 - [ ] [9465 스티커](https://www.acmicpc.net/problem/9465)
 - [ ] [2156 포도주 시식](https://www.acmicpc.net/problem/2156)
-- [ ] [1932 정수 삼각형](https://www.acmicpc.net/problem/1932)
+- [x] [1932 정수 삼각형](https://www.acmicpc.net/problem/1932)
 - [ ] [11055 가장 큰 증가하는 부분 수열](https://www.acmicpc.net/problem/11055)
 - [ ] [11722 가장 긴 감소하는 부분 수열](https://www.acmicpc.net/problem/11722)
 - [ ] [11054 가장 긴 바이토닉 부분 수열](https://www.acmicpc.net/problem/11054)
@@ -583,7 +583,7 @@
 
 - [x] [11047 동전 0](https://www.acmicpc.net/problem/11047)
 - [ ] [1931 회의실 배정](https://www.acmicpc.net/problem/1931)
-- [ ] [11399 ATM](https://www.acmicpc.net/problem/11399)
+- [x] [11399 ATM](https://www.acmicpc.net/problem/11399)
 - [ ] [1080 행렬](https://www.acmicpc.net/problem/1080)
 - [ ] [2138 전구와 스위치](https://www.acmicpc.net/problem/2138)
 - [ ] [1285 동전 뒤집기](https://www.acmicpc.net/problem/1285)
@@ -611,7 +611,7 @@
 
 - [ ] [10815 숫자 카드](https://www.acmicpc.net/problem/10815)
 - [ ] [10816 숫자 카드 2](https://www.acmicpc.net/problem/10816)
-- [ ] [11728 배열 합치기](https://www.acmicpc.net/problem/11728)
+- [x] [11728 배열 합치기](https://www.acmicpc.net/problem/11728)
 
 ## 알고리즘 중급 1/3 / 801 - 분할 정복 (연습)
 

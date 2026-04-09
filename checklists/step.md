@@ -18,12 +18,12 @@
 
 ## 2단계 - 조건문
 
-- [ ] [1330 두 수 비교하기](https://www.acmicpc.net/problem/1330)
+- [x] [1330 두 수 비교하기](https://www.acmicpc.net/problem/1330)
 - [ ] [9498 시험 성적](https://www.acmicpc.net/problem/9498)
 - [ ] [2753 윤년](https://www.acmicpc.net/problem/2753)
 - [x] [14681 사분면 고르기](https://www.acmicpc.net/problem/14681)
-- [ ] [2884 알람 시계](https://www.acmicpc.net/problem/2884)
-- [ ] [2525 오븐 시계](https://www.acmicpc.net/problem/2525)
+- [x] [2884 알람 시계](https://www.acmicpc.net/problem/2884)
+- [x] [2525 오븐 시계](https://www.acmicpc.net/problem/2525)
 - [x] [2480 주사위 세개](https://www.acmicpc.net/problem/2480)
 
 ## 3단계 - 반복문
@@ -56,13 +56,13 @@
 
 ## 5단계 - 문자열
 
-- [ ] [27866 문자와 문자열](https://www.acmicpc.net/problem/27866)
+- [x] [27866 문자와 문자열](https://www.acmicpc.net/problem/27866)
 - [x] [2743 단어 길이 재기](https://www.acmicpc.net/problem/2743)
 - [x] [9086 문자열](https://www.acmicpc.net/problem/9086)
 - [x] [11654 아스키 코드](https://www.acmicpc.net/problem/11654)
 - [x] [11720 숫자의 합](https://www.acmicpc.net/problem/11720)
 - [x] [10809 알파벳 찾기](https://www.acmicpc.net/problem/10809)
-- [ ] [2675 문자열 반복](https://www.acmicpc.net/problem/2675)
+- [x] [2675 문자열 반복](https://www.acmicpc.net/problem/2675)
 - [x] [1152 단어의 개수](https://www.acmicpc.net/problem/1152)
 - [x] [2908 상수](https://www.acmicpc.net/problem/2908)
 - [x] [5622 다이얼](https://www.acmicpc.net/problem/5622)
@@ -176,8 +176,8 @@
 
 - [ ] [28278 스택 2](https://www.acmicpc.net/problem/28278)
 - [x] [10773 제로](https://www.acmicpc.net/problem/10773)
-- [ ] [9012 괄호](https://www.acmicpc.net/problem/9012)
-- [ ] [4949 균형잡힌 세상](https://www.acmicpc.net/problem/4949)
+- [x] [9012 괄호](https://www.acmicpc.net/problem/9012)
+- [x] [4949 균형잡힌 세상](https://www.acmicpc.net/problem/4949)
 - [ ] [12789 도키도키 간식드리미](https://www.acmicpc.net/problem/12789)
 - [ ] [18258 큐 2](https://www.acmicpc.net/problem/18258)
 - [x] [2164 카드2](https://www.acmicpc.net/problem/2164)
@@ -192,7 +192,7 @@
 - [x] [24723 녹색거탑](https://www.acmicpc.net/problem/24723)
 - [x] [10872 팩토리얼](https://www.acmicpc.net/problem/10872)
 - [ ] [11050 이항 계수 1](https://www.acmicpc.net/problem/11050)
-- [ ] [1010 다리 놓기](https://www.acmicpc.net/problem/1010)
+- [x] [1010 다리 놓기](https://www.acmicpc.net/problem/1010)
 
 ## 18단계 - 심화 2
 
@@ -231,7 +231,7 @@
 - [ ] [9461 파도반 수열](https://www.acmicpc.net/problem/9461)
 - [ ] [1912 연속합](https://www.acmicpc.net/problem/1912)
 - [ ] [1149 RGB거리](https://www.acmicpc.net/problem/1149)
-- [ ] [1932 정수 삼각형](https://www.acmicpc.net/problem/1932)
+- [x] [1932 정수 삼각형](https://www.acmicpc.net/problem/1932)
 - [ ] [2579 계단 오르기](https://www.acmicpc.net/problem/2579)
 - [ ] [1463 1로 만들기](https://www.acmicpc.net/problem/1463)
 - [ ] [10844 쉬운 계단 수](https://www.acmicpc.net/problem/10844)
@@ -255,9 +255,9 @@
 
 - [x] [11047 동전 0](https://www.acmicpc.net/problem/11047)
 - [ ] [1931 회의실 배정](https://www.acmicpc.net/problem/1931)
-- [ ] [11399 ATM](https://www.acmicpc.net/problem/11399)
+- [x] [11399 ATM](https://www.acmicpc.net/problem/11399)
 - [ ] [1541 잃어버린 괄호](https://www.acmicpc.net/problem/1541)
-- [ ] [13305 주유소](https://www.acmicpc.net/problem/13305)
+- [x] [13305 주유소](https://www.acmicpc.net/problem/13305)
 
 ## 24단계 - 분할 정복
 
@@ -327,7 +327,7 @@
 
 ## 30단계 - 투 포인터
 
-- [ ] [3273 두 수의 합](https://www.acmicpc.net/problem/3273)
+- [x] [3273 두 수의 합](https://www.acmicpc.net/problem/3273)
 - [ ] [2470 두 용액](https://www.acmicpc.net/problem/2470)
 - [ ] [1806 부분합](https://www.acmicpc.net/problem/1806)
 - [ ] [1644 소수의 연속합](https://www.acmicpc.net/problem/1644)
