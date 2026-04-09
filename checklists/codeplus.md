@@ -348,7 +348,7 @@
 - [ ] [1874 스택 수열](https://www.acmicpc.net/problem/1874)
 - [ ] [1406 에디터](https://www.acmicpc.net/problem/1406)
 - [ ] [10845 큐](https://www.acmicpc.net/problem/10845)
-- [ ] [1158 요세푸스 문제](https://www.acmicpc.net/problem/1158)
+- [x] [1158 요세푸스 문제](https://www.acmicpc.net/problem/1158)
 - [ ] [10866 덱](https://www.acmicpc.net/problem/10866)
 
 ## 알고리즘 기초 1/2 / 201 - 자료구조 1 (연습)
@@ -378,7 +378,7 @@
 - [ ] [1978 소수 찾기](https://www.acmicpc.net/problem/1978)
 - [ ] [1929 소수 구하기](https://www.acmicpc.net/problem/1929)
 - [ ] [6588 골드바흐의 추측](https://www.acmicpc.net/problem/6588)
-- [ ] [10872 팩토리얼](https://www.acmicpc.net/problem/10872)
+- [x] [10872 팩토리얼](https://www.acmicpc.net/problem/10872)
 - [ ] [1676 팩토리얼 0의 개수](https://www.acmicpc.net/problem/1676)
 - [ ] [2004 조합 0의 개수](https://www.acmicpc.net/problem/2004)
 
@@ -738,7 +738,7 @@
 - [ ] [11279 최대 힙](https://www.acmicpc.net/problem/11279)
 - [ ] [1927 최소 힙](https://www.acmicpc.net/problem/1927)
 - [ ] [1655 가운데를 말해요](https://www.acmicpc.net/problem/1655)
-- [ ] [7785 회사에 있는 사람](https://www.acmicpc.net/problem/7785)
+- [x] [7785 회사에 있는 사람](https://www.acmicpc.net/problem/7785)
 - [ ] [1764 듣보잡](https://www.acmicpc.net/problem/1764)
 
 ## 알고리즘 중급 2/3 / 901 - 자료구조 2 (연습)
@@ -1037,7 +1037,7 @@
 - [ ] [13013 접미사 배열 2](https://www.acmicpc.net/problem/13013)
 - [ ] [13012 접미사 배열 1](https://www.acmicpc.net/problem/13012)
 - [ ] [13264 접미사 배열 2](https://www.acmicpc.net/problem/13264)
-- [ ] [11478 서로 다른 부분 문자열의 개수](https://www.acmicpc.net/problem/11478)
+- [x] [11478 서로 다른 부분 문자열의 개수](https://www.acmicpc.net/problem/11478)
 - [ ] [11479 서로 다른 부분 문자열의 개수 2](https://www.acmicpc.net/problem/11479)
 - [ ] [9248 Suffix Array](https://www.acmicpc.net/problem/9248)
 

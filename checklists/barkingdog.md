@@ -10,7 +10,7 @@
 - [ ] [9498 시험 성적](https://www.acmicpc.net/problem/9498)
 - [x] [2752 세수정렬](https://www.acmicpc.net/problem/2752)
 - [ ] [2753 윤년](https://www.acmicpc.net/problem/2753)
-- [ ] [2480 주사위 세개](https://www.acmicpc.net/problem/2480)
+- [x] [2480 주사위 세개](https://www.acmicpc.net/problem/2480)
 - [x] [2490 윷놀이](https://www.acmicpc.net/problem/2490)
 - [x] [2576 홀수](https://www.acmicpc.net/problem/2576)
 - [ ] [2587 대표값2](https://www.acmicpc.net/problem/2587)
@@ -33,19 +33,19 @@
 ## 0x03강 - 배열
 
 - [x] [10808 알파벳 개수](https://www.acmicpc.net/problem/10808)
-- [ ] [2577 숫자의 개수](https://www.acmicpc.net/problem/2577)
-- [ ] [1475 방 번호](https://www.acmicpc.net/problem/1475)
+- [x] [2577 숫자의 개수](https://www.acmicpc.net/problem/2577)
+- [x] [1475 방 번호](https://www.acmicpc.net/problem/1475)
 - [ ] [3273 두 수의 합](https://www.acmicpc.net/problem/3273)
 - [ ] [10807 개수 세기](https://www.acmicpc.net/problem/10807)
 - [ ] [13300 방 배정](https://www.acmicpc.net/problem/13300)
-- [ ] [11328 Strfry](https://www.acmicpc.net/problem/11328)
-- [ ] [1919 애너그램 만들기](https://www.acmicpc.net/problem/1919)
+- [x] [11328 Strfry](https://www.acmicpc.net/problem/11328)
+- [x] [1919 애너그램 만들기](https://www.acmicpc.net/problem/1919)
 
 ## 0x04강 - 연결 리스트
 
 - [ ] [1406 에디터](https://www.acmicpc.net/problem/1406)
 - [ ] [5397 키로거](https://www.acmicpc.net/problem/5397)
-- [ ] [1158 요세푸스 문제](https://www.acmicpc.net/problem/1158)
+- [x] [1158 요세푸스 문제](https://www.acmicpc.net/problem/1158)
 
 ## 0x05강 - 스택
 
@@ -371,13 +371,13 @@
 
 ## 0x15강 - 해시
 
-- [ ] [7785 회사에 있는 사람](https://www.acmicpc.net/problem/7785)
+- [x] [7785 회사에 있는 사람](https://www.acmicpc.net/problem/7785)
 - [x] [1620 나는야 포켓몬 마스터 이다솜](https://www.acmicpc.net/problem/1620)
 - [ ] [13414 수강신청](https://www.acmicpc.net/problem/13414)
 - [ ] [17219 비밀번호 찾기](https://www.acmicpc.net/problem/17219)
 - [ ] [9375 패션왕 신해빈](https://www.acmicpc.net/problem/9375)
 - [ ] [16165 걸그룹 마스터 준석이](https://www.acmicpc.net/problem/16165)
-- [ ] [11478 서로 다른 부분 문자열의 개수](https://www.acmicpc.net/problem/11478)
+- [x] [11478 서로 다른 부분 문자열의 개수](https://www.acmicpc.net/problem/11478)
 - [ ] [19583 싸이버개강총회](https://www.acmicpc.net/problem/19583)
 - [ ] [20166 문자열 지옥에 빠진 호석](https://www.acmicpc.net/problem/20166)
 

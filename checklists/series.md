@@ -422,8 +422,8 @@
 
 ## 요세푸스
 
-- [ ] [11866 요세푸스 문제 0](https://www.acmicpc.net/problem/11866)
-- [ ] [1158 요세푸스 문제](https://www.acmicpc.net/problem/1158)
+- [x] [11866 요세푸스 문제 0](https://www.acmicpc.net/problem/11866)
+- [x] [1158 요세푸스 문제](https://www.acmicpc.net/problem/1158)
 - [ ] [1168 요세푸스 문제 2](https://www.acmicpc.net/problem/1168)
 - [ ] [11025 요세푸스 문제 3](https://www.acmicpc.net/problem/11025)
 - [ ] [1179 마지막 요세푸스 문제](https://www.acmicpc.net/problem/1179)
@@ -496,8 +496,8 @@
 
 ## 팩토리얼
 
-- [ ] [10872 팩토리얼](https://www.acmicpc.net/problem/10872)
-- [ ] [27433 팩토리얼 2](https://www.acmicpc.net/problem/27433)
+- [x] [10872 팩토리얼](https://www.acmicpc.net/problem/10872)
+- [x] [27433 팩토리얼 2](https://www.acmicpc.net/problem/27433)
 - [ ] [27434 팩토리얼 3](https://www.acmicpc.net/problem/27434)
 - [ ] [27439 팩토리얼 4](https://www.acmicpc.net/problem/27439)
 

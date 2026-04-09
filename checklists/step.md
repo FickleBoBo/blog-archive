@@ -24,11 +24,11 @@
 - [x] [14681 사분면 고르기](https://www.acmicpc.net/problem/14681)
 - [ ] [2884 알람 시계](https://www.acmicpc.net/problem/2884)
 - [ ] [2525 오븐 시계](https://www.acmicpc.net/problem/2525)
-- [ ] [2480 주사위 세개](https://www.acmicpc.net/problem/2480)
+- [x] [2480 주사위 세개](https://www.acmicpc.net/problem/2480)
 
 ## 3단계 - 반복문
 
-- [ ] [2739 구구단](https://www.acmicpc.net/problem/2739)
+- [x] [2739 구구단](https://www.acmicpc.net/problem/2739)
 - [x] [10950 A+B - 3](https://www.acmicpc.net/problem/10950)
 - [ ] [8393 합](https://www.acmicpc.net/problem/8393)
 - [ ] [25304 영수증](https://www.acmicpc.net/problem/25304)
@@ -58,15 +58,15 @@
 
 - [ ] [27866 문자와 문자열](https://www.acmicpc.net/problem/27866)
 - [ ] [2743 단어 길이 재기](https://www.acmicpc.net/problem/2743)
-- [ ] [9086 문자열](https://www.acmicpc.net/problem/9086)
+- [x] [9086 문자열](https://www.acmicpc.net/problem/9086)
 - [x] [11654 아스키 코드](https://www.acmicpc.net/problem/11654)
 - [ ] [11720 숫자의 합](https://www.acmicpc.net/problem/11720)
 - [ ] [10809 알파벳 찾기](https://www.acmicpc.net/problem/10809)
 - [ ] [2675 문자열 반복](https://www.acmicpc.net/problem/2675)
 - [ ] [1152 단어의 개수](https://www.acmicpc.net/problem/1152)
-- [ ] [2908 상수](https://www.acmicpc.net/problem/2908)
+- [x] [2908 상수](https://www.acmicpc.net/problem/2908)
 - [x] [5622 다이얼](https://www.acmicpc.net/problem/5622)
-- [ ] [11718 그대로 출력하기](https://www.acmicpc.net/problem/11718)
+- [x] [11718 그대로 출력하기](https://www.acmicpc.net/problem/11718)
 
 ## 6단계 - 심화 1
 
@@ -90,7 +90,7 @@
 
 - [ ] [2745 진법 변환](https://www.acmicpc.net/problem/2745)
 - [ ] [11005 진법 변환 2](https://www.acmicpc.net/problem/11005)
-- [ ] [2720 세탁소 사장 동혁](https://www.acmicpc.net/problem/2720)
+- [x] [2720 세탁소 사장 동혁](https://www.acmicpc.net/problem/2720)
 - [ ] [2903 중앙 이동 알고리즘](https://www.acmicpc.net/problem/2903)
 - [ ] [2292 벌집](https://www.acmicpc.net/problem/2292)
 - [ ] [1193 분수찾기](https://www.acmicpc.net/problem/1193)
@@ -111,8 +111,8 @@
 - [ ] [1085 직사각형에서 탈출](https://www.acmicpc.net/problem/1085)
 - [ ] [3009 네 번째 점](https://www.acmicpc.net/problem/3009)
 - [x] [15894 수학은 체육과목 입니다](https://www.acmicpc.net/problem/15894)
-- [ ] [9063 대지](https://www.acmicpc.net/problem/9063)
-- [ ] [10101 삼각형 외우기](https://www.acmicpc.net/problem/10101)
+- [x] [9063 대지](https://www.acmicpc.net/problem/9063)
+- [x] [10101 삼각형 외우기](https://www.acmicpc.net/problem/10101)
 - [ ] [5073 삼각형과 세 변](https://www.acmicpc.net/problem/5073)
 - [ ] [14215 세 막대](https://www.acmicpc.net/problem/14215)
 
@@ -130,7 +130,7 @@
 
 - [ ] [2798 블랙잭](https://www.acmicpc.net/problem/2798)
 - [ ] [2231 분해합](https://www.acmicpc.net/problem/2231)
-- [ ] [19532 수학은 비대면강의입니다](https://www.acmicpc.net/problem/19532)
+- [x] [19532 수학은 비대면강의입니다](https://www.acmicpc.net/problem/19532)
 - [ ] [1018 체스판 다시 칠하기](https://www.acmicpc.net/problem/1018)
 - [ ] [1436 영화감독 숌](https://www.acmicpc.net/problem/1436)
 - [x] [2839 설탕 배달](https://www.acmicpc.net/problem/2839)
@@ -153,12 +153,12 @@
 
 - [ ] [10815 숫자 카드](https://www.acmicpc.net/problem/10815)
 - [ ] [14425 문자열 집합](https://www.acmicpc.net/problem/14425)
-- [ ] [7785 회사에 있는 사람](https://www.acmicpc.net/problem/7785)
+- [x] [7785 회사에 있는 사람](https://www.acmicpc.net/problem/7785)
 - [x] [1620 나는야 포켓몬 마스터 이다솜](https://www.acmicpc.net/problem/1620)
 - [ ] [10816 숫자 카드 2](https://www.acmicpc.net/problem/10816)
 - [ ] [1764 듣보잡](https://www.acmicpc.net/problem/1764)
-- [ ] [1269 대칭 차집합](https://www.acmicpc.net/problem/1269)
-- [ ] [11478 서로 다른 부분 문자열의 개수](https://www.acmicpc.net/problem/11478)
+- [x] [1269 대칭 차집합](https://www.acmicpc.net/problem/1269)
+- [x] [11478 서로 다른 부분 문자열의 개수](https://www.acmicpc.net/problem/11478)
 
 ## 15단계 - 약수, 배수와 소수 2
 
@@ -181,7 +181,7 @@
 - [ ] [12789 도키도키 간식드리미](https://www.acmicpc.net/problem/12789)
 - [ ] [18258 큐 2](https://www.acmicpc.net/problem/18258)
 - [x] [2164 카드2](https://www.acmicpc.net/problem/2164)
-- [ ] [11866 요세푸스 문제 0](https://www.acmicpc.net/problem/11866)
+- [x] [11866 요세푸스 문제 0](https://www.acmicpc.net/problem/11866)
 - [ ] [28279 덱 2](https://www.acmicpc.net/problem/28279)
 - [ ] [2346 풍선 터뜨리기](https://www.acmicpc.net/problem/2346)
 - [ ] [24511 queuestack](https://www.acmicpc.net/problem/24511)
@@ -189,8 +189,8 @@
 ## 17단계 - 조합론
 
 - [x] [15439 베라의 패션](https://www.acmicpc.net/problem/15439)
-- [ ] [24723 녹색거탑](https://www.acmicpc.net/problem/24723)
-- [ ] [10872 팩토리얼](https://www.acmicpc.net/problem/10872)
+- [x] [24723 녹색거탑](https://www.acmicpc.net/problem/24723)
+- [x] [10872 팩토리얼](https://www.acmicpc.net/problem/10872)
 - [ ] [11050 이항 계수 1](https://www.acmicpc.net/problem/11050)
 - [ ] [1010 다리 놓기](https://www.acmicpc.net/problem/1010)
 
@@ -204,7 +204,7 @@
 
 ## 19단계 - 재귀
 
-- [ ] [27433 팩토리얼 2](https://www.acmicpc.net/problem/27433)
+- [x] [27433 팩토리얼 2](https://www.acmicpc.net/problem/27433)
 - [ ] [10870 피보나치 수 5](https://www.acmicpc.net/problem/10870)
 - [ ] [25501 재귀의 귀재](https://www.acmicpc.net/problem/25501)
 - [ ] [24060 알고리즘 수업 - 병합 정렬 1](https://www.acmicpc.net/problem/24060)
