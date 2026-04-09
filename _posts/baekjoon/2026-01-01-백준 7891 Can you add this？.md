@@ -3,7 +3,7 @@ title: "[BaekJoon] 7891번 - Can you add this? [Java][C++]"
 slug: baekjoon-7891
 date: 2026-01-01
 categories: [PS, BaekJoon]
-tags: [Unlinked]
+tags: [warm up]
 toc: true
 math: true
 ---
