@@ -7,7 +7,7 @@
 - [ ] [1037 약수](https://www.acmicpc.net/problem/1037)
 - [ ] [17427 약수의 합 2](https://www.acmicpc.net/problem/17427)
 - [ ] [17425 약수의 합](https://www.acmicpc.net/problem/17425)
-- [x] [2609 최대공약수와 최소공배수](https://www.acmicpc.net/problem/2609)
+- [ ] [2609 최대공약수와 최소공배수](https://www.acmicpc.net/problem/2609)
 - [ ] [1978 소수 찾기](https://www.acmicpc.net/problem/1978)
 - [ ] [1929 소수 구하기](https://www.acmicpc.net/problem/1929)
 - [ ] [6588 골드바흐의 추측](https://www.acmicpc.net/problem/6588)
@@ -64,10 +64,10 @@
 ## 코딩 테스트 준비 - 기초 / 다이나믹 프로그래밍 Part 1
 
 - [ ] [1463 1로 만들기](https://www.acmicpc.net/problem/1463)
-- [x] [11726 2×n 타일링](https://www.acmicpc.net/problem/11726)
-- [x] [11727 2×n 타일링 2](https://www.acmicpc.net/problem/11727)
+- [ ] [11726 2×n 타일링](https://www.acmicpc.net/problem/11726)
+- [ ] [11727 2×n 타일링 2](https://www.acmicpc.net/problem/11727)
 - [ ] [9095 1, 2, 3 더하기](https://www.acmicpc.net/problem/9095)
-- [x] [11052 카드 구매하기](https://www.acmicpc.net/problem/11052)
+- [ ] [11052 카드 구매하기](https://www.acmicpc.net/problem/11052)
 - [ ] [16194 카드 구매하기 2](https://www.acmicpc.net/problem/16194)
 - [ ] [15990 1, 2, 3 더하기 5](https://www.acmicpc.net/problem/15990)
 - [ ] [10844 쉬운 계단 수](https://www.acmicpc.net/problem/10844)
@@ -83,10 +83,10 @@
 
 - [ ] [15988 1, 2, 3 더하기 3](https://www.acmicpc.net/problem/15988)
 - [ ] [1149 RGB거리](https://www.acmicpc.net/problem/1149)
-- [x] [1309 동물원](https://www.acmicpc.net/problem/1309)
+- [ ] [1309 동물원](https://www.acmicpc.net/problem/1309)
 - [ ] [11057 오르막 수](https://www.acmicpc.net/problem/11057)
 - [ ] [2156 포도주 시식](https://www.acmicpc.net/problem/2156)
-- [x] [1932 정수 삼각형](https://www.acmicpc.net/problem/1932)
+- [ ] [1932 정수 삼각형](https://www.acmicpc.net/problem/1932)
 - [ ] [11055 가장 큰 증가하는 부분 수열](https://www.acmicpc.net/problem/11055)
 - [ ] [11722 가장 긴 감소하는 부분 수열](https://www.acmicpc.net/problem/11722)
 - [ ] [11054 가장 긴 바이토닉 부분 수열](https://www.acmicpc.net/problem/11054)
@@ -95,22 +95,22 @@
 
 ## 코딩 테스트 준비 - 기초 / 큐와 그래프
 
-- [x] [10845 큐](https://www.acmicpc.net/problem/10845)
-- [x] [10866 덱](https://www.acmicpc.net/problem/10866)
+- [ ] [10845 큐](https://www.acmicpc.net/problem/10845)
+- [ ] [10866 덱](https://www.acmicpc.net/problem/10866)
 - [ ] [13023 ABCDE](https://www.acmicpc.net/problem/13023)
-- [x] [1260 DFS와 BFS](https://www.acmicpc.net/problem/1260)
+- [ ] [1260 DFS와 BFS](https://www.acmicpc.net/problem/1260)
 - [ ] [11724 연결 요소의 개수](https://www.acmicpc.net/problem/11724)
 - [ ] [1707 이분 그래프](https://www.acmicpc.net/problem/1707)
-- [x] [2667 단지번호붙이기](https://www.acmicpc.net/problem/2667)
-- [x] [2178 미로 탐색](https://www.acmicpc.net/problem/2178)
-- [x] [7576 토마토](https://www.acmicpc.net/problem/7576)
-- [x] [7562 나이트의 이동](https://www.acmicpc.net/problem/7562)
+- [ ] [2667 단지번호붙이기](https://www.acmicpc.net/problem/2667)
+- [ ] [2178 미로 탐색](https://www.acmicpc.net/problem/2178)
+- [ ] [7576 토마토](https://www.acmicpc.net/problem/7576)
+- [ ] [7562 나이트의 이동](https://www.acmicpc.net/problem/7562)
 
 ## 코딩 테스트 준비 - 기초 / BFS
 
-- [x] [1697 숨바꼭질](https://www.acmicpc.net/problem/1697)
-- [x] [13913 숨바꼭질 4](https://www.acmicpc.net/problem/13913)
-- [x] [14226 이모티콘](https://www.acmicpc.net/problem/14226)
+- [ ] [1697 숨바꼭질](https://www.acmicpc.net/problem/1697)
+- [ ] [13913 숨바꼭질 4](https://www.acmicpc.net/problem/13913)
+- [ ] [14226 이모티콘](https://www.acmicpc.net/problem/14226)
 - [ ] [13549 숨바꼭질 3](https://www.acmicpc.net/problem/13549)
 - [ ] [1261 알고스팟](https://www.acmicpc.net/problem/1261)
 
@@ -181,19 +181,19 @@
 - [ ] [16948 데스 나이트](https://www.acmicpc.net/problem/16948)
 - [ ] [14502 연구소](https://www.acmicpc.net/problem/14502)
 - [ ] [12886 돌 그룹](https://www.acmicpc.net/problem/12886)
-- [x] [2206 벽 부수고 이동하기](https://www.acmicpc.net/problem/2206)
-- [x] [16946 벽 부수고 이동하기 4](https://www.acmicpc.net/problem/16946)
-- [x] [14442 벽 부수고 이동하기 2](https://www.acmicpc.net/problem/14442)
-- [x] [16933 벽 부수고 이동하기 3](https://www.acmicpc.net/problem/16933)
+- [ ] [2206 벽 부수고 이동하기](https://www.acmicpc.net/problem/2206)
+- [ ] [16946 벽 부수고 이동하기 4](https://www.acmicpc.net/problem/16946)
+- [ ] [14442 벽 부수고 이동하기 2](https://www.acmicpc.net/problem/14442)
+- [ ] [16933 벽 부수고 이동하기 3](https://www.acmicpc.net/problem/16933)
 - [ ] [16954 움직이는 미로 탈출](https://www.acmicpc.net/problem/16954)
 - [ ] [16236 아기 상어](https://www.acmicpc.net/problem/16236)
 - [ ] [6087 레이저 통신](https://www.acmicpc.net/problem/6087)
 - [ ] [1963 소수 경로](https://www.acmicpc.net/problem/1963)
-- [x] [10026 적록색약](https://www.acmicpc.net/problem/10026)
+- [ ] [10026 적록색약](https://www.acmicpc.net/problem/10026)
 - [ ] [14395 4연산](https://www.acmicpc.net/problem/14395)
-- [x] [5014 스타트링크](https://www.acmicpc.net/problem/5014)
+- [ ] [5014 스타트링크](https://www.acmicpc.net/problem/5014)
 - [ ] [9376 탈옥](https://www.acmicpc.net/problem/9376)
-- [x] [1600 말이 되고픈 원숭이](https://www.acmicpc.net/problem/1600)
+- [ ] [1600 말이 되고픈 원숭이](https://www.acmicpc.net/problem/1600)
 - [ ] [17086 아기 상어 2](https://www.acmicpc.net/problem/17086)
 - [ ] [4991 로봇 청소기](https://www.acmicpc.net/problem/4991)
 - [ ] [2234 성곽](https://www.acmicpc.net/problem/2234)
@@ -215,9 +215,9 @@
 - [ ] [2293 동전 1](https://www.acmicpc.net/problem/2293)
 - [ ] [2294 동전 2](https://www.acmicpc.net/problem/2294)
 - [ ] [11058 크리보드](https://www.acmicpc.net/problem/11058)
-- [x] [9251 LCS](https://www.acmicpc.net/problem/9251)
-- [x] [9252 LCS 2](https://www.acmicpc.net/problem/9252)
-- [x] [5582 공통 부분 문자열](https://www.acmicpc.net/problem/5582)
+- [ ] [9251 LCS](https://www.acmicpc.net/problem/9251)
+- [ ] [9252 LCS 2](https://www.acmicpc.net/problem/9252)
+- [ ] [5582 공통 부분 문자열](https://www.acmicpc.net/problem/5582)
 - [ ] [5557 1학년](https://www.acmicpc.net/problem/5557)
 
 ## 코딩 테스트 준비 - 연습 / 시뮬레이션과 구현
@@ -270,7 +270,7 @@
 - [ ] [15684 사다리 조작](https://www.acmicpc.net/problem/15684)
 - [ ] [4902 삼각형의 값](https://www.acmicpc.net/problem/4902)
 - [ ] [16945 매직 스퀘어로 변경하기](https://www.acmicpc.net/problem/16945)
-- [x] [16953 A → B](https://www.acmicpc.net/problem/16953)
+- [ ] [16953 A → B](https://www.acmicpc.net/problem/16953)
 - [ ] [17136 색종이 붙이기](https://www.acmicpc.net/problem/17136)
 - [ ] [17471 게리맨더링](https://www.acmicpc.net/problem/17471)
 
@@ -295,14 +295,14 @@
 ## 코딩 테스트 준비 - 문제 / BFS 알고리즘
 
 - [ ] [8111 0과 1](https://www.acmicpc.net/problem/8111)
-- [x] [17071 숨바꼭질 5](https://www.acmicpc.net/problem/17071)
+- [ ] [17071 숨바꼭질 5](https://www.acmicpc.net/problem/17071)
 - [ ] [1525 퍼즐](https://www.acmicpc.net/problem/1525)
 - [ ] [16973 직사각형 탈출](https://www.acmicpc.net/problem/16973)
 - [ ] [1175 배달](https://www.acmicpc.net/problem/1175)
 - [ ] [16959 체스판 여행 1](https://www.acmicpc.net/problem/16959)
 - [ ] [16952 체스판 여행 2](https://www.acmicpc.net/problem/16952)
-- [x] [12851 숨바꼭질 2](https://www.acmicpc.net/problem/12851)
-- [x] [9328 열쇠](https://www.acmicpc.net/problem/9328)
+- [ ] [12851 숨바꼭질 2](https://www.acmicpc.net/problem/12851)
+- [ ] [9328 열쇠](https://www.acmicpc.net/problem/9328)
 - [ ] [16920 확장 게임](https://www.acmicpc.net/problem/16920)
 - [ ] [15653 구슬 탈출 4](https://www.acmicpc.net/problem/15653)
 - [ ] [15558 점프 게임](https://www.acmicpc.net/problem/15558)
@@ -342,20 +342,20 @@
 
 ## 알고리즘 기초 1/2 / 200 - 자료구조 1
 
-- [x] [10828 스택](https://www.acmicpc.net/problem/10828)
+- [ ] [10828 스택](https://www.acmicpc.net/problem/10828)
 - [ ] [9093 단어 뒤집기](https://www.acmicpc.net/problem/9093)
-- [x] [9012 괄호](https://www.acmicpc.net/problem/9012)
-- [x] [1874 스택 수열](https://www.acmicpc.net/problem/1874)
-- [x] [1406 에디터](https://www.acmicpc.net/problem/1406)
-- [x] [10845 큐](https://www.acmicpc.net/problem/10845)
-- [x] [1158 요세푸스 문제](https://www.acmicpc.net/problem/1158)
-- [x] [10866 덱](https://www.acmicpc.net/problem/10866)
+- [ ] [9012 괄호](https://www.acmicpc.net/problem/9012)
+- [ ] [1874 스택 수열](https://www.acmicpc.net/problem/1874)
+- [ ] [1406 에디터](https://www.acmicpc.net/problem/1406)
+- [ ] [10845 큐](https://www.acmicpc.net/problem/10845)
+- [ ] [1158 요세푸스 문제](https://www.acmicpc.net/problem/1158)
+- [ ] [10866 덱](https://www.acmicpc.net/problem/10866)
 
 ## 알고리즘 기초 1/2 / 201 - 자료구조 1 (연습)
 
 - [ ] [17413 단어 뒤집기 2](https://www.acmicpc.net/problem/17413)
-- [x] [10799 쇠막대기](https://www.acmicpc.net/problem/10799)
-- [x] [17298 오큰수](https://www.acmicpc.net/problem/17298)
+- [ ] [10799 쇠막대기](https://www.acmicpc.net/problem/10799)
+- [ ] [17298 오큰수](https://www.acmicpc.net/problem/17298)
 - [ ] [17299 오등큰수](https://www.acmicpc.net/problem/17299)
 
 ## 알고리즘 기초 1/2 / 203 - 자료구조 1 (참고)
@@ -363,9 +363,9 @@
 - [ ] [1935 후위 표기식2](https://www.acmicpc.net/problem/1935)
 - [ ] [1918 후위 표기식](https://www.acmicpc.net/problem/1918)
 - [x] [10808 알파벳 개수](https://www.acmicpc.net/problem/10808)
-- [x] [10809 알파벳 찾기](https://www.acmicpc.net/problem/10809)
+- [ ] [10809 알파벳 찾기](https://www.acmicpc.net/problem/10809)
 - [ ] [10820 문자열 분석](https://www.acmicpc.net/problem/10820)
-- [x] [2743 단어 길이 재기](https://www.acmicpc.net/problem/2743)
+- [ ] [2743 단어 길이 재기](https://www.acmicpc.net/problem/2743)
 - [ ] [11655 ROT13](https://www.acmicpc.net/problem/11655)
 - [ ] [10824 네 수](https://www.acmicpc.net/problem/10824)
 - [ ] [11656 접미사 배열](https://www.acmicpc.net/problem/11656)
@@ -373,19 +373,19 @@
 ## 알고리즘 기초 1/2 / 300 - 수학 1
 
 - [x] [10430 나머지](https://www.acmicpc.net/problem/10430)
-- [x] [2609 최대공약수와 최소공배수](https://www.acmicpc.net/problem/2609)
-- [x] [1934 최소공배수](https://www.acmicpc.net/problem/1934)
+- [ ] [2609 최대공약수와 최소공배수](https://www.acmicpc.net/problem/2609)
+- [ ] [1934 최소공배수](https://www.acmicpc.net/problem/1934)
 - [ ] [1978 소수 찾기](https://www.acmicpc.net/problem/1978)
 - [ ] [1929 소수 구하기](https://www.acmicpc.net/problem/1929)
 - [ ] [6588 골드바흐의 추측](https://www.acmicpc.net/problem/6588)
-- [x] [10872 팩토리얼](https://www.acmicpc.net/problem/10872)
-- [x] [1676 팩토리얼 0의 개수](https://www.acmicpc.net/problem/1676)
-- [x] [2004 조합 0의 개수](https://www.acmicpc.net/problem/2004)
+- [ ] [10872 팩토리얼](https://www.acmicpc.net/problem/10872)
+- [ ] [1676 팩토리얼 0의 개수](https://www.acmicpc.net/problem/1676)
+- [ ] [2004 조합 0의 개수](https://www.acmicpc.net/problem/2004)
 
 ## 알고리즘 기초 1/2 / 301 - 수학 1 (연습)
 
-- [x] [9613 GCD 합](https://www.acmicpc.net/problem/9613)
-- [x] [17087 숨바꼭질 6](https://www.acmicpc.net/problem/17087)
+- [ ] [9613 GCD 합](https://www.acmicpc.net/problem/9613)
+- [ ] [17087 숨바꼭질 6](https://www.acmicpc.net/problem/17087)
 - [ ] [1373 2진수 8진수](https://www.acmicpc.net/problem/1373)
 - [ ] [1212 8진수 2진수](https://www.acmicpc.net/problem/1212)
 - [ ] [2089 -2진수](https://www.acmicpc.net/problem/2089)
@@ -393,18 +393,18 @@
 
 ## 알고리즘 기초 1/2 / 303 - 수학 1 (참고)
 
-- [x] [11005 진법 변환 2](https://www.acmicpc.net/problem/11005)
-- [x] [2745 진법 변환](https://www.acmicpc.net/problem/2745)
+- [ ] [11005 진법 변환 2](https://www.acmicpc.net/problem/11005)
+- [ ] [2745 진법 변환](https://www.acmicpc.net/problem/2745)
 - [ ] [11576 Base Conversion](https://www.acmicpc.net/problem/11576)
 - [ ] [11653 소인수분해](https://www.acmicpc.net/problem/11653)
 
 ## 알고리즘 기초 1/2 / 400 - 다이나믹 프로그래밍 1
 
 - [ ] [1463 1로 만들기](https://www.acmicpc.net/problem/1463)
-- [x] [11726 2×n 타일링](https://www.acmicpc.net/problem/11726)
-- [x] [11727 2×n 타일링 2](https://www.acmicpc.net/problem/11727)
+- [ ] [11726 2×n 타일링](https://www.acmicpc.net/problem/11726)
+- [ ] [11727 2×n 타일링 2](https://www.acmicpc.net/problem/11727)
 - [ ] [9095 1, 2, 3 더하기](https://www.acmicpc.net/problem/9095)
-- [x] [11052 카드 구매하기](https://www.acmicpc.net/problem/11052)
+- [ ] [11052 카드 구매하기](https://www.acmicpc.net/problem/11052)
 - [ ] [16194 카드 구매하기 2](https://www.acmicpc.net/problem/16194)
 - [ ] [15990 1, 2, 3 더하기 5](https://www.acmicpc.net/problem/15990)
 - [ ] [10844 쉬운 계단 수](https://www.acmicpc.net/problem/10844)
@@ -419,11 +419,11 @@
 
 - [ ] [15988 1, 2, 3 더하기 3](https://www.acmicpc.net/problem/15988)
 - [ ] [1149 RGB거리](https://www.acmicpc.net/problem/1149)
-- [x] [1309 동물원](https://www.acmicpc.net/problem/1309)
+- [ ] [1309 동물원](https://www.acmicpc.net/problem/1309)
 - [ ] [11057 오르막 수](https://www.acmicpc.net/problem/11057)
 - [ ] [9465 스티커](https://www.acmicpc.net/problem/9465)
 - [ ] [2156 포도주 시식](https://www.acmicpc.net/problem/2156)
-- [x] [1932 정수 삼각형](https://www.acmicpc.net/problem/1932)
+- [ ] [1932 정수 삼각형](https://www.acmicpc.net/problem/1932)
 - [ ] [11055 가장 큰 증가하는 부분 수열](https://www.acmicpc.net/problem/11055)
 - [ ] [11722 가장 긴 감소하는 부분 수열](https://www.acmicpc.net/problem/11722)
 - [ ] [11054 가장 긴 바이토닉 부분 수열](https://www.acmicpc.net/problem/11054)
@@ -432,7 +432,7 @@
 
 ## 알고리즘 기초 1/2 / 402 - 다이나믹 프로그래밍 1 (도전)
 
-- [x] [1309 동물원](https://www.acmicpc.net/problem/1309)
+- [ ] [1309 동물원](https://www.acmicpc.net/problem/1309)
 - [ ] [2225 합분해](https://www.acmicpc.net/problem/2225)
 - [ ] [17404 RGB거리 2](https://www.acmicpc.net/problem/17404)
 
@@ -491,14 +491,14 @@
 ## 알고리즘 기초 2/2 / 600 - 그래프 1
 
 - [ ] [13023 ABCDE](https://www.acmicpc.net/problem/13023)
-- [x] [1260 DFS와 BFS](https://www.acmicpc.net/problem/1260)
+- [ ] [1260 DFS와 BFS](https://www.acmicpc.net/problem/1260)
 - [ ] [11724 연결 요소의 개수](https://www.acmicpc.net/problem/11724)
 - [ ] [1707 이분 그래프](https://www.acmicpc.net/problem/1707)
-- [x] [2667 단지번호붙이기](https://www.acmicpc.net/problem/2667)
-- [x] [4963 섬의 개수](https://www.acmicpc.net/problem/4963)
-- [x] [2178 미로 탐색](https://www.acmicpc.net/problem/2178)
-- [x] [7576 토마토](https://www.acmicpc.net/problem/7576)
-- [x] [7562 나이트의 이동](https://www.acmicpc.net/problem/7562)
+- [ ] [2667 단지번호붙이기](https://www.acmicpc.net/problem/2667)
+- [ ] [4963 섬의 개수](https://www.acmicpc.net/problem/4963)
+- [ ] [2178 미로 탐색](https://www.acmicpc.net/problem/2178)
+- [ ] [7576 토마토](https://www.acmicpc.net/problem/7576)
+- [ ] [7562 나이트의 이동](https://www.acmicpc.net/problem/7562)
 
 ## 알고리즘 기초 2/2 / 601 - 그래프 1 (연습)
 
@@ -513,9 +513,9 @@
 
 ## 알고리즘 기초 2/2 / 610 - BFS
 
-- [x] [1697 숨바꼭질](https://www.acmicpc.net/problem/1697)
-- [x] [13913 숨바꼭질 4](https://www.acmicpc.net/problem/13913)
-- [x] [14226 이모티콘](https://www.acmicpc.net/problem/14226)
+- [ ] [1697 숨바꼭질](https://www.acmicpc.net/problem/1697)
+- [ ] [13913 숨바꼭질 4](https://www.acmicpc.net/problem/13913)
+- [ ] [14226 이모티콘](https://www.acmicpc.net/problem/14226)
 - [ ] [13549 숨바꼭질 3](https://www.acmicpc.net/problem/13549)
 - [ ] [1261 알고스팟](https://www.acmicpc.net/problem/1261)
 
@@ -564,26 +564,26 @@
 
 - [ ] [16928 뱀과 사다리 게임](https://www.acmicpc.net/problem/16928)
 - [ ] [16948 데스 나이트](https://www.acmicpc.net/problem/16948)
-- [x] [9019 DSLR](https://www.acmicpc.net/problem/9019)
+- [ ] [9019 DSLR](https://www.acmicpc.net/problem/9019)
 - [ ] [14502 연구소](https://www.acmicpc.net/problem/14502)
 - [ ] [12886 돌 그룹](https://www.acmicpc.net/problem/12886)
-- [x] [2206 벽 부수고 이동하기](https://www.acmicpc.net/problem/2206)
-- [x] [16946 벽 부수고 이동하기 4](https://www.acmicpc.net/problem/16946)
-- [x] [14442 벽 부수고 이동하기 2](https://www.acmicpc.net/problem/14442)
-- [x] [16933 벽 부수고 이동하기 3](https://www.acmicpc.net/problem/16933)
+- [ ] [2206 벽 부수고 이동하기](https://www.acmicpc.net/problem/2206)
+- [ ] [16946 벽 부수고 이동하기 4](https://www.acmicpc.net/problem/16946)
+- [ ] [14442 벽 부수고 이동하기 2](https://www.acmicpc.net/problem/14442)
+- [ ] [16933 벽 부수고 이동하기 3](https://www.acmicpc.net/problem/16933)
 - [ ] [16954 움직이는 미로 탈출](https://www.acmicpc.net/problem/16954)
 - [ ] [3055 탈출](https://www.acmicpc.net/problem/3055)
 - [ ] [16236 아기 상어](https://www.acmicpc.net/problem/16236)
 - [ ] [6087 레이저 통신](https://www.acmicpc.net/problem/6087)
 - [ ] [1963 소수 경로](https://www.acmicpc.net/problem/1963)
-- [x] [10026 적록색약](https://www.acmicpc.net/problem/10026)
+- [ ] [10026 적록색약](https://www.acmicpc.net/problem/10026)
 - [ ] [14395 4연산](https://www.acmicpc.net/problem/14395)
 
 ## 알고리즘 중급 1/3 / 710 - 그리디 알고리즘
 
 - [ ] [11047 동전 0](https://www.acmicpc.net/problem/11047)
 - [ ] [1931 회의실 배정](https://www.acmicpc.net/problem/1931)
-- [x] [11399 ATM](https://www.acmicpc.net/problem/11399)
+- [ ] [11399 ATM](https://www.acmicpc.net/problem/11399)
 - [ ] [1080 행렬](https://www.acmicpc.net/problem/1080)
 - [ ] [2138 전구와 스위치](https://www.acmicpc.net/problem/2138)
 - [ ] [1285 동전 뒤집기](https://www.acmicpc.net/problem/1285)
@@ -594,9 +594,9 @@
 ## 알고리즘 중급 1/3 / 711 - 그리디 알고리즘 (연습)
 
 - [ ] [1541 잃어버린 괄호](https://www.acmicpc.net/problem/1541)
-- [x] [1744 수 묶기](https://www.acmicpc.net/problem/1744)
+- [ ] [1744 수 묶기](https://www.acmicpc.net/problem/1744)
 - [ ] [2875 대회 or 인턴](https://www.acmicpc.net/problem/2875)
-- [x] [10610 30](https://www.acmicpc.net/problem/10610)
+- [ ] [10610 30](https://www.acmicpc.net/problem/10610)
 - [ ] [1783 병든 나이트](https://www.acmicpc.net/problem/1783)
 - [ ] [12970 AB](https://www.acmicpc.net/problem/12970)
 - [ ] [12904 A와 B](https://www.acmicpc.net/problem/12904)
@@ -609,19 +609,19 @@
 
 ## 알고리즘 중급 1/3 / 800 - 분할 정복
 
-- [x] [10815 숫자 카드](https://www.acmicpc.net/problem/10815)
-- [x] [10816 숫자 카드 2](https://www.acmicpc.net/problem/10816)
+- [ ] [10815 숫자 카드](https://www.acmicpc.net/problem/10815)
+- [ ] [10816 숫자 카드 2](https://www.acmicpc.net/problem/10816)
 - [ ] [11728 배열 합치기](https://www.acmicpc.net/problem/11728)
 
 ## 알고리즘 중급 1/3 / 801 - 분할 정복 (연습)
 
-- [x] [1780 종이의 개수](https://www.acmicpc.net/problem/1780)
-- [x] [11729 하노이 탑 이동 순서](https://www.acmicpc.net/problem/11729)
+- [ ] [1780 종이의 개수](https://www.acmicpc.net/problem/1780)
+- [ ] [11729 하노이 탑 이동 순서](https://www.acmicpc.net/problem/11729)
 - [ ] [2263 트리의 순회](https://www.acmicpc.net/problem/2263)
-- [x] [1074 Z](https://www.acmicpc.net/problem/1074)
+- [ ] [1074 Z](https://www.acmicpc.net/problem/1074)
 - [ ] [1891 사분면](https://www.acmicpc.net/problem/1891)
-- [x] [2447 별 찍기 - 10](https://www.acmicpc.net/problem/2447)
-- [x] [2448 별 찍기 - 11](https://www.acmicpc.net/problem/2448)
+- [ ] [2447 별 찍기 - 10](https://www.acmicpc.net/problem/2447)
+- [ ] [2448 별 찍기 - 11](https://www.acmicpc.net/problem/2448)
 - [ ] [1517 버블 소트](https://www.acmicpc.net/problem/1517)
 
 ## 알고리즘 중급 1/3 / 802 - 분할 정복 (도전)
@@ -631,12 +631,12 @@
 
 ## 알고리즘 중급 1/3 / 810 - 정렬
 
-- [x] [2751 수 정렬하기 2](https://www.acmicpc.net/problem/2751)
-- [x] [11650 좌표 정렬하기](https://www.acmicpc.net/problem/11650)
-- [x] [11651 좌표 정렬하기 2](https://www.acmicpc.net/problem/11651)
-- [x] [10814 나이순 정렬](https://www.acmicpc.net/problem/10814)
+- [ ] [2751 수 정렬하기 2](https://www.acmicpc.net/problem/2751)
+- [ ] [11650 좌표 정렬하기](https://www.acmicpc.net/problem/11650)
+- [ ] [11651 좌표 정렬하기 2](https://www.acmicpc.net/problem/11651)
+- [ ] [10814 나이순 정렬](https://www.acmicpc.net/problem/10814)
 - [ ] [10825 국영수](https://www.acmicpc.net/problem/10825)
-- [x] [10989 수 정렬하기 3](https://www.acmicpc.net/problem/10989)
+- [ ] [10989 수 정렬하기 3](https://www.acmicpc.net/problem/10989)
 - [ ] [11652 카드](https://www.acmicpc.net/problem/11652)
 - [ ] [1377 버블 소트](https://www.acmicpc.net/problem/1377)
 
@@ -690,7 +690,7 @@
 - [ ] [15684 사다리 조작](https://www.acmicpc.net/problem/15684)
 - [ ] [4902 삼각형의 값](https://www.acmicpc.net/problem/4902)
 - [ ] [16945 매직 스퀘어로 변경하기](https://www.acmicpc.net/problem/16945)
-- [x] [16953 A → B](https://www.acmicpc.net/problem/16953)
+- [ ] [16953 A → B](https://www.acmicpc.net/problem/16953)
 
 ## 알고리즘 중급 2/3 / 552 - 브루트 포스 - 문제 (도전)
 
@@ -715,11 +715,11 @@
 ## 알고리즘 중급 2/3 / 612 - BFS (연습 2)
 
 - [ ] [16956 늑대와 양](https://www.acmicpc.net/problem/16956)
-- [x] [5014 스타트링크](https://www.acmicpc.net/problem/5014)
+- [ ] [5014 스타트링크](https://www.acmicpc.net/problem/5014)
 - [ ] [9376 탈옥](https://www.acmicpc.net/problem/9376)
 - [ ] [2251 물통](https://www.acmicpc.net/problem/2251)
 - [ ] [16932 모양 만들기](https://www.acmicpc.net/problem/16932)
-- [x] [1600 말이 되고픈 원숭이](https://www.acmicpc.net/problem/1600)
+- [ ] [1600 말이 되고픈 원숭이](https://www.acmicpc.net/problem/1600)
 - [ ] [17086 아기 상어 2](https://www.acmicpc.net/problem/17086)
 - [ ] [4991 로봇 청소기](https://www.acmicpc.net/problem/4991)
 - [ ] [2151 거울 설치](https://www.acmicpc.net/problem/2151)
@@ -731,15 +731,15 @@
 ## 알고리즘 중급 2/3 / 900 - 자료구조 2
 
 - [ ] [9935 문자열 폭발](https://www.acmicpc.net/problem/9935)
-- [x] [6549 히스토그램에서 가장 큰 직사각형](https://www.acmicpc.net/problem/6549)
-- [x] [3015 오아시스 재결합](https://www.acmicpc.net/problem/3015)
+- [ ] [6549 히스토그램에서 가장 큰 직사각형](https://www.acmicpc.net/problem/6549)
+- [ ] [3015 오아시스 재결합](https://www.acmicpc.net/problem/3015)
 - [ ] [1717 집합의 표현](https://www.acmicpc.net/problem/1717)
-- [x] [2606 바이러스](https://www.acmicpc.net/problem/2606)
+- [ ] [2606 바이러스](https://www.acmicpc.net/problem/2606)
 - [ ] [11279 최대 힙](https://www.acmicpc.net/problem/11279)
 - [ ] [1927 최소 힙](https://www.acmicpc.net/problem/1927)
 - [ ] [1655 가운데를 말해요](https://www.acmicpc.net/problem/1655)
-- [x] [7785 회사에 있는 사람](https://www.acmicpc.net/problem/7785)
-- [x] [1764 듣보잡](https://www.acmicpc.net/problem/1764)
+- [ ] [7785 회사에 있는 사람](https://www.acmicpc.net/problem/7785)
+- [ ] [1764 듣보잡](https://www.acmicpc.net/problem/1764)
 
 ## 알고리즘 중급 2/3 / 901 - 자료구조 2 (연습)
 
@@ -847,7 +847,7 @@
 - [ ] [2261 가장 가까운 두 점](https://www.acmicpc.net/problem/2261)
 - [ ] [11873 최대 직사각형](https://www.acmicpc.net/problem/11873)
 - [ ] [1689 겹치는 선분](https://www.acmicpc.net/problem/1689)
-- [x] [2170 선 긋기](https://www.acmicpc.net/problem/2170)
+- [ ] [2170 선 긋기](https://www.acmicpc.net/problem/2170)
 
 ## 알고리즘 중급 3/3 / 1200 - 그래프 2
 
@@ -900,15 +900,15 @@
 ## 알고리즘 중급 3/3 / 1220 - BFS 2
 
 - [ ] [8111 0과 1](https://www.acmicpc.net/problem/8111)
-- [x] [17071 숨바꼭질 5](https://www.acmicpc.net/problem/17071)
+- [ ] [17071 숨바꼭질 5](https://www.acmicpc.net/problem/17071)
 - [ ] [1525 퍼즐](https://www.acmicpc.net/problem/1525)
 - [ ] [16973 직사각형 탈출](https://www.acmicpc.net/problem/16973)
 - [ ] [1175 배달](https://www.acmicpc.net/problem/1175)
 - [ ] [16959 체스판 여행 1](https://www.acmicpc.net/problem/16959)
 - [ ] [16952 체스판 여행 2](https://www.acmicpc.net/problem/16952)
-- [x] [12851 숨바꼭질 2](https://www.acmicpc.net/problem/12851)
-- [x] [3197 백조의 호수](https://www.acmicpc.net/problem/3197)
-- [x] [9328 열쇠](https://www.acmicpc.net/problem/9328)
+- [ ] [12851 숨바꼭질 2](https://www.acmicpc.net/problem/12851)
+- [ ] [3197 백조의 호수](https://www.acmicpc.net/problem/3197)
+- [ ] [9328 열쇠](https://www.acmicpc.net/problem/9328)
 - [ ] [16920 확장 게임](https://www.acmicpc.net/problem/16920)
 - [ ] [15653 구슬 탈출 4](https://www.acmicpc.net/problem/15653)
 - [ ] [15558 점프 게임](https://www.acmicpc.net/problem/15558)
@@ -920,10 +920,10 @@
 
 ## 알고리즘 중급 3/3 / 1240 - 펜윅 트리
 
-- [x] [11659 구간 합 구하기 4](https://www.acmicpc.net/problem/11659)
+- [ ] [11659 구간 합 구하기 4](https://www.acmicpc.net/problem/11659)
 - [ ] [2015 수들의 합 4](https://www.acmicpc.net/problem/2015)
 - [ ] [10986 나머지 합](https://www.acmicpc.net/problem/10986)
-- [x] [11660 구간 합 구하기 5](https://www.acmicpc.net/problem/11660)
+- [ ] [11660 구간 합 구하기 5](https://www.acmicpc.net/problem/11660)
 - [ ] [2042 구간 합 구하기](https://www.acmicpc.net/problem/2042)
 - [ ] [11658 구간 합 구하기 3](https://www.acmicpc.net/problem/11658)
 
@@ -971,25 +971,25 @@
 
 ## 알고리즘 고급으로 가는 연결고리 1/2 / 1310 - 조합 게임 1
 
-- [x] [9655 돌 게임](https://www.acmicpc.net/problem/9655)
-- [x] [9656 돌 게임 2](https://www.acmicpc.net/problem/9656)
-- [x] [9657 돌 게임 3](https://www.acmicpc.net/problem/9657)
-- [x] [9658 돌 게임 4](https://www.acmicpc.net/problem/9658)
-- [x] [9659 돌 게임 5](https://www.acmicpc.net/problem/9659)
-- [x] [9660 돌 게임 6](https://www.acmicpc.net/problem/9660)
+- [ ] [9655 돌 게임](https://www.acmicpc.net/problem/9655)
+- [ ] [9656 돌 게임 2](https://www.acmicpc.net/problem/9656)
+- [ ] [9657 돌 게임 3](https://www.acmicpc.net/problem/9657)
+- [ ] [9658 돌 게임 4](https://www.acmicpc.net/problem/9658)
+- [ ] [9659 돌 게임 5](https://www.acmicpc.net/problem/9659)
+- [ ] [9660 돌 게임 6](https://www.acmicpc.net/problem/9660)
 - [ ] [9661 돌 게임 7](https://www.acmicpc.net/problem/9661)
 - [ ] [9662 돌 게임 8](https://www.acmicpc.net/problem/9662)
 - [ ] [11867 박스 나누기 게임](https://www.acmicpc.net/problem/11867)
 - [ ] [16876 재미있는 숫자 게임](https://www.acmicpc.net/problem/16876)
-- [x] [11868 님 게임 2](https://www.acmicpc.net/problem/11868)
-- [x] [11869 님블](https://www.acmicpc.net/problem/11869)
-- [x] [16877 핌버](https://www.acmicpc.net/problem/16877)
-- [x] [11871 님 게임 홀짝](https://www.acmicpc.net/problem/11871)
-- [x] [11872 님 게임 나누기](https://www.acmicpc.net/problem/11872)
+- [ ] [11868 님 게임 2](https://www.acmicpc.net/problem/11868)
+- [ ] [11869 님블](https://www.acmicpc.net/problem/11869)
+- [ ] [16877 핌버](https://www.acmicpc.net/problem/16877)
+- [ ] [11871 님 게임 홀짝](https://www.acmicpc.net/problem/11871)
+- [ ] [11872 님 게임 나누기](https://www.acmicpc.net/problem/11872)
 
 ## 알고리즘 고급으로 가는 연결고리 1/2 / 1311 - 조합 게임 1 (연습)
 
-- [x] [13034 다각형 게임](https://www.acmicpc.net/problem/13034)
+- [ ] [13034 다각형 게임](https://www.acmicpc.net/problem/13034)
 - [ ] [16879 궁전 게임](https://www.acmicpc.net/problem/16879)
 - [ ] [16880 룩, 비숍, 킹, 나이트, 궁전 게임](https://www.acmicpc.net/problem/16880)
 - [ ] [16881 행렬 게임](https://www.acmicpc.net/problem/16881)
@@ -1037,7 +1037,7 @@
 - [ ] [13013 접미사 배열 2](https://www.acmicpc.net/problem/13013)
 - [ ] [13012 접미사 배열 1](https://www.acmicpc.net/problem/13012)
 - [ ] [13264 접미사 배열 2](https://www.acmicpc.net/problem/13264)
-- [x] [11478 서로 다른 부분 문자열의 개수](https://www.acmicpc.net/problem/11478)
+- [ ] [11478 서로 다른 부분 문자열의 개수](https://www.acmicpc.net/problem/11478)
 - [ ] [11479 서로 다른 부분 문자열의 개수 2](https://www.acmicpc.net/problem/11479)
 - [ ] [9248 Suffix Array](https://www.acmicpc.net/problem/9248)
 
@@ -1045,7 +1045,7 @@
 
 - [ ] [1701 Cubeditor](https://www.acmicpc.net/problem/1701)
 - [ ] [1605 반복 부분문자열](https://www.acmicpc.net/problem/1605)
-- [x] [5582 공통 부분 문자열](https://www.acmicpc.net/problem/5582)
+- [ ] [5582 공통 부분 문자열](https://www.acmicpc.net/problem/5582)
 - [ ] [9249 최장 공통 부분 문자열](https://www.acmicpc.net/problem/9249)
 - [ ] [3789 Hidden Password](https://www.acmicpc.net/problem/3789)
 - [ ] [13275 가장 긴 팰린드롬 부분 문자열](https://www.acmicpc.net/problem/13275)
@@ -1067,7 +1067,7 @@
 
 ## 알고리즘 고급으로 가는 연결고리 1/2 / 1601 - 세그먼트 트리와 펜윅 트리 (연습)
 
-- [x] [6549 히스토그램에서 가장 큰 직사각형](https://www.acmicpc.net/problem/6549)
+- [ ] [6549 히스토그램에서 가장 큰 직사각형](https://www.acmicpc.net/problem/6549)
 - [ ] [17408 수열과 쿼리 24](https://www.acmicpc.net/problem/17408)
 - [ ] [1517 버블 소트](https://www.acmicpc.net/problem/1517)
 - [ ] [3006 터보소트](https://www.acmicpc.net/problem/3006)

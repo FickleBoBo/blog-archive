@@ -68,27 +68,27 @@
 
 ## 별 찍기
 
-- [x] [2438 별 찍기 - 1](https://www.acmicpc.net/problem/2438)
-- [x] [2439 별 찍기 - 2](https://www.acmicpc.net/problem/2439)
-- [x] [2440 별 찍기 - 3](https://www.acmicpc.net/problem/2440)
-- [x] [2441 별 찍기 - 4](https://www.acmicpc.net/problem/2441)
-- [x] [2442 별 찍기 - 5](https://www.acmicpc.net/problem/2442)
-- [x] [2443 별 찍기 - 6](https://www.acmicpc.net/problem/2443)
-- [x] [2444 별 찍기 - 7](https://www.acmicpc.net/problem/2444)
-- [x] [2445 별 찍기 - 8](https://www.acmicpc.net/problem/2445)
-- [x] [2446 별 찍기 - 9](https://www.acmicpc.net/problem/2446)
-- [x] [2447 별 찍기 - 10](https://www.acmicpc.net/problem/2447)
-- [x] [2448 별 찍기 - 11](https://www.acmicpc.net/problem/2448)
-- [x] [2522 별 찍기 - 12](https://www.acmicpc.net/problem/2522)
-- [x] [2523 별 찍기 - 13](https://www.acmicpc.net/problem/2523)
+- [ ] [2438 별 찍기 - 1](https://www.acmicpc.net/problem/2438)
+- [ ] [2439 별 찍기 - 2](https://www.acmicpc.net/problem/2439)
+- [ ] [2440 별 찍기 - 3](https://www.acmicpc.net/problem/2440)
+- [ ] [2441 별 찍기 - 4](https://www.acmicpc.net/problem/2441)
+- [ ] [2442 별 찍기 - 5](https://www.acmicpc.net/problem/2442)
+- [ ] [2443 별 찍기 - 6](https://www.acmicpc.net/problem/2443)
+- [ ] [2444 별 찍기 - 7](https://www.acmicpc.net/problem/2444)
+- [ ] [2445 별 찍기 - 8](https://www.acmicpc.net/problem/2445)
+- [ ] [2446 별 찍기 - 9](https://www.acmicpc.net/problem/2446)
+- [ ] [2447 별 찍기 - 10](https://www.acmicpc.net/problem/2447)
+- [ ] [2448 별 찍기 - 11](https://www.acmicpc.net/problem/2448)
+- [ ] [2522 별 찍기 - 12](https://www.acmicpc.net/problem/2522)
+- [ ] [2523 별 찍기 - 13](https://www.acmicpc.net/problem/2523)
 - [ ] [2556 별 찍기 - 14](https://www.acmicpc.net/problem/2556)
-- [x] [10990 별 찍기 - 15](https://www.acmicpc.net/problem/10990)
-- [x] [10991 별 찍기 - 16](https://www.acmicpc.net/problem/10991)
+- [ ] [10990 별 찍기 - 15](https://www.acmicpc.net/problem/10990)
+- [ ] [10991 별 찍기 - 16](https://www.acmicpc.net/problem/10991)
 - [ ] [10992 별 찍기 - 17](https://www.acmicpc.net/problem/10992)
 - [ ] [10993 별 찍기 - 18](https://www.acmicpc.net/problem/10993)
 - [ ] [10994 별 찍기 - 19](https://www.acmicpc.net/problem/10994)
-- [x] [10995 별 찍기 - 20](https://www.acmicpc.net/problem/10995)
-- [x] [10996 별 찍기 - 21](https://www.acmicpc.net/problem/10996)
+- [ ] [10995 별 찍기 - 20](https://www.acmicpc.net/problem/10995)
+- [ ] [10996 별 찍기 - 21](https://www.acmicpc.net/problem/10996)
 - [ ] [10997 별 찍기 - 22](https://www.acmicpc.net/problem/10997)
 - [ ] [13015 별 찍기 - 23](https://www.acmicpc.net/problem/13015)
 
@@ -149,9 +149,9 @@
 
 ## LCS
 
-- [x] [9251 LCS](https://www.acmicpc.net/problem/9251)
-- [x] [9252 LCS 2](https://www.acmicpc.net/problem/9252)
-- [x] [1958 LCS 3](https://www.acmicpc.net/problem/1958)
+- [ ] [9251 LCS](https://www.acmicpc.net/problem/9251)
+- [ ] [9252 LCS 2](https://www.acmicpc.net/problem/9252)
+- [ ] [1958 LCS 3](https://www.acmicpc.net/problem/1958)
 - [ ] [13711 LCS 4](https://www.acmicpc.net/problem/13711)
 - [ ] [18438 LCS 5](https://www.acmicpc.net/problem/18438)
 - [ ] [18439 LCS 6](https://www.acmicpc.net/problem/18439)
@@ -193,8 +193,8 @@
 
 ## 설탕배달
 
-- [x] [2839 설탕 배달](https://www.acmicpc.net/problem/2839)
-- [x] [26099 설탕 배달 2](https://www.acmicpc.net/problem/26099)
+- [ ] [2839 설탕 배달](https://www.acmicpc.net/problem/2839)
+- [ ] [26099 설탕 배달 2](https://www.acmicpc.net/problem/26099)
 
 ## 2-SAT
 
@@ -235,7 +235,7 @@
 - [x] [24265 알고리즘 수업 - 알고리즘의 수행 시간 4](https://www.acmicpc.net/problem/24265)
 - [x] [24266 알고리즘 수업 - 알고리즘의 수행 시간 5](https://www.acmicpc.net/problem/24266)
 - [ ] [24267 알고리즘 수업 - 알고리즘의 수행 시간 6](https://www.acmicpc.net/problem/24267)
-- [x] [24313 알고리즘 수업 - 점근적 표기 1](https://www.acmicpc.net/problem/24313)
+- [ ] [24313 알고리즘 수업 - 점근적 표기 1](https://www.acmicpc.net/problem/24313)
 - [ ] [24314 알고리즘 수업 - 점근적 표기 2](https://www.acmicpc.net/problem/24314)
 - [ ] [24315 알고리즘 수업 - 점근적 표기 3](https://www.acmicpc.net/problem/24315)
 - [ ] [24368 알고리즘 수업 - 점근적 표기 4](https://www.acmicpc.net/problem/24368)
@@ -323,12 +323,12 @@
 
 ## 돌 게임
 
-- [x] [9655 돌 게임](https://www.acmicpc.net/problem/9655)
-- [x] [9656 돌 게임 2](https://www.acmicpc.net/problem/9656)
-- [x] [9657 돌 게임 3](https://www.acmicpc.net/problem/9657)
-- [x] [9658 돌 게임 4](https://www.acmicpc.net/problem/9658)
-- [x] [9659 돌 게임 5](https://www.acmicpc.net/problem/9659)
-- [x] [9660 돌 게임 6](https://www.acmicpc.net/problem/9660)
+- [ ] [9655 돌 게임](https://www.acmicpc.net/problem/9655)
+- [ ] [9656 돌 게임 2](https://www.acmicpc.net/problem/9656)
+- [ ] [9657 돌 게임 3](https://www.acmicpc.net/problem/9657)
+- [ ] [9658 돌 게임 4](https://www.acmicpc.net/problem/9658)
+- [ ] [9659 돌 게임 5](https://www.acmicpc.net/problem/9659)
+- [ ] [9660 돌 게임 6](https://www.acmicpc.net/problem/9660)
 - [ ] [9661 돌 게임 7](https://www.acmicpc.net/problem/9661)
 - [ ] [9662 돌 게임 8](https://www.acmicpc.net/problem/9662)
 
@@ -340,14 +340,14 @@
 
 ## 벽 부수고 이동하기
 
-- [x] [2206 벽 부수고 이동하기](https://www.acmicpc.net/problem/2206)
-- [x] [14442 벽 부수고 이동하기 2](https://www.acmicpc.net/problem/14442)
-- [x] [16933 벽 부수고 이동하기 3](https://www.acmicpc.net/problem/16933)
-- [x] [16946 벽 부수고 이동하기 4](https://www.acmicpc.net/problem/16946)
+- [ ] [2206 벽 부수고 이동하기](https://www.acmicpc.net/problem/2206)
+- [ ] [14442 벽 부수고 이동하기 2](https://www.acmicpc.net/problem/14442)
+- [ ] [16933 벽 부수고 이동하기 3](https://www.acmicpc.net/problem/16933)
+- [ ] [16946 벽 부수고 이동하기 4](https://www.acmicpc.net/problem/16946)
 
 ## 영화감독 숌
 
-- [x] [1436 영화감독 숌](https://www.acmicpc.net/problem/1436)
+- [ ] [1436 영화감독 숌](https://www.acmicpc.net/problem/1436)
 - [ ] [27438 영화감독 숌 2](https://www.acmicpc.net/problem/27438)
 - [ ] [27441 영화감독 숌 3](https://www.acmicpc.net/problem/27441)
 - [ ] [27458 영화감독 숌 4](https://www.acmicpc.net/problem/27458)
@@ -373,8 +373,8 @@
 - [ ] [2042 구간 합 구하기](https://www.acmicpc.net/problem/2042)
 - [ ] [10999 구간 합 구하기 2](https://www.acmicpc.net/problem/10999)
 - [ ] [11658 구간 합 구하기 3](https://www.acmicpc.net/problem/11658)
-- [x] [11659 구간 합 구하기 4](https://www.acmicpc.net/problem/11659)
-- [x] [11660 구간 합 구하기 5](https://www.acmicpc.net/problem/11660)
+- [ ] [11659 구간 합 구하기 4](https://www.acmicpc.net/problem/11659)
+- [ ] [11660 구간 합 구하기 5](https://www.acmicpc.net/problem/11660)
 - [ ] [11505 구간 곱 구하기](https://www.acmicpc.net/problem/11505)
 
 ## 열혈강호
@@ -406,12 +406,12 @@
 
 ## 숨바꼭질
 
-- [x] [1697 숨바꼭질](https://www.acmicpc.net/problem/1697)
-- [x] [12851 숨바꼭질 2](https://www.acmicpc.net/problem/12851)
+- [ ] [1697 숨바꼭질](https://www.acmicpc.net/problem/1697)
+- [ ] [12851 숨바꼭질 2](https://www.acmicpc.net/problem/12851)
 - [ ] [13549 숨바꼭질 3](https://www.acmicpc.net/problem/13549)
-- [x] [13913 숨바꼭질 4](https://www.acmicpc.net/problem/13913)
-- [x] [17071 숨바꼭질 5](https://www.acmicpc.net/problem/17071)
-- [x] [17087 숨바꼭질 6](https://www.acmicpc.net/problem/17087)
+- [ ] [13913 숨바꼭질 4](https://www.acmicpc.net/problem/13913)
+- [ ] [17071 숨바꼭질 5](https://www.acmicpc.net/problem/17071)
+- [ ] [17087 숨바꼭질 6](https://www.acmicpc.net/problem/17087)
 
 ## 구슬 탈출
 
@@ -422,8 +422,8 @@
 
 ## 요세푸스
 
-- [x] [11866 요세푸스 문제 0](https://www.acmicpc.net/problem/11866)
-- [x] [1158 요세푸스 문제](https://www.acmicpc.net/problem/1158)
+- [ ] [11866 요세푸스 문제 0](https://www.acmicpc.net/problem/11866)
+- [ ] [1158 요세푸스 문제](https://www.acmicpc.net/problem/1158)
 - [ ] [1168 요세푸스 문제 2](https://www.acmicpc.net/problem/1168)
 - [ ] [11025 요세푸스 문제 3](https://www.acmicpc.net/problem/11025)
 - [ ] [1179 마지막 요세푸스 문제](https://www.acmicpc.net/problem/1179)
@@ -477,16 +477,16 @@
 
 ## 좌표 정렬하기
 
-- [x] [11650 좌표 정렬하기](https://www.acmicpc.net/problem/11650)
-- [x] [11651 좌표 정렬하기 2](https://www.acmicpc.net/problem/11651)
+- [ ] [11650 좌표 정렬하기](https://www.acmicpc.net/problem/11650)
+- [ ] [11651 좌표 정렬하기 2](https://www.acmicpc.net/problem/11651)
 
 ## 수 정렬하기
 
-- [x] [2750 수 정렬하기](https://www.acmicpc.net/problem/2750)
-- [x] [2751 수 정렬하기 2](https://www.acmicpc.net/problem/2751)
-- [x] [10989 수 정렬하기 3](https://www.acmicpc.net/problem/10989)
-- [x] [11931 수 정렬하기 4](https://www.acmicpc.net/problem/11931)
-- [x] [15688 수 정렬하기 5](https://www.acmicpc.net/problem/15688)
+- [ ] [2750 수 정렬하기](https://www.acmicpc.net/problem/2750)
+- [ ] [2751 수 정렬하기 2](https://www.acmicpc.net/problem/2751)
+- [ ] [10989 수 정렬하기 3](https://www.acmicpc.net/problem/10989)
+- [ ] [11931 수 정렬하기 4](https://www.acmicpc.net/problem/11931)
+- [ ] [15688 수 정렬하기 5](https://www.acmicpc.net/problem/15688)
 
 ## 피보나치 수의 최대공약수의 합
 
@@ -496,8 +496,8 @@
 
 ## 팩토리얼
 
-- [x] [10872 팩토리얼](https://www.acmicpc.net/problem/10872)
-- [x] [27433 팩토리얼 2](https://www.acmicpc.net/problem/27433)
+- [ ] [10872 팩토리얼](https://www.acmicpc.net/problem/10872)
+- [ ] [27433 팩토리얼 2](https://www.acmicpc.net/problem/27433)
 - [ ] [27434 팩토리얼 3](https://www.acmicpc.net/problem/27434)
 - [ ] [27439 팩토리얼 4](https://www.acmicpc.net/problem/27439)
 
@@ -540,7 +540,7 @@
 
 ## 카드 구매하기
 
-- [x] [11052 카드 구매하기](https://www.acmicpc.net/problem/11052)
+- [ ] [11052 카드 구매하기](https://www.acmicpc.net/problem/11052)
 - [ ] [16194 카드 구매하기 2](https://www.acmicpc.net/problem/16194)
 - [ ] [16909 카드 구매하기 3](https://www.acmicpc.net/problem/16909)
 
@@ -625,8 +625,8 @@
 
 ## 2×n 타일링
 
-- [x] [11726 2×n 타일링](https://www.acmicpc.net/problem/11726)
-- [x] [11727 2×n 타일링 2](https://www.acmicpc.net/problem/11727)
+- [ ] [11726 2×n 타일링](https://www.acmicpc.net/problem/11726)
+- [ ] [11727 2×n 타일링 2](https://www.acmicpc.net/problem/11727)
 
 ## NM과 K
 
@@ -635,7 +635,7 @@
 
 ## 색종이
 
-- [x] [2563 색종이](https://www.acmicpc.net/problem/2563)
+- [ ] [2563 색종이](https://www.acmicpc.net/problem/2563)
 - [ ] [2567 색종이 - 2](https://www.acmicpc.net/problem/2567)
 - [ ] [2571 색종이 - 3](https://www.acmicpc.net/problem/2571)
 
@@ -741,9 +741,9 @@
 
 ## 님 게임
 
-- [x] [11694 님 게임](https://www.acmicpc.net/problem/11694)
-- [x] [11868 님 게임 2](https://www.acmicpc.net/problem/11868)
-- [x] [16895 님 게임 3](https://www.acmicpc.net/problem/16895)
+- [ ] [11694 님 게임](https://www.acmicpc.net/problem/11694)
+- [ ] [11868 님 게임 2](https://www.acmicpc.net/problem/11868)
+- [ ] [16895 님 게임 3](https://www.acmicpc.net/problem/16895)
 
 ## 행렬 곱셈 순서
 
@@ -764,7 +764,7 @@
 
 ## 분수찾기
 
-- [x] [1193 분수찾기](https://www.acmicpc.net/problem/1193)
+- [ ] [1193 분수찾기](https://www.acmicpc.net/problem/1193)
 - [ ] [27437 분수찾기 2](https://www.acmicpc.net/problem/27437)
 
 ## 1로 만들기
