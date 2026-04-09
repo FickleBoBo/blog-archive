@@ -3,7 +3,7 @@ title: "[BaekJoon] 13136번 - Do Not Touch Anything [Java][C++]"
 slug: baekjoon-13136
 date: 2026-02-01
 categories: [PS, BaekJoon]
-tags: [Unlinked]
+tags: [warm up]
 toc: true
 math: true
 ---
