@@ -3,7 +3,7 @@ title: "[BaekJoon] 10170번 - NFC West vs North [Java][C++]"
 slug: baekjoon-10170
 date: 2026-01-01
 categories: [PS, BaekJoon]
-tags: [Unlinked]
+tags: [warm up]
 toc: true
 math: true
 ---
