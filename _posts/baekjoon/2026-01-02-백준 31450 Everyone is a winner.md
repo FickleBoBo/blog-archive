@@ -3,7 +3,7 @@ title: "[BaekJoon] 31450번 - Everyone is a winner [Java][C++]"
 slug: baekjoon-31450
 date: 2026-01-02
 categories: [PS, BaekJoon]
-tags: [Unlinked]
+tags: [warm up]
 toc: true
 math: true
 ---
