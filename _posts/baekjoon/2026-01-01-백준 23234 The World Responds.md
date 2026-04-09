@@ -3,7 +3,7 @@ title: "[BaekJoon] 23234번 - The World Responds [Java][C++]"
 slug: baekjoon-23234
 date: 2026-01-01
 categories: [PS, BaekJoon]
-tags: [Unlinked]
+tags: [warm up]
 toc: true
 math: true
 ---
@@ -14,7 +14,7 @@ math: true
 
 ## 1. 아이디어
 
-주어진 양식에 맞춰서 출력만 하면 된다.
+`The world says hello!`를 출력만 하면 된다.
 
 ---
 
