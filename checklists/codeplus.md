@@ -7,7 +7,7 @@
 - [ ] [1037 약수](https://www.acmicpc.net/problem/1037)
 - [ ] [17427 약수의 합 2](https://www.acmicpc.net/problem/17427)
 - [ ] [17425 약수의 합](https://www.acmicpc.net/problem/17425)
-- [ ] [2609 최대공약수와 최소공배수](https://www.acmicpc.net/problem/2609)
+- [x] [2609 최대공약수와 최소공배수](https://www.acmicpc.net/problem/2609)
 - [ ] [1978 소수 찾기](https://www.acmicpc.net/problem/1978)
 - [ ] [1929 소수 구하기](https://www.acmicpc.net/problem/1929)
 - [ ] [6588 골드바흐의 추측](https://www.acmicpc.net/problem/6588)
@@ -373,8 +373,8 @@
 ## 알고리즘 기초 1/2 / 300 - 수학 1
 
 - [x] [10430 나머지](https://www.acmicpc.net/problem/10430)
-- [ ] [2609 최대공약수와 최소공배수](https://www.acmicpc.net/problem/2609)
-- [ ] [1934 최소공배수](https://www.acmicpc.net/problem/1934)
+- [x] [2609 최대공약수와 최소공배수](https://www.acmicpc.net/problem/2609)
+- [x] [1934 최소공배수](https://www.acmicpc.net/problem/1934)
 - [ ] [1978 소수 찾기](https://www.acmicpc.net/problem/1978)
 - [ ] [1929 소수 구하기](https://www.acmicpc.net/problem/1929)
 - [ ] [6588 골드바흐의 추측](https://www.acmicpc.net/problem/6588)
@@ -384,8 +384,8 @@
 
 ## 알고리즘 기초 1/2 / 301 - 수학 1 (연습)
 
-- [ ] [9613 GCD 합](https://www.acmicpc.net/problem/9613)
-- [ ] [17087 숨바꼭질 6](https://www.acmicpc.net/problem/17087)
+- [x] [9613 GCD 합](https://www.acmicpc.net/problem/9613)
+- [x] [17087 숨바꼭질 6](https://www.acmicpc.net/problem/17087)
 - [ ] [1373 2진수 8진수](https://www.acmicpc.net/problem/1373)
 - [ ] [1212 8진수 2진수](https://www.acmicpc.net/problem/1212)
 - [ ] [2089 -2진수](https://www.acmicpc.net/problem/2089)

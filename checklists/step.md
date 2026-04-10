@@ -11,7 +11,7 @@
 - [x] [10926 ??!](https://www.acmicpc.net/problem/10926)
 - [x] [18108 1998년생인 내가 태국에서는 2541년생?!](https://www.acmicpc.net/problem/18108)
 - [x] [10430 나머지](https://www.acmicpc.net/problem/10430)
-- [ ] [2588 곱셈](https://www.acmicpc.net/problem/2588)
+- [x] [2588 곱셈](https://www.acmicpc.net/problem/2588)
 - [x] [11382 꼬마 정민](https://www.acmicpc.net/problem/11382)
 - [x] [10171 고양이](https://www.acmicpc.net/problem/10171)
 - [x] [10172 개](https://www.acmicpc.net/problem/10172)
@@ -19,7 +19,7 @@
 ## 2단계 - 조건문
 
 - [x] [1330 두 수 비교하기](https://www.acmicpc.net/problem/1330)
-- [ ] [9498 시험 성적](https://www.acmicpc.net/problem/9498)
+- [x] [9498 시험 성적](https://www.acmicpc.net/problem/9498)
 - [x] [2753 윤년](https://www.acmicpc.net/problem/2753)
 - [x] [14681 사분면 고르기](https://www.acmicpc.net/problem/14681)
 - [x] [2884 알람 시계](https://www.acmicpc.net/problem/2884)
@@ -30,29 +30,29 @@
 
 - [x] [2739 구구단](https://www.acmicpc.net/problem/2739)
 - [x] [10950 A+B - 3](https://www.acmicpc.net/problem/10950)
-- [ ] [8393 합](https://www.acmicpc.net/problem/8393)
+- [x] [8393 합](https://www.acmicpc.net/problem/8393)
 - [x] [25304 영수증](https://www.acmicpc.net/problem/25304)
 - [x] [25314 코딩은 체육과목 입니다](https://www.acmicpc.net/problem/25314)
 - [x] [15552 빠른 A+B](https://www.acmicpc.net/problem/15552)
 - [x] [11021 A+B - 7](https://www.acmicpc.net/problem/11021)
 - [x] [11022 A+B - 8](https://www.acmicpc.net/problem/11022)
-- [ ] [2438 별 찍기 - 1](https://www.acmicpc.net/problem/2438)
-- [ ] [2439 별 찍기 - 2](https://www.acmicpc.net/problem/2439)
+- [x] [2438 별 찍기 - 1](https://www.acmicpc.net/problem/2438)
+- [x] [2439 별 찍기 - 2](https://www.acmicpc.net/problem/2439)
 - [x] [10952 A+B - 5](https://www.acmicpc.net/problem/10952)
 - [x] [10951 A+B - 4](https://www.acmicpc.net/problem/10951)
 
 ## 4단계 - 1차원 배열
 
-- [ ] [10807 개수 세기](https://www.acmicpc.net/problem/10807)
+- [x] [10807 개수 세기](https://www.acmicpc.net/problem/10807)
 - [x] [10871 X보다 작은 수](https://www.acmicpc.net/problem/10871)
-- [ ] [10818 최소, 최대](https://www.acmicpc.net/problem/10818)
-- [ ] [2562 최댓값](https://www.acmicpc.net/problem/2562)
-- [ ] [10810 공 넣기](https://www.acmicpc.net/problem/10810)
-- [ ] [10813 공 바꾸기](https://www.acmicpc.net/problem/10813)
+- [x] [10818 최소, 최대](https://www.acmicpc.net/problem/10818)
+- [x] [2562 최댓값](https://www.acmicpc.net/problem/2562)
+- [x] [10810 공 넣기](https://www.acmicpc.net/problem/10810)
+- [x] [10813 공 바꾸기](https://www.acmicpc.net/problem/10813)
 - [x] [5597 과제 안 내신 분..?](https://www.acmicpc.net/problem/5597)
 - [x] [3052 나머지](https://www.acmicpc.net/problem/3052)
-- [ ] [10811 바구니 뒤집기](https://www.acmicpc.net/problem/10811)
-- [ ] [1546 평균](https://www.acmicpc.net/problem/1546)
+- [x] [10811 바구니 뒤집기](https://www.acmicpc.net/problem/10811)
+- [x] [1546 평균](https://www.acmicpc.net/problem/1546)
 
 ## 5단계 - 문자열
 
@@ -72,7 +72,7 @@
 
 - [x] [25083 새싹](https://www.acmicpc.net/problem/25083)
 - [x] [3003 킹, 퀸, 룩, 비숍, 나이트, 폰](https://www.acmicpc.net/problem/3003)
-- [ ] [2444 별 찍기 - 7](https://www.acmicpc.net/problem/2444)
+- [x] [2444 별 찍기 - 7](https://www.acmicpc.net/problem/2444)
 - [ ] [10988 팰린드롬인지 확인하기](https://www.acmicpc.net/problem/10988)
 - [ ] [1157 단어 공부](https://www.acmicpc.net/problem/1157)
 - [ ] [2941 크로아티아 알파벳](https://www.acmicpc.net/problem/2941)
@@ -108,7 +108,7 @@
 ## 10단계 - 기하 1: 직사각형과 삼각형
 
 - [x] [27323 직사각형](https://www.acmicpc.net/problem/27323)
-- [ ] [1085 직사각형에서 탈출](https://www.acmicpc.net/problem/1085)
+- [x] [1085 직사각형에서 탈출](https://www.acmicpc.net/problem/1085)
 - [ ] [3009 네 번째 점](https://www.acmicpc.net/problem/3009)
 - [x] [15894 수학은 체육과목 입니다](https://www.acmicpc.net/problem/15894)
 - [x] [9063 대지](https://www.acmicpc.net/problem/9063)
@@ -162,10 +162,10 @@
 
 ## 15단계 - 약수, 배수와 소수 2
 
-- [ ] [1934 최소공배수](https://www.acmicpc.net/problem/1934)
-- [ ] [13241 최소공배수](https://www.acmicpc.net/problem/13241)
-- [ ] [1735 분수 합](https://www.acmicpc.net/problem/1735)
-- [ ] [2485 가로수](https://www.acmicpc.net/problem/2485)
+- [x] [1934 최소공배수](https://www.acmicpc.net/problem/1934)
+- [x] [13241 최소공배수](https://www.acmicpc.net/problem/13241)
+- [x] [1735 분수 합](https://www.acmicpc.net/problem/1735)
+- [x] [2485 가로수](https://www.acmicpc.net/problem/2485)
 - [ ] [4134 다음 소수](https://www.acmicpc.net/problem/4134)
 - [ ] [1929 소수 구하기](https://www.acmicpc.net/problem/1929)
 - [ ] [4948 베르트랑 공준](https://www.acmicpc.net/problem/4948)
