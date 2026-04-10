@@ -77,8 +77,8 @@
 - [x] [2444 별 찍기 - 7](https://www.acmicpc.net/problem/2444)
 - [x] [2445 별 찍기 - 8](https://www.acmicpc.net/problem/2445)
 - [x] [2446 별 찍기 - 9](https://www.acmicpc.net/problem/2446)
-- [ ] [2447 별 찍기 - 10](https://www.acmicpc.net/problem/2447)
-- [ ] [2448 별 찍기 - 11](https://www.acmicpc.net/problem/2448)
+- [x] [2447 별 찍기 - 10](https://www.acmicpc.net/problem/2447)
+- [x] [2448 별 찍기 - 11](https://www.acmicpc.net/problem/2448)
 - [x] [2522 별 찍기 - 12](https://www.acmicpc.net/problem/2522)
 - [x] [2523 별 찍기 - 13](https://www.acmicpc.net/problem/2523)
 - [ ] [2556 별 찍기 - 14](https://www.acmicpc.net/problem/2556)
@@ -323,12 +323,12 @@
 
 ## 돌 게임
 
-- [ ] [9655 돌 게임](https://www.acmicpc.net/problem/9655)
-- [ ] [9656 돌 게임 2](https://www.acmicpc.net/problem/9656)
-- [ ] [9657 돌 게임 3](https://www.acmicpc.net/problem/9657)
-- [ ] [9658 돌 게임 4](https://www.acmicpc.net/problem/9658)
-- [ ] [9659 돌 게임 5](https://www.acmicpc.net/problem/9659)
-- [ ] [9660 돌 게임 6](https://www.acmicpc.net/problem/9660)
+- [x] [9655 돌 게임](https://www.acmicpc.net/problem/9655)
+- [x] [9656 돌 게임 2](https://www.acmicpc.net/problem/9656)
+- [x] [9657 돌 게임 3](https://www.acmicpc.net/problem/9657)
+- [x] [9658 돌 게임 4](https://www.acmicpc.net/problem/9658)
+- [x] [9659 돌 게임 5](https://www.acmicpc.net/problem/9659)
+- [x] [9660 돌 게임 6](https://www.acmicpc.net/problem/9660)
 - [ ] [9661 돌 게임 7](https://www.acmicpc.net/problem/9661)
 - [ ] [9662 돌 게임 8](https://www.acmicpc.net/problem/9662)
 
@@ -741,9 +741,9 @@
 
 ## 님 게임
 
-- [ ] [11694 님 게임](https://www.acmicpc.net/problem/11694)
-- [ ] [11868 님 게임 2](https://www.acmicpc.net/problem/11868)
-- [ ] [16895 님 게임 3](https://www.acmicpc.net/problem/16895)
+- [x] [11694 님 게임](https://www.acmicpc.net/problem/11694)
+- [x] [11868 님 게임 2](https://www.acmicpc.net/problem/11868)
+- [x] [16895 님 게임 3](https://www.acmicpc.net/problem/16895)
 
 ## 행렬 곱셈 순서
 

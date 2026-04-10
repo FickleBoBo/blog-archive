@@ -209,8 +209,8 @@
 - [ ] [25501 재귀의 귀재](https://www.acmicpc.net/problem/25501)
 - [ ] [24060 알고리즘 수업 - 병합 정렬 1](https://www.acmicpc.net/problem/24060)
 - [ ] [4779 칸토어 집합](https://www.acmicpc.net/problem/4779)
-- [ ] [2447 별 찍기 - 10](https://www.acmicpc.net/problem/2447)
-- [ ] [11729 하노이 탑 이동 순서](https://www.acmicpc.net/problem/11729)
+- [x] [2447 별 찍기 - 10](https://www.acmicpc.net/problem/2447)
+- [x] [11729 하노이 탑 이동 순서](https://www.acmicpc.net/problem/11729)
 
 ## 20단계 - 백트래킹
 
@@ -261,9 +261,9 @@
 
 ## 24단계 - 분할 정복
 
-- [ ] [2630 색종이 만들기](https://www.acmicpc.net/problem/2630)
-- [ ] [1992 쿼드트리](https://www.acmicpc.net/problem/1992)
-- [ ] [1780 종이의 개수](https://www.acmicpc.net/problem/1780)
+- [x] [2630 색종이 만들기](https://www.acmicpc.net/problem/2630)
+- [x] [1992 쿼드트리](https://www.acmicpc.net/problem/1992)
+- [x] [1780 종이의 개수](https://www.acmicpc.net/problem/1780)
 - [ ] [1629 곱셈](https://www.acmicpc.net/problem/1629)
 - [ ] [11401 이항 계수 3](https://www.acmicpc.net/problem/11401)
 - [ ] [2740 행렬 곱셈](https://www.acmicpc.net/problem/2740)
@@ -606,14 +606,14 @@
 
 ## 57단계 - 스프라그 그런디 정리
 
-- [ ] [9658 돌 게임 4](https://www.acmicpc.net/problem/9658)
+- [x] [9658 돌 게임 4](https://www.acmicpc.net/problem/9658)
 - [ ] [9662 돌 게임 8](https://www.acmicpc.net/problem/9662)
-- [ ] [11868 님 게임 2](https://www.acmicpc.net/problem/11868)
-- [ ] [11694 님 게임](https://www.acmicpc.net/problem/11694)
+- [x] [11868 님 게임 2](https://www.acmicpc.net/problem/11868)
+- [x] [11694 님 게임](https://www.acmicpc.net/problem/11694)
 - [ ] [27852 Kruskal](https://www.acmicpc.net/problem/27852)
 - [ ] [21970 Football](https://www.acmicpc.net/problem/21970)
 - [ ] [8170 Pebbles](https://www.acmicpc.net/problem/8170)
-- [ ] [13034 다각형 게임](https://www.acmicpc.net/problem/13034)
+- [x] [13034 다각형 게임](https://www.acmicpc.net/problem/13034)
 - [ ] [11717 Wall Making Game](https://www.acmicpc.net/problem/11717)
 - [ ] [16883 대각 게임](https://www.acmicpc.net/problem/16883)
 

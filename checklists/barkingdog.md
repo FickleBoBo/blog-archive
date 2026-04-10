@@ -115,15 +115,15 @@
 ## 0x0B강 - 재귀
 
 - [ ] [1629 곱셈](https://www.acmicpc.net/problem/1629)
-- [ ] [11729 하노이 탑 이동 순서](https://www.acmicpc.net/problem/11729)
-- [ ] [1074 Z](https://www.acmicpc.net/problem/1074)
-- [ ] [17478 재귀함수가 뭔가요?](https://www.acmicpc.net/problem/17478)
-- [ ] [1780 종이의 개수](https://www.acmicpc.net/problem/1780)
-- [ ] [2630 색종이 만들기](https://www.acmicpc.net/problem/2630)
-- [ ] [1992 쿼드트리](https://www.acmicpc.net/problem/1992)
-- [ ] [2447 별 찍기 - 10](https://www.acmicpc.net/problem/2447)
-- [ ] [2448 별 찍기 - 11](https://www.acmicpc.net/problem/2448)
-- [ ] [14956 Philosopher's Walk](https://www.acmicpc.net/problem/14956)
+- [x] [11729 하노이 탑 이동 순서](https://www.acmicpc.net/problem/11729)
+- [x] [1074 Z](https://www.acmicpc.net/problem/1074)
+- [x] [17478 재귀함수가 뭔가요?](https://www.acmicpc.net/problem/17478)
+- [x] [1780 종이의 개수](https://www.acmicpc.net/problem/1780)
+- [x] [2630 색종이 만들기](https://www.acmicpc.net/problem/2630)
+- [x] [1992 쿼드트리](https://www.acmicpc.net/problem/1992)
+- [x] [2447 별 찍기 - 10](https://www.acmicpc.net/problem/2447)
+- [x] [2448 별 찍기 - 11](https://www.acmicpc.net/problem/2448)
+- [x] [14956 Philosopher's Walk](https://www.acmicpc.net/problem/14956)
 
 ## 0x0C강 - 백트래킹
 
@@ -568,7 +568,7 @@
 - [ ] [1005 ACM Craft](https://www.acmicpc.net/problem/1005)
 - [ ] [10942 팰린드롬?](https://www.acmicpc.net/problem/10942)
 - [ ] [1699 제곱수의 합](https://www.acmicpc.net/problem/1699)
-- [ ] [9657 돌 게임 3](https://www.acmicpc.net/problem/9657)
+- [x] [9657 돌 게임 3](https://www.acmicpc.net/problem/9657)
 - [x] [11660 구간 합 구하기 5](https://www.acmicpc.net/problem/11660)
 - [ ] [2011 암호코드](https://www.acmicpc.net/problem/2011)
 - [ ] [12784 인하니카 공화국](https://www.acmicpc.net/problem/12784)
