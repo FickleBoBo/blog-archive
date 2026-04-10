@@ -3,7 +3,7 @@ title: "[BaekJoon] 14956번 - Philosopher’s Walk [Java][C++]"
 slug: baekjoon-14956
 date: 2026-03-09
 categories: [PS, BaekJoon]
-tags: [Unlinked]
+tags: [divide and conquer]
 toc: true
 math: true
 ---
