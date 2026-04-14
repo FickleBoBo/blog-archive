@@ -235,7 +235,7 @@
 - [x] [24265 알고리즘 수업 - 알고리즘의 수행 시간 4](https://www.acmicpc.net/problem/24265)
 - [x] [24266 알고리즘 수업 - 알고리즘의 수행 시간 5](https://www.acmicpc.net/problem/24266)
 - [ ] [24267 알고리즘 수업 - 알고리즘의 수행 시간 6](https://www.acmicpc.net/problem/24267)
-- [ ] [24313 알고리즘 수업 - 점근적 표기 1](https://www.acmicpc.net/problem/24313)
+- [x] [24313 알고리즘 수업 - 점근적 표기 1](https://www.acmicpc.net/problem/24313)
 - [ ] [24314 알고리즘 수업 - 점근적 표기 2](https://www.acmicpc.net/problem/24314)
 - [ ] [24315 알고리즘 수업 - 점근적 표기 3](https://www.acmicpc.net/problem/24315)
 - [ ] [24368 알고리즘 수업 - 점근적 표기 4](https://www.acmicpc.net/problem/24368)
@@ -635,7 +635,7 @@
 
 ## 색종이
 
-- [ ] [2563 색종이](https://www.acmicpc.net/problem/2563)
+- [x] [2563 색종이](https://www.acmicpc.net/problem/2563)
 - [ ] [2567 색종이 - 2](https://www.acmicpc.net/problem/2567)
 - [ ] [2571 색종이 - 3](https://www.acmicpc.net/problem/2571)
 

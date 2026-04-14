@@ -95,8 +95,8 @@
 
 ## 코딩 테스트 준비 - 기초 / 큐와 그래프
 
-- [ ] [10845 큐](https://www.acmicpc.net/problem/10845)
-- [ ] [10866 덱](https://www.acmicpc.net/problem/10866)
+- [x] [10845 큐](https://www.acmicpc.net/problem/10845)
+- [x] [10866 덱](https://www.acmicpc.net/problem/10866)
 - [ ] [13023 ABCDE](https://www.acmicpc.net/problem/13023)
 - [x] [1260 DFS와 BFS](https://www.acmicpc.net/problem/1260)
 - [ ] [11724 연결 요소의 개수](https://www.acmicpc.net/problem/11724)
@@ -342,14 +342,14 @@
 
 ## 알고리즘 기초 1/2 / 200 - 자료구조 1
 
-- [ ] [10828 스택](https://www.acmicpc.net/problem/10828)
+- [x] [10828 스택](https://www.acmicpc.net/problem/10828)
 - [ ] [9093 단어 뒤집기](https://www.acmicpc.net/problem/9093)
 - [x] [9012 괄호](https://www.acmicpc.net/problem/9012)
 - [ ] [1874 스택 수열](https://www.acmicpc.net/problem/1874)
 - [x] [1406 에디터](https://www.acmicpc.net/problem/1406)
-- [ ] [10845 큐](https://www.acmicpc.net/problem/10845)
+- [x] [10845 큐](https://www.acmicpc.net/problem/10845)
 - [x] [1158 요세푸스 문제](https://www.acmicpc.net/problem/1158)
-- [ ] [10866 덱](https://www.acmicpc.net/problem/10866)
+- [x] [10866 덱](https://www.acmicpc.net/problem/10866)
 
 ## 알고리즘 기초 1/2 / 201 - 자료구조 1 (연습)
 

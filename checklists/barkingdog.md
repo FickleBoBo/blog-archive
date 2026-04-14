@@ -37,7 +37,7 @@
 - [x] [1475 방 번호](https://www.acmicpc.net/problem/1475)
 - [x] [3273 두 수의 합](https://www.acmicpc.net/problem/3273)
 - [x] [10807 개수 세기](https://www.acmicpc.net/problem/10807)
-- [ ] [13300 방 배정](https://www.acmicpc.net/problem/13300)
+- [x] [13300 방 배정](https://www.acmicpc.net/problem/13300)
 - [x] [11328 Strfry](https://www.acmicpc.net/problem/11328)
 - [x] [1919 애너그램 만들기](https://www.acmicpc.net/problem/1919)
 
@@ -49,7 +49,7 @@
 
 ## 0x05강 - 스택
 
-- [ ] [10828 스택](https://www.acmicpc.net/problem/10828)
+- [x] [10828 스택](https://www.acmicpc.net/problem/10828)
 - [x] [10773 제로](https://www.acmicpc.net/problem/10773)
 - [ ] [1874 스택 수열](https://www.acmicpc.net/problem/1874)
 - [ ] [2493 탑](https://www.acmicpc.net/problem/2493)
@@ -60,13 +60,13 @@
 
 ## 0x06강 - 큐
 
-- [ ] [10845 큐](https://www.acmicpc.net/problem/10845)
-- [ ] [18258 큐 2](https://www.acmicpc.net/problem/18258)
+- [x] [10845 큐](https://www.acmicpc.net/problem/10845)
+- [x] [18258 큐 2](https://www.acmicpc.net/problem/18258)
 - [x] [2164 카드2](https://www.acmicpc.net/problem/2164)
 
 ## 0x07강 - 덱
 
-- [ ] [10866 덱](https://www.acmicpc.net/problem/10866)
+- [x] [10866 덱](https://www.acmicpc.net/problem/10866)
 - [ ] [1021 회전하는 큐](https://www.acmicpc.net/problem/1021)
 - [ ] [5430 AC](https://www.acmicpc.net/problem/5430)
 - [ ] [11003 최솟값 찾기](https://www.acmicpc.net/problem/11003)
@@ -273,15 +273,15 @@
 
 - [x] [11047 동전 0](https://www.acmicpc.net/problem/11047)
 - [ ] [1931 회의실 배정](https://www.acmicpc.net/problem/1931)
-- [ ] [2217 로프](https://www.acmicpc.net/problem/2217)
-- [ ] [1026 보물](https://www.acmicpc.net/problem/1026)
+- [x] [2217 로프](https://www.acmicpc.net/problem/2217)
+- [x] [1026 보물](https://www.acmicpc.net/problem/1026)
 - [x] [11399 ATM](https://www.acmicpc.net/problem/11399)
 - [ ] [2457 공주님의 정원](https://www.acmicpc.net/problem/2457)
 - [ ] [1541 잃어버린 괄호](https://www.acmicpc.net/problem/1541)
 - [x] [11501 주식](https://www.acmicpc.net/problem/11501)
 - [ ] [1744 수 묶기](https://www.acmicpc.net/problem/1744)
 - [x] [2847 게임을 만든 동준이](https://www.acmicpc.net/problem/2847)
-- [ ] [1439 뒤집기](https://www.acmicpc.net/problem/1439)
+- [x] [1439 뒤집기](https://www.acmicpc.net/problem/1439)
 - [ ] [11000 강의실 배정](https://www.acmicpc.net/problem/11000)
 - [ ] [15903 카드 합체 놀이](https://www.acmicpc.net/problem/15903)
 - [ ] [2170 선 긋기](https://www.acmicpc.net/problem/2170)

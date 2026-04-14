@@ -82,9 +82,9 @@
 ## 7단계 - 2차원 배열
 
 - [x] [2738 행렬 덧셈](https://www.acmicpc.net/problem/2738)
-- [ ] [2566 최댓값](https://www.acmicpc.net/problem/2566)
+- [x] [2566 최댓값](https://www.acmicpc.net/problem/2566)
 - [ ] [10798 세로읽기](https://www.acmicpc.net/problem/10798)
-- [ ] [2563 색종이](https://www.acmicpc.net/problem/2563)
+- [x] [2563 색종이](https://www.acmicpc.net/problem/2563)
 
 ## 8단계 - 수학 1
 
@@ -124,7 +124,7 @@
 - [x] [24265 알고리즘 수업 - 알고리즘의 수행 시간 4](https://www.acmicpc.net/problem/24265)
 - [x] [24266 알고리즘 수업 - 알고리즘의 수행 시간 5](https://www.acmicpc.net/problem/24266)
 - [ ] [24267 알고리즘 수업 - 알고리즘의 수행 시간 6](https://www.acmicpc.net/problem/24267)
-- [ ] [24313 알고리즘 수업 - 점근적 표기 1](https://www.acmicpc.net/problem/24313)
+- [x] [24313 알고리즘 수업 - 점근적 표기 1](https://www.acmicpc.net/problem/24313)
 
 ## 12단계 - 브루트 포스
 
@@ -174,15 +174,15 @@
 
 ## 16단계 - 스택, 큐, 덱 1
 
-- [ ] [28278 스택 2](https://www.acmicpc.net/problem/28278)
+- [x] [28278 스택 2](https://www.acmicpc.net/problem/28278)
 - [x] [10773 제로](https://www.acmicpc.net/problem/10773)
 - [x] [9012 괄호](https://www.acmicpc.net/problem/9012)
 - [x] [4949 균형잡힌 세상](https://www.acmicpc.net/problem/4949)
 - [ ] [12789 도키도키 간식드리미](https://www.acmicpc.net/problem/12789)
-- [ ] [18258 큐 2](https://www.acmicpc.net/problem/18258)
+- [x] [18258 큐 2](https://www.acmicpc.net/problem/18258)
 - [x] [2164 카드2](https://www.acmicpc.net/problem/2164)
 - [x] [11866 요세푸스 문제 0](https://www.acmicpc.net/problem/11866)
-- [ ] [28279 덱 2](https://www.acmicpc.net/problem/28279)
+- [x] [28279 덱 2](https://www.acmicpc.net/problem/28279)
 - [ ] [2346 풍선 터뜨리기](https://www.acmicpc.net/problem/2346)
 - [ ] [24511 queuestack](https://www.acmicpc.net/problem/24511)
 
