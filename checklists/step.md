@@ -73,17 +73,17 @@
 - [x] [25083 새싹](https://www.acmicpc.net/problem/25083)
 - [x] [3003 킹, 퀸, 룩, 비숍, 나이트, 폰](https://www.acmicpc.net/problem/3003)
 - [x] [2444 별 찍기 - 7](https://www.acmicpc.net/problem/2444)
-- [ ] [10988 팰린드롬인지 확인하기](https://www.acmicpc.net/problem/10988)
+- [x] [10988 팰린드롬인지 확인하기](https://www.acmicpc.net/problem/10988)
 - [ ] [1157 단어 공부](https://www.acmicpc.net/problem/1157)
 - [ ] [2941 크로아티아 알파벳](https://www.acmicpc.net/problem/2941)
-- [ ] [1316 그룹 단어 체커](https://www.acmicpc.net/problem/1316)
+- [x] [1316 그룹 단어 체커](https://www.acmicpc.net/problem/1316)
 - [ ] [25206 너의 평점은](https://www.acmicpc.net/problem/25206)
 
 ## 7단계 - 2차원 배열
 
 - [x] [2738 행렬 덧셈](https://www.acmicpc.net/problem/2738)
 - [x] [2566 최댓값](https://www.acmicpc.net/problem/2566)
-- [ ] [10798 세로읽기](https://www.acmicpc.net/problem/10798)
+- [x] [10798 세로읽기](https://www.acmicpc.net/problem/10798)
 - [x] [2563 색종이](https://www.acmicpc.net/problem/2563)
 
 ## 8단계 - 수학 1
@@ -94,7 +94,7 @@
 - [ ] [2903 중앙 이동 알고리즘](https://www.acmicpc.net/problem/2903)
 - [ ] [2292 벌집](https://www.acmicpc.net/problem/2292)
 - [ ] [1193 분수찾기](https://www.acmicpc.net/problem/1193)
-- [ ] [2869 달팽이는 올라가고 싶다](https://www.acmicpc.net/problem/2869)
+- [x] [2869 달팽이는 올라가고 싶다](https://www.acmicpc.net/problem/2869)
 
 ## 9단계 - 약수, 배수와 소수 1
 
@@ -114,7 +114,7 @@
 - [x] [9063 대지](https://www.acmicpc.net/problem/9063)
 - [x] [10101 삼각형 외우기](https://www.acmicpc.net/problem/10101)
 - [x] [5073 삼각형과 세 변](https://www.acmicpc.net/problem/5073)
-- [ ] [14215 세 막대](https://www.acmicpc.net/problem/14215)
+- [x] [14215 세 막대](https://www.acmicpc.net/problem/14215)
 
 ## 11단계 - 시간 복잡도
 
@@ -128,10 +128,10 @@
 
 ## 12단계 - 브루트 포스
 
-- [ ] [2798 블랙잭](https://www.acmicpc.net/problem/2798)
+- [x] [2798 블랙잭](https://www.acmicpc.net/problem/2798)
 - [ ] [2231 분해합](https://www.acmicpc.net/problem/2231)
 - [x] [19532 수학은 비대면강의입니다](https://www.acmicpc.net/problem/19532)
-- [ ] [1018 체스판 다시 칠하기](https://www.acmicpc.net/problem/1018)
+- [x] [1018 체스판 다시 칠하기](https://www.acmicpc.net/problem/1018)
 - [x] [1436 영화감독 숌](https://www.acmicpc.net/problem/1436)
 - [x] [2839 설탕 배달](https://www.acmicpc.net/problem/2839)
 
@@ -197,10 +197,10 @@
 ## 18단계 - 심화 2
 
 - [ ] [1037 약수](https://www.acmicpc.net/problem/1037)
-- [ ] [25192 인사성 밝은 곰곰이](https://www.acmicpc.net/problem/25192)
-- [ ] [26069 붙임성 좋은 총총이](https://www.acmicpc.net/problem/26069)
+- [x] [25192 인사성 밝은 곰곰이](https://www.acmicpc.net/problem/25192)
+- [x] [26069 붙임성 좋은 총총이](https://www.acmicpc.net/problem/26069)
 - [ ] [2108 통계학](https://www.acmicpc.net/problem/2108)
-- [ ] [20920 영단어 암기는 괴로워](https://www.acmicpc.net/problem/20920)
+- [x] [20920 영단어 암기는 괴로워](https://www.acmicpc.net/problem/20920)
 
 ## 19단계 - 재귀
 
@@ -227,7 +227,7 @@
 
 - [ ] [24416 알고리즘 수업 - 피보나치 수 1](https://www.acmicpc.net/problem/24416)
 - [ ] [9184 신나는 함수 실행](https://www.acmicpc.net/problem/9184)
-- [ ] [1904 01타일](https://www.acmicpc.net/problem/1904)
+- [x] [1904 01타일](https://www.acmicpc.net/problem/1904)
 - [ ] [9461 파도반 수열](https://www.acmicpc.net/problem/9461)
 - [ ] [1912 연속합](https://www.acmicpc.net/problem/1912)
 - [ ] [1149 RGB거리](https://www.acmicpc.net/problem/1149)

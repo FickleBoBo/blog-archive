@@ -265,7 +265,7 @@
 - [ ] [9465 스티커](https://www.acmicpc.net/problem/9465)
 - [ ] [11057 오르막 수](https://www.acmicpc.net/problem/11057)
 - [ ] [2293 동전 1](https://www.acmicpc.net/problem/2293)
-- [ ] [1904 01타일](https://www.acmicpc.net/problem/1904)
+- [x] [1904 01타일](https://www.acmicpc.net/problem/1904)
 - [ ] [1788 피보나치 수의 확장](https://www.acmicpc.net/problem/1788)
 - [ ] [4883 삼각 그래프](https://www.acmicpc.net/problem/4883)
 
@@ -305,7 +305,7 @@
 - [ ] [1676 팩토리얼 0의 개수](https://www.acmicpc.net/problem/1676)
 - [x] [9613 GCD 합](https://www.acmicpc.net/problem/9613)
 - [ ] [2292 벌집](https://www.acmicpc.net/problem/2292)
-- [ ] [2869 달팽이는 올라가고 싶다](https://www.acmicpc.net/problem/2869)
+- [x] [2869 달팽이는 올라가고 싶다](https://www.acmicpc.net/problem/2869)
 - [x] [10610 30](https://www.acmicpc.net/problem/10610)
 - [ ] [6359 만취한 상범](https://www.acmicpc.net/problem/6359)
 - [ ] [10250 ACM 호텔](https://www.acmicpc.net/problem/10250)
