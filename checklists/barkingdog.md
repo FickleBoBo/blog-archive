@@ -320,7 +320,7 @@
 - [ ] [1038 감소하는 수](https://www.acmicpc.net/problem/1038)
 - [ ] [1057 토너먼트](https://www.acmicpc.net/problem/1057)
 - [ ] [2004 조합 0의 개수](https://www.acmicpc.net/problem/2004)
-- [ ] [1292 쉽게 푸는 문제](https://www.acmicpc.net/problem/1292)
+- [x] [1292 쉽게 푸는 문제](https://www.acmicpc.net/problem/1292)
 - [ ] [1790 수 이어 쓰기 2](https://www.acmicpc.net/problem/1790)
 - [ ] [3036 링](https://www.acmicpc.net/problem/3036)
 - [x] [1735 분수 합](https://www.acmicpc.net/problem/1735)

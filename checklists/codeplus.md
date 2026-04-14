@@ -603,7 +603,7 @@
 
 ## 알고리즘 중급 1/3 / 712 - 그리디 알고리즘 (도전)
 
-- [ ] [1201 NMK](https://www.acmicpc.net/problem/1201)
+- [x] [1201 NMK](https://www.acmicpc.net/problem/1201)
 - [ ] [2873 롤러코스터](https://www.acmicpc.net/problem/2873)
 - [ ] [12919 A와 B 2](https://www.acmicpc.net/problem/12919)
 
