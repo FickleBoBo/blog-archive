@@ -215,9 +215,9 @@
 - [ ] [2293 동전 1](https://www.acmicpc.net/problem/2293)
 - [ ] [2294 동전 2](https://www.acmicpc.net/problem/2294)
 - [ ] [11058 크리보드](https://www.acmicpc.net/problem/11058)
-- [ ] [9251 LCS](https://www.acmicpc.net/problem/9251)
-- [ ] [9252 LCS 2](https://www.acmicpc.net/problem/9252)
-- [ ] [5582 공통 부분 문자열](https://www.acmicpc.net/problem/5582)
+- [x] [9251 LCS](https://www.acmicpc.net/problem/9251)
+- [x] [9252 LCS 2](https://www.acmicpc.net/problem/9252)
+- [x] [5582 공통 부분 문자열](https://www.acmicpc.net/problem/5582)
 - [ ] [5557 1학년](https://www.acmicpc.net/problem/5557)
 
 ## 코딩 테스트 준비 - 연습 / 시뮬레이션과 구현
@@ -380,7 +380,7 @@
 - [ ] [6588 골드바흐의 추측](https://www.acmicpc.net/problem/6588)
 - [x] [10872 팩토리얼](https://www.acmicpc.net/problem/10872)
 - [ ] [1676 팩토리얼 0의 개수](https://www.acmicpc.net/problem/1676)
-- [ ] [2004 조합 0의 개수](https://www.acmicpc.net/problem/2004)
+- [x] [2004 조합 0의 개수](https://www.acmicpc.net/problem/2004)
 
 ## 알고리즘 기초 1/2 / 301 - 수학 1 (연습)
 
@@ -594,7 +594,7 @@
 ## 알고리즘 중급 1/3 / 711 - 그리디 알고리즘 (연습)
 
 - [ ] [1541 잃어버린 괄호](https://www.acmicpc.net/problem/1541)
-- [ ] [1744 수 묶기](https://www.acmicpc.net/problem/1744)
+- [x] [1744 수 묶기](https://www.acmicpc.net/problem/1744)
 - [ ] [2875 대회 or 인턴](https://www.acmicpc.net/problem/2875)
 - [x] [10610 30](https://www.acmicpc.net/problem/10610)
 - [ ] [1783 병든 나이트](https://www.acmicpc.net/problem/1783)
@@ -847,7 +847,7 @@
 - [ ] [2261 가장 가까운 두 점](https://www.acmicpc.net/problem/2261)
 - [ ] [11873 최대 직사각형](https://www.acmicpc.net/problem/11873)
 - [ ] [1689 겹치는 선분](https://www.acmicpc.net/problem/1689)
-- [ ] [2170 선 긋기](https://www.acmicpc.net/problem/2170)
+- [x] [2170 선 긋기](https://www.acmicpc.net/problem/2170)
 
 ## 알고리즘 중급 3/3 / 1200 - 그래프 2
 
@@ -1045,7 +1045,7 @@
 
 - [ ] [1701 Cubeditor](https://www.acmicpc.net/problem/1701)
 - [ ] [1605 반복 부분문자열](https://www.acmicpc.net/problem/1605)
-- [ ] [5582 공통 부분 문자열](https://www.acmicpc.net/problem/5582)
+- [x] [5582 공통 부분 문자열](https://www.acmicpc.net/problem/5582)
 - [ ] [9249 최장 공통 부분 문자열](https://www.acmicpc.net/problem/9249)
 - [ ] [3789 Hidden Password](https://www.acmicpc.net/problem/3789)
 - [ ] [13275 가장 긴 팰린드롬 부분 문자열](https://www.acmicpc.net/problem/13275)

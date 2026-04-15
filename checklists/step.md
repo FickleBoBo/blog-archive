@@ -239,7 +239,7 @@
 - [ ] [11053 가장 긴 증가하는 부분 수열](https://www.acmicpc.net/problem/11053)
 - [ ] [11054 가장 긴 바이토닉 부분 수열](https://www.acmicpc.net/problem/11054)
 - [ ] [2565 전깃줄](https://www.acmicpc.net/problem/2565)
-- [ ] [9251 LCS](https://www.acmicpc.net/problem/9251)
+- [x] [9251 LCS](https://www.acmicpc.net/problem/9251)
 - [ ] [12865 평범한 배낭](https://www.acmicpc.net/problem/12865)
 
 ## 22단계 - 누적 합
@@ -348,7 +348,7 @@
 - [ ] [12852 1로 만들기 2](https://www.acmicpc.net/problem/12852)
 - [ ] [14002 가장 긴 증가하는 부분 수열 4](https://www.acmicpc.net/problem/14002)
 - [ ] [14003 가장 긴 증가하는 부분 수열 5](https://www.acmicpc.net/problem/14003)
-- [ ] [9252 LCS 2](https://www.acmicpc.net/problem/9252)
+- [x] [9252 LCS 2](https://www.acmicpc.net/problem/9252)
 - [ ] [2618 경찰차](https://www.acmicpc.net/problem/2618)
 - [ ] [13913 숨바꼭질 4](https://www.acmicpc.net/problem/13913)
 - [x] [9019 DSLR](https://www.acmicpc.net/problem/9019)
@@ -524,7 +524,7 @@
 
 ## 49단계 - 스위핑
 
-- [ ] [2170 선 긋기](https://www.acmicpc.net/problem/2170)
+- [x] [2170 선 긋기](https://www.acmicpc.net/problem/2170)
 - [ ] [2836 수상 택시](https://www.acmicpc.net/problem/2836)
 - [ ] [5419 북서풍](https://www.acmicpc.net/problem/5419)
 - [ ] [17131 여우가 정보섬에 올라온 이유](https://www.acmicpc.net/problem/17131)
