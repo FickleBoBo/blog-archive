@@ -283,7 +283,7 @@
 - [x] [2847 게임을 만든 동준이](https://www.acmicpc.net/problem/2847)
 - [x] [1439 뒤집기](https://www.acmicpc.net/problem/1439)
 - [x] [11000 강의실 배정](https://www.acmicpc.net/problem/11000)
-- [ ] [15903 카드 합체 놀이](https://www.acmicpc.net/problem/15903)
+- [x] [15903 카드 합체 놀이](https://www.acmicpc.net/problem/15903)
 - [x] [2170 선 긋기](https://www.acmicpc.net/problem/2170)
 - [ ] [1700 멀티탭 스케줄링](https://www.acmicpc.net/problem/1700)
 - [ ] [8980 택배](https://www.acmicpc.net/problem/8980)
