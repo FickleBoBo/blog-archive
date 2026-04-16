@@ -110,7 +110,7 @@
 
 - [x] [1697 숨바꼭질](https://www.acmicpc.net/problem/1697)
 - [x] [13913 숨바꼭질 4](https://www.acmicpc.net/problem/13913)
-- [ ] [14226 이모티콘](https://www.acmicpc.net/problem/14226)
+- [x] [14226 이모티콘](https://www.acmicpc.net/problem/14226)
 - [ ] [13549 숨바꼭질 3](https://www.acmicpc.net/problem/13549)
 - [ ] [1261 알고스팟](https://www.acmicpc.net/problem/1261)
 
@@ -270,7 +270,7 @@
 - [ ] [15684 사다리 조작](https://www.acmicpc.net/problem/15684)
 - [ ] [4902 삼각형의 값](https://www.acmicpc.net/problem/4902)
 - [ ] [16945 매직 스퀘어로 변경하기](https://www.acmicpc.net/problem/16945)
-- [ ] [16953 A → B](https://www.acmicpc.net/problem/16953)
+- [x] [16953 A → B](https://www.acmicpc.net/problem/16953)
 - [ ] [17136 색종이 붙이기](https://www.acmicpc.net/problem/17136)
 - [ ] [17471 게리맨더링](https://www.acmicpc.net/problem/17471)
 
@@ -295,7 +295,7 @@
 ## 코딩 테스트 준비 - 문제 / BFS 알고리즘
 
 - [ ] [8111 0과 1](https://www.acmicpc.net/problem/8111)
-- [ ] [17071 숨바꼭질 5](https://www.acmicpc.net/problem/17071)
+- [x] [17071 숨바꼭질 5](https://www.acmicpc.net/problem/17071)
 - [ ] [1525 퍼즐](https://www.acmicpc.net/problem/1525)
 - [ ] [16973 직사각형 탈출](https://www.acmicpc.net/problem/16973)
 - [ ] [1175 배달](https://www.acmicpc.net/problem/1175)
@@ -515,7 +515,7 @@
 
 - [x] [1697 숨바꼭질](https://www.acmicpc.net/problem/1697)
 - [x] [13913 숨바꼭질 4](https://www.acmicpc.net/problem/13913)
-- [ ] [14226 이모티콘](https://www.acmicpc.net/problem/14226)
+- [x] [14226 이모티콘](https://www.acmicpc.net/problem/14226)
 - [ ] [13549 숨바꼭질 3](https://www.acmicpc.net/problem/13549)
 - [ ] [1261 알고스팟](https://www.acmicpc.net/problem/1261)
 
@@ -690,7 +690,7 @@
 - [ ] [15684 사다리 조작](https://www.acmicpc.net/problem/15684)
 - [ ] [4902 삼각형의 값](https://www.acmicpc.net/problem/4902)
 - [ ] [16945 매직 스퀘어로 변경하기](https://www.acmicpc.net/problem/16945)
-- [ ] [16953 A → B](https://www.acmicpc.net/problem/16953)
+- [x] [16953 A → B](https://www.acmicpc.net/problem/16953)
 
 ## 알고리즘 중급 2/3 / 552 - 브루트 포스 - 문제 (도전)
 
@@ -900,7 +900,7 @@
 ## 알고리즘 중급 3/3 / 1220 - BFS 2
 
 - [ ] [8111 0과 1](https://www.acmicpc.net/problem/8111)
-- [ ] [17071 숨바꼭질 5](https://www.acmicpc.net/problem/17071)
+- [x] [17071 숨바꼭질 5](https://www.acmicpc.net/problem/17071)
 - [ ] [1525 퍼즐](https://www.acmicpc.net/problem/1525)
 - [ ] [16973 직사각형 탈출](https://www.acmicpc.net/problem/16973)
 - [ ] [1175 배달](https://www.acmicpc.net/problem/1175)
