@@ -91,16 +91,16 @@
 - [x] [2745 진법 변환](https://www.acmicpc.net/problem/2745)
 - [x] [11005 진법 변환 2](https://www.acmicpc.net/problem/11005)
 - [x] [2720 세탁소 사장 동혁](https://www.acmicpc.net/problem/2720)
-- [ ] [2903 중앙 이동 알고리즘](https://www.acmicpc.net/problem/2903)
+- [x] [2903 중앙 이동 알고리즘](https://www.acmicpc.net/problem/2903)
 - [ ] [2292 벌집](https://www.acmicpc.net/problem/2292)
-- [ ] [1193 분수찾기](https://www.acmicpc.net/problem/1193)
+- [x] [1193 분수찾기](https://www.acmicpc.net/problem/1193)
 - [x] [2869 달팽이는 올라가고 싶다](https://www.acmicpc.net/problem/2869)
 
 ## 9단계 - 약수, 배수와 소수 1
 
 - [x] [5086 배수와 약수](https://www.acmicpc.net/problem/5086)
 - [ ] [2501 약수 구하기](https://www.acmicpc.net/problem/2501)
-- [ ] [9506 약수들의 합](https://www.acmicpc.net/problem/9506)
+- [x] [9506 약수들의 합](https://www.acmicpc.net/problem/9506)
 - [ ] [1978 소수 찾기](https://www.acmicpc.net/problem/1978)
 - [ ] [2581 소수](https://www.acmicpc.net/problem/2581)
 - [ ] [11653 소인수분해](https://www.acmicpc.net/problem/11653)
@@ -138,24 +138,24 @@
 ## 13단계 - 정렬
 
 - [x] [2750 수 정렬하기](https://www.acmicpc.net/problem/2750)
-- [ ] [2587 대표값2](https://www.acmicpc.net/problem/2587)
-- [ ] [25305 커트라인](https://www.acmicpc.net/problem/25305)
+- [x] [2587 대표값2](https://www.acmicpc.net/problem/2587)
+- [x] [25305 커트라인](https://www.acmicpc.net/problem/25305)
 - [x] [2751 수 정렬하기 2](https://www.acmicpc.net/problem/2751)
 - [x] [10989 수 정렬하기 3](https://www.acmicpc.net/problem/10989)
 - [x] [1427 소트인사이드](https://www.acmicpc.net/problem/1427)
 - [x] [11650 좌표 정렬하기](https://www.acmicpc.net/problem/11650)
 - [x] [11651 좌표 정렬하기 2](https://www.acmicpc.net/problem/11651)
 - [x] [1181 단어 정렬](https://www.acmicpc.net/problem/1181)
-- [ ] [10814 나이순 정렬](https://www.acmicpc.net/problem/10814)
-- [ ] [18870 좌표 압축](https://www.acmicpc.net/problem/18870)
+- [x] [10814 나이순 정렬](https://www.acmicpc.net/problem/10814)
+- [x] [18870 좌표 압축](https://www.acmicpc.net/problem/18870)
 
 ## 14단계 - 집합과 맵
 
-- [ ] [10815 숫자 카드](https://www.acmicpc.net/problem/10815)
+- [x] [10815 숫자 카드](https://www.acmicpc.net/problem/10815)
 - [ ] [14425 문자열 집합](https://www.acmicpc.net/problem/14425)
 - [x] [7785 회사에 있는 사람](https://www.acmicpc.net/problem/7785)
 - [x] [1620 나는야 포켓몬 마스터 이다솜](https://www.acmicpc.net/problem/1620)
-- [ ] [10816 숫자 카드 2](https://www.acmicpc.net/problem/10816)
+- [x] [10816 숫자 카드 2](https://www.acmicpc.net/problem/10816)
 - [x] [1764 듣보잡](https://www.acmicpc.net/problem/1764)
 - [x] [1269 대칭 차집합](https://www.acmicpc.net/problem/1269)
 - [x] [11478 서로 다른 부분 문자열의 개수](https://www.acmicpc.net/problem/11478)
@@ -170,7 +170,7 @@
 - [ ] [1929 소수 구하기](https://www.acmicpc.net/problem/1929)
 - [ ] [4948 베르트랑 공준](https://www.acmicpc.net/problem/4948)
 - [ ] [17103 골드바흐 파티션](https://www.acmicpc.net/problem/17103)
-- [ ] [13909 창문 닫기](https://www.acmicpc.net/problem/13909)
+- [x] [13909 창문 닫기](https://www.acmicpc.net/problem/13909)
 
 ## 16단계 - 스택, 큐, 덱 1
 
@@ -269,12 +269,12 @@
 - [ ] [2740 행렬 곱셈](https://www.acmicpc.net/problem/2740)
 - [ ] [10830 행렬 제곱](https://www.acmicpc.net/problem/10830)
 - [ ] [11444 피보나치 수 6](https://www.acmicpc.net/problem/11444)
-- [ ] [6549 히스토그램에서 가장 큰 직사각형](https://www.acmicpc.net/problem/6549)
+- [x] [6549 히스토그램에서 가장 큰 직사각형](https://www.acmicpc.net/problem/6549)
 
 ## 25단계 - 이분 탐색
 
 - [ ] [1920 수 찾기](https://www.acmicpc.net/problem/1920)
-- [ ] [10816 숫자 카드 2](https://www.acmicpc.net/problem/10816)
+- [x] [10816 숫자 카드 2](https://www.acmicpc.net/problem/10816)
 - [ ] [1654 랜선 자르기](https://www.acmicpc.net/problem/1654)
 - [ ] [2805 나무 자르기](https://www.acmicpc.net/problem/2805)
 - [ ] [2110 공유기 설치](https://www.acmicpc.net/problem/2110)
@@ -405,10 +405,10 @@
 ## 38단계 - 스택, 큐, 덱 2
 
 - [ ] [9935 문자열 폭발](https://www.acmicpc.net/problem/9935)
-- [ ] [17298 오큰수](https://www.acmicpc.net/problem/17298)
+- [x] [17298 오큰수](https://www.acmicpc.net/problem/17298)
 - [ ] [17299 오등큰수](https://www.acmicpc.net/problem/17299)
 - [ ] [1725 히스토그램](https://www.acmicpc.net/problem/1725)
-- [ ] [3015 오아시스 재결합](https://www.acmicpc.net/problem/3015)
+- [x] [3015 오아시스 재결합](https://www.acmicpc.net/problem/3015)
 - [ ] [11003 최솟값 찾기](https://www.acmicpc.net/problem/11003)
 - [ ] [5977 Mowing the Lawn](https://www.acmicpc.net/problem/5977)
 - [ ] [15678 연세워터파크](https://www.acmicpc.net/problem/15678)

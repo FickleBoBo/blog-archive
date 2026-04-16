@@ -83,7 +83,7 @@
 
 - [ ] [15988 1, 2, 3 더하기 3](https://www.acmicpc.net/problem/15988)
 - [ ] [1149 RGB거리](https://www.acmicpc.net/problem/1149)
-- [ ] [1309 동물원](https://www.acmicpc.net/problem/1309)
+- [x] [1309 동물원](https://www.acmicpc.net/problem/1309)
 - [ ] [11057 오르막 수](https://www.acmicpc.net/problem/11057)
 - [ ] [2156 포도주 시식](https://www.acmicpc.net/problem/2156)
 - [x] [1932 정수 삼각형](https://www.acmicpc.net/problem/1932)
@@ -345,7 +345,7 @@
 - [x] [10828 스택](https://www.acmicpc.net/problem/10828)
 - [ ] [9093 단어 뒤집기](https://www.acmicpc.net/problem/9093)
 - [x] [9012 괄호](https://www.acmicpc.net/problem/9012)
-- [ ] [1874 스택 수열](https://www.acmicpc.net/problem/1874)
+- [x] [1874 스택 수열](https://www.acmicpc.net/problem/1874)
 - [x] [1406 에디터](https://www.acmicpc.net/problem/1406)
 - [x] [10845 큐](https://www.acmicpc.net/problem/10845)
 - [x] [1158 요세푸스 문제](https://www.acmicpc.net/problem/1158)
@@ -355,7 +355,7 @@
 
 - [ ] [17413 단어 뒤집기 2](https://www.acmicpc.net/problem/17413)
 - [x] [10799 쇠막대기](https://www.acmicpc.net/problem/10799)
-- [ ] [17298 오큰수](https://www.acmicpc.net/problem/17298)
+- [x] [17298 오큰수](https://www.acmicpc.net/problem/17298)
 - [ ] [17299 오등큰수](https://www.acmicpc.net/problem/17299)
 
 ## 알고리즘 기초 1/2 / 203 - 자료구조 1 (참고)
@@ -379,7 +379,7 @@
 - [ ] [1929 소수 구하기](https://www.acmicpc.net/problem/1929)
 - [ ] [6588 골드바흐의 추측](https://www.acmicpc.net/problem/6588)
 - [x] [10872 팩토리얼](https://www.acmicpc.net/problem/10872)
-- [ ] [1676 팩토리얼 0의 개수](https://www.acmicpc.net/problem/1676)
+- [x] [1676 팩토리얼 0의 개수](https://www.acmicpc.net/problem/1676)
 - [x] [2004 조합 0의 개수](https://www.acmicpc.net/problem/2004)
 
 ## 알고리즘 기초 1/2 / 301 - 수학 1 (연습)
@@ -419,7 +419,7 @@
 
 - [ ] [15988 1, 2, 3 더하기 3](https://www.acmicpc.net/problem/15988)
 - [ ] [1149 RGB거리](https://www.acmicpc.net/problem/1149)
-- [ ] [1309 동물원](https://www.acmicpc.net/problem/1309)
+- [x] [1309 동물원](https://www.acmicpc.net/problem/1309)
 - [ ] [11057 오르막 수](https://www.acmicpc.net/problem/11057)
 - [ ] [9465 스티커](https://www.acmicpc.net/problem/9465)
 - [ ] [2156 포도주 시식](https://www.acmicpc.net/problem/2156)
@@ -432,7 +432,7 @@
 
 ## 알고리즘 기초 1/2 / 402 - 다이나믹 프로그래밍 1 (도전)
 
-- [ ] [1309 동물원](https://www.acmicpc.net/problem/1309)
+- [x] [1309 동물원](https://www.acmicpc.net/problem/1309)
 - [ ] [2225 합분해](https://www.acmicpc.net/problem/2225)
 - [ ] [17404 RGB거리 2](https://www.acmicpc.net/problem/17404)
 
@@ -609,8 +609,8 @@
 
 ## 알고리즘 중급 1/3 / 800 - 분할 정복
 
-- [ ] [10815 숫자 카드](https://www.acmicpc.net/problem/10815)
-- [ ] [10816 숫자 카드 2](https://www.acmicpc.net/problem/10816)
+- [x] [10815 숫자 카드](https://www.acmicpc.net/problem/10815)
+- [x] [10816 숫자 카드 2](https://www.acmicpc.net/problem/10816)
 - [x] [11728 배열 합치기](https://www.acmicpc.net/problem/11728)
 
 ## 알고리즘 중급 1/3 / 801 - 분할 정복 (연습)
@@ -634,7 +634,7 @@
 - [x] [2751 수 정렬하기 2](https://www.acmicpc.net/problem/2751)
 - [x] [11650 좌표 정렬하기](https://www.acmicpc.net/problem/11650)
 - [x] [11651 좌표 정렬하기 2](https://www.acmicpc.net/problem/11651)
-- [ ] [10814 나이순 정렬](https://www.acmicpc.net/problem/10814)
+- [x] [10814 나이순 정렬](https://www.acmicpc.net/problem/10814)
 - [ ] [10825 국영수](https://www.acmicpc.net/problem/10825)
 - [x] [10989 수 정렬하기 3](https://www.acmicpc.net/problem/10989)
 - [ ] [11652 카드](https://www.acmicpc.net/problem/11652)
@@ -731,8 +731,8 @@
 ## 알고리즘 중급 2/3 / 900 - 자료구조 2
 
 - [ ] [9935 문자열 폭발](https://www.acmicpc.net/problem/9935)
-- [ ] [6549 히스토그램에서 가장 큰 직사각형](https://www.acmicpc.net/problem/6549)
-- [ ] [3015 오아시스 재결합](https://www.acmicpc.net/problem/3015)
+- [x] [6549 히스토그램에서 가장 큰 직사각형](https://www.acmicpc.net/problem/6549)
+- [x] [3015 오아시스 재결합](https://www.acmicpc.net/problem/3015)
 - [ ] [1717 집합의 표현](https://www.acmicpc.net/problem/1717)
 - [x] [2606 바이러스](https://www.acmicpc.net/problem/2606)
 - [ ] [11279 최대 힙](https://www.acmicpc.net/problem/11279)
@@ -1067,7 +1067,7 @@
 
 ## 알고리즘 고급으로 가는 연결고리 1/2 / 1601 - 세그먼트 트리와 펜윅 트리 (연습)
 
-- [ ] [6549 히스토그램에서 가장 큰 직사각형](https://www.acmicpc.net/problem/6549)
+- [x] [6549 히스토그램에서 가장 큰 직사각형](https://www.acmicpc.net/problem/6549)
 - [ ] [17408 수열과 쿼리 24](https://www.acmicpc.net/problem/17408)
 - [ ] [1517 버블 소트](https://www.acmicpc.net/problem/1517)
 - [ ] [3006 터보소트](https://www.acmicpc.net/problem/3006)

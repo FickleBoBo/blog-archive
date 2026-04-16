@@ -764,7 +764,7 @@
 
 ## 분수찾기
 
-- [ ] [1193 분수찾기](https://www.acmicpc.net/problem/1193)
+- [x] [1193 분수찾기](https://www.acmicpc.net/problem/1193)
 - [ ] [27437 분수찾기 2](https://www.acmicpc.net/problem/27437)
 
 ## 1로 만들기
