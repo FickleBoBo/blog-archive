@@ -3,7 +3,7 @@ title: "[BaekJoon] 11557번 - Yangjojang of The Year [Java][C++]"
 slug: baekjoon-11557
 date: 2026-01-06
 categories: [PS, BaekJoon]
-tags: [Unlinked]
+tags: [sorting]
 toc: true
 math: true
 ---
