@@ -85,7 +85,7 @@
 - [x] [2178 미로 탐색](https://www.acmicpc.net/problem/2178)
 - [x] [7576 토마토](https://www.acmicpc.net/problem/7576)
 - [x] [4179 불!](https://www.acmicpc.net/problem/4179)
-- [ ] [1697 숨바꼭질](https://www.acmicpc.net/problem/1697)
+- [x] [1697 숨바꼭질](https://www.acmicpc.net/problem/1697)
 - [x] [1012 유기농 배추](https://www.acmicpc.net/problem/1012)
 - [x] [10026 적록색약](https://www.acmicpc.net/problem/10026)
 - [x] [7569 토마토](https://www.acmicpc.net/problem/7569)
@@ -102,7 +102,7 @@
 - [ ] [2146 다리 만들기](https://www.acmicpc.net/problem/2146)
 - [ ] [13549 숨바꼭질 3](https://www.acmicpc.net/problem/13549)
 - [x] [1600 말이 되고픈 원숭이](https://www.acmicpc.net/problem/1600)
-- [ ] [13913 숨바꼭질 4](https://www.acmicpc.net/problem/13913)
+- [x] [13913 숨바꼭질 4](https://www.acmicpc.net/problem/13913)
 - [ ] [14442 벽 부수고 이동하기 2](https://www.acmicpc.net/problem/14442)
 - [ ] [16933 벽 부수고 이동하기 3](https://www.acmicpc.net/problem/16933)
 - [ ] [16920 확장 게임](https://www.acmicpc.net/problem/16920)
@@ -110,7 +110,7 @@
 - [ ] [17071 숨바꼭질 5](https://www.acmicpc.net/problem/17071)
 - [x] [9328 열쇠](https://www.acmicpc.net/problem/9328)
 - [ ] [3197 백조의 호수](https://www.acmicpc.net/problem/3197)
-- [ ] [20304 비밀번호 제작](https://www.acmicpc.net/problem/20304)
+- [x] [20304 비밀번호 제작](https://www.acmicpc.net/problem/20304)
 
 ## 0x0B강 - 재귀
 
@@ -261,7 +261,7 @@
 - [ ] [2156 포도주 시식](https://www.acmicpc.net/problem/2156)
 - [ ] [15988 1, 2, 3 더하기 3](https://www.acmicpc.net/problem/15988)
 - [ ] [2302 극장 좌석](https://www.acmicpc.net/problem/2302)
-- [ ] [11052 카드 구매하기](https://www.acmicpc.net/problem/11052)
+- [x] [11052 카드 구매하기](https://www.acmicpc.net/problem/11052)
 - [ ] [9465 스티커](https://www.acmicpc.net/problem/9465)
 - [ ] [11057 오르막 수](https://www.acmicpc.net/problem/11057)
 - [ ] [2293 동전 1](https://www.acmicpc.net/problem/2293)

@@ -67,7 +67,7 @@
 - [x] [11726 2×n 타일링](https://www.acmicpc.net/problem/11726)
 - [x] [11727 2×n 타일링 2](https://www.acmicpc.net/problem/11727)
 - [ ] [9095 1, 2, 3 더하기](https://www.acmicpc.net/problem/9095)
-- [ ] [11052 카드 구매하기](https://www.acmicpc.net/problem/11052)
+- [x] [11052 카드 구매하기](https://www.acmicpc.net/problem/11052)
 - [ ] [16194 카드 구매하기 2](https://www.acmicpc.net/problem/16194)
 - [ ] [15990 1, 2, 3 더하기 5](https://www.acmicpc.net/problem/15990)
 - [ ] [10844 쉬운 계단 수](https://www.acmicpc.net/problem/10844)
@@ -108,8 +108,8 @@
 
 ## 코딩 테스트 준비 - 기초 / BFS
 
-- [ ] [1697 숨바꼭질](https://www.acmicpc.net/problem/1697)
-- [ ] [13913 숨바꼭질 4](https://www.acmicpc.net/problem/13913)
+- [x] [1697 숨바꼭질](https://www.acmicpc.net/problem/1697)
+- [x] [13913 숨바꼭질 4](https://www.acmicpc.net/problem/13913)
 - [ ] [14226 이모티콘](https://www.acmicpc.net/problem/14226)
 - [ ] [13549 숨바꼭질 3](https://www.acmicpc.net/problem/13549)
 - [ ] [1261 알고스팟](https://www.acmicpc.net/problem/1261)
@@ -301,7 +301,7 @@
 - [ ] [1175 배달](https://www.acmicpc.net/problem/1175)
 - [ ] [16959 체스판 여행 1](https://www.acmicpc.net/problem/16959)
 - [ ] [16952 체스판 여행 2](https://www.acmicpc.net/problem/16952)
-- [ ] [12851 숨바꼭질 2](https://www.acmicpc.net/problem/12851)
+- [x] [12851 숨바꼭질 2](https://www.acmicpc.net/problem/12851)
 - [x] [9328 열쇠](https://www.acmicpc.net/problem/9328)
 - [ ] [16920 확장 게임](https://www.acmicpc.net/problem/16920)
 - [ ] [15653 구슬 탈출 4](https://www.acmicpc.net/problem/15653)
@@ -404,7 +404,7 @@
 - [x] [11726 2×n 타일링](https://www.acmicpc.net/problem/11726)
 - [x] [11727 2×n 타일링 2](https://www.acmicpc.net/problem/11727)
 - [ ] [9095 1, 2, 3 더하기](https://www.acmicpc.net/problem/9095)
-- [ ] [11052 카드 구매하기](https://www.acmicpc.net/problem/11052)
+- [x] [11052 카드 구매하기](https://www.acmicpc.net/problem/11052)
 - [ ] [16194 카드 구매하기 2](https://www.acmicpc.net/problem/16194)
 - [ ] [15990 1, 2, 3 더하기 5](https://www.acmicpc.net/problem/15990)
 - [ ] [10844 쉬운 계단 수](https://www.acmicpc.net/problem/10844)
@@ -513,8 +513,8 @@
 
 ## 알고리즘 기초 2/2 / 610 - BFS
 
-- [ ] [1697 숨바꼭질](https://www.acmicpc.net/problem/1697)
-- [ ] [13913 숨바꼭질 4](https://www.acmicpc.net/problem/13913)
+- [x] [1697 숨바꼭질](https://www.acmicpc.net/problem/1697)
+- [x] [13913 숨바꼭질 4](https://www.acmicpc.net/problem/13913)
 - [ ] [14226 이모티콘](https://www.acmicpc.net/problem/14226)
 - [ ] [13549 숨바꼭질 3](https://www.acmicpc.net/problem/13549)
 - [ ] [1261 알고스팟](https://www.acmicpc.net/problem/1261)
@@ -906,7 +906,7 @@
 - [ ] [1175 배달](https://www.acmicpc.net/problem/1175)
 - [ ] [16959 체스판 여행 1](https://www.acmicpc.net/problem/16959)
 - [ ] [16952 체스판 여행 2](https://www.acmicpc.net/problem/16952)
-- [ ] [12851 숨바꼭질 2](https://www.acmicpc.net/problem/12851)
+- [x] [12851 숨바꼭질 2](https://www.acmicpc.net/problem/12851)
 - [ ] [3197 백조의 호수](https://www.acmicpc.net/problem/3197)
 - [x] [9328 열쇠](https://www.acmicpc.net/problem/9328)
 - [ ] [16920 확장 게임](https://www.acmicpc.net/problem/16920)
