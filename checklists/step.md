@@ -236,7 +236,7 @@
 - [ ] [1463 1로 만들기](https://www.acmicpc.net/problem/1463)
 - [ ] [10844 쉬운 계단 수](https://www.acmicpc.net/problem/10844)
 - [ ] [2156 포도주 시식](https://www.acmicpc.net/problem/2156)
-- [ ] [11053 가장 긴 증가하는 부분 수열](https://www.acmicpc.net/problem/11053)
+- [x] [11053 가장 긴 증가하는 부분 수열](https://www.acmicpc.net/problem/11053)
 - [x] [11054 가장 긴 바이토닉 부분 수열](https://www.acmicpc.net/problem/11054)
 - [x] [2565 전깃줄](https://www.acmicpc.net/problem/2565)
 - [x] [9251 LCS](https://www.acmicpc.net/problem/9251)
@@ -279,7 +279,7 @@
 - [ ] [2805 나무 자르기](https://www.acmicpc.net/problem/2805)
 - [ ] [2110 공유기 설치](https://www.acmicpc.net/problem/2110)
 - [ ] [1300 K번째 수](https://www.acmicpc.net/problem/1300)
-- [ ] [12015 가장 긴 증가하는 부분 수열 2](https://www.acmicpc.net/problem/12015)
+- [x] [12015 가장 긴 증가하는 부분 수열 2](https://www.acmicpc.net/problem/12015)
 
 ## 26단계 - 우선순위 큐
 
@@ -346,8 +346,8 @@
 ## 32단계 - 동적 계획법과 최단거리 역추적
 
 - [ ] [12852 1로 만들기 2](https://www.acmicpc.net/problem/12852)
-- [ ] [14002 가장 긴 증가하는 부분 수열 4](https://www.acmicpc.net/problem/14002)
-- [ ] [14003 가장 긴 증가하는 부분 수열 5](https://www.acmicpc.net/problem/14003)
+- [x] [14002 가장 긴 증가하는 부분 수열 4](https://www.acmicpc.net/problem/14002)
+- [x] [14003 가장 긴 증가하는 부분 수열 5](https://www.acmicpc.net/problem/14003)
 - [x] [9252 LCS 2](https://www.acmicpc.net/problem/9252)
 - [ ] [2618 경찰차](https://www.acmicpc.net/problem/2618)
 - [x] [13913 숨바꼭질 4](https://www.acmicpc.net/problem/13913)

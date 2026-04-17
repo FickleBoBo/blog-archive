@@ -132,11 +132,11 @@
 
 ## LIS
 
-- [ ] [11053 가장 긴 증가하는 부분 수열](https://www.acmicpc.net/problem/11053)
-- [ ] [12015 가장 긴 증가하는 부분 수열 2](https://www.acmicpc.net/problem/12015)
-- [ ] [12738 가장 긴 증가하는 부분 수열 3](https://www.acmicpc.net/problem/12738)
-- [ ] [14002 가장 긴 증가하는 부분 수열 4](https://www.acmicpc.net/problem/14002)
-- [ ] [14003 가장 긴 증가하는 부분 수열 5](https://www.acmicpc.net/problem/14003)
+- [x] [11053 가장 긴 증가하는 부분 수열](https://www.acmicpc.net/problem/11053)
+- [x] [12015 가장 긴 증가하는 부분 수열 2](https://www.acmicpc.net/problem/12015)
+- [x] [12738 가장 긴 증가하는 부분 수열 3](https://www.acmicpc.net/problem/12738)
+- [x] [14002 가장 긴 증가하는 부분 수열 4](https://www.acmicpc.net/problem/14002)
+- [x] [14003 가장 긴 증가하는 부분 수열 5](https://www.acmicpc.net/problem/14003)
 - [ ] [17411 가장 긴 증가하는 부분 수열 6](https://www.acmicpc.net/problem/17411)
 - [ ] [18837 가장 긴 증가하는 부분 수열 K](https://www.acmicpc.net/problem/18837)
 - [ ] [18838 가장 긴 증가하는 부분 수열 k](https://www.acmicpc.net/problem/18838)
@@ -144,7 +144,7 @@
 - [ ] [11055 가장 큰 증가하는 부분 수열](https://www.acmicpc.net/problem/11055)
 - [ ] [17216 가장 큰 감소 부분 수열](https://www.acmicpc.net/problem/17216)
 - [x] [11054 가장 긴 바이토닉 부분 수열](https://www.acmicpc.net/problem/11054)
-- [ ] [11722 가장 긴 감소하는 부분 수열](https://www.acmicpc.net/problem/11722)
+- [x] [11722 가장 긴 감소하는 부분 수열](https://www.acmicpc.net/problem/11722)
 - [ ] [16161 가장 긴 증가하는 팰린드롬 부분수열](https://www.acmicpc.net/problem/16161)
 
 ## LCS
