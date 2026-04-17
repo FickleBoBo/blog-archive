@@ -205,7 +205,7 @@
 ## 19단계 - 재귀
 
 - [x] [27433 팩토리얼 2](https://www.acmicpc.net/problem/27433)
-- [ ] [10870 피보나치 수 5](https://www.acmicpc.net/problem/10870)
+- [x] [10870 피보나치 수 5](https://www.acmicpc.net/problem/10870)
 - [ ] [25501 재귀의 귀재](https://www.acmicpc.net/problem/25501)
 - [ ] [24060 알고리즘 수업 - 병합 정렬 1](https://www.acmicpc.net/problem/24060)
 - [ ] [4779 칸토어 집합](https://www.acmicpc.net/problem/4779)
@@ -237,8 +237,8 @@
 - [ ] [10844 쉬운 계단 수](https://www.acmicpc.net/problem/10844)
 - [ ] [2156 포도주 시식](https://www.acmicpc.net/problem/2156)
 - [ ] [11053 가장 긴 증가하는 부분 수열](https://www.acmicpc.net/problem/11053)
-- [ ] [11054 가장 긴 바이토닉 부분 수열](https://www.acmicpc.net/problem/11054)
-- [ ] [2565 전깃줄](https://www.acmicpc.net/problem/2565)
+- [x] [11054 가장 긴 바이토닉 부분 수열](https://www.acmicpc.net/problem/11054)
+- [x] [2565 전깃줄](https://www.acmicpc.net/problem/2565)
 - [x] [9251 LCS](https://www.acmicpc.net/problem/9251)
 - [ ] [12865 평범한 배낭](https://www.acmicpc.net/problem/12865)
 
@@ -266,9 +266,9 @@
 - [x] [1780 종이의 개수](https://www.acmicpc.net/problem/1780)
 - [ ] [1629 곱셈](https://www.acmicpc.net/problem/1629)
 - [ ] [11401 이항 계수 3](https://www.acmicpc.net/problem/11401)
-- [ ] [2740 행렬 곱셈](https://www.acmicpc.net/problem/2740)
+- [x] [2740 행렬 곱셈](https://www.acmicpc.net/problem/2740)
 - [ ] [10830 행렬 제곱](https://www.acmicpc.net/problem/10830)
-- [ ] [11444 피보나치 수 6](https://www.acmicpc.net/problem/11444)
+- [x] [11444 피보나치 수 6](https://www.acmicpc.net/problem/11444)
 - [x] [6549 히스토그램에서 가장 큰 직사각형](https://www.acmicpc.net/problem/6549)
 
 ## 25단계 - 이분 탐색

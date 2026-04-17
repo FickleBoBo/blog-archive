@@ -89,7 +89,7 @@
 - [x] [1932 정수 삼각형](https://www.acmicpc.net/problem/1932)
 - [ ] [11055 가장 큰 증가하는 부분 수열](https://www.acmicpc.net/problem/11055)
 - [ ] [11722 가장 긴 감소하는 부분 수열](https://www.acmicpc.net/problem/11722)
-- [ ] [11054 가장 긴 바이토닉 부분 수열](https://www.acmicpc.net/problem/11054)
+- [x] [11054 가장 긴 바이토닉 부분 수열](https://www.acmicpc.net/problem/11054)
 - [ ] [13398 연속합 2](https://www.acmicpc.net/problem/13398)
 - [ ] [2133 타일 채우기](https://www.acmicpc.net/problem/2133)
 
@@ -426,7 +426,7 @@
 - [x] [1932 정수 삼각형](https://www.acmicpc.net/problem/1932)
 - [ ] [11055 가장 큰 증가하는 부분 수열](https://www.acmicpc.net/problem/11055)
 - [ ] [11722 가장 긴 감소하는 부분 수열](https://www.acmicpc.net/problem/11722)
-- [ ] [11054 가장 긴 바이토닉 부분 수열](https://www.acmicpc.net/problem/11054)
+- [x] [11054 가장 긴 바이토닉 부분 수열](https://www.acmicpc.net/problem/11054)
 - [ ] [13398 연속합 2](https://www.acmicpc.net/problem/13398)
 - [ ] [2133 타일 채우기](https://www.acmicpc.net/problem/2133)
 
@@ -816,10 +816,10 @@
 
 - [ ] [1629 곱셈](https://www.acmicpc.net/problem/1629)
 - [ ] [10830 행렬 제곱](https://www.acmicpc.net/problem/10830)
-- [ ] [2747 피보나치 수](https://www.acmicpc.net/problem/2747)
-- [ ] [2748 피보나치 수 2](https://www.acmicpc.net/problem/2748)
-- [ ] [2749 피보나치 수 3](https://www.acmicpc.net/problem/2749)
-- [ ] [11444 피보나치 수 6](https://www.acmicpc.net/problem/11444)
+- [x] [2747 피보나치 수](https://www.acmicpc.net/problem/2747)
+- [x] [2748 피보나치 수 2](https://www.acmicpc.net/problem/2748)
+- [x] [2749 피보나치 수 3](https://www.acmicpc.net/problem/2749)
+- [x] [11444 피보나치 수 6](https://www.acmicpc.net/problem/11444)
 - [ ] [11050 이항 계수 1](https://www.acmicpc.net/problem/11050)
 - [ ] [11051 이항 계수 2](https://www.acmicpc.net/problem/11051)
 - [ ] [17436 소수의 배수](https://www.acmicpc.net/problem/17436)

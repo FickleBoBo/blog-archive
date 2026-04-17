@@ -143,7 +143,7 @@
 - [ ] [18892 가장 긴 증가하는 부분 수열 ks](https://www.acmicpc.net/problem/18892)
 - [ ] [11055 가장 큰 증가하는 부분 수열](https://www.acmicpc.net/problem/11055)
 - [ ] [17216 가장 큰 감소 부분 수열](https://www.acmicpc.net/problem/17216)
-- [ ] [11054 가장 긴 바이토닉 부분 수열](https://www.acmicpc.net/problem/11054)
+- [x] [11054 가장 긴 바이토닉 부분 수열](https://www.acmicpc.net/problem/11054)
 - [ ] [11722 가장 긴 감소하는 부분 수열](https://www.acmicpc.net/problem/11722)
 - [ ] [16161 가장 긴 증가하는 팰린드롬 부분수열](https://www.acmicpc.net/problem/16161)
 
@@ -152,7 +152,7 @@
 - [x] [9251 LCS](https://www.acmicpc.net/problem/9251)
 - [x] [9252 LCS 2](https://www.acmicpc.net/problem/9252)
 - [x] [1958 LCS 3](https://www.acmicpc.net/problem/1958)
-- [ ] [13711 LCS 4](https://www.acmicpc.net/problem/13711)
+- [x] [13711 LCS 4](https://www.acmicpc.net/problem/13711)
 - [ ] [18438 LCS 5](https://www.acmicpc.net/problem/18438)
 - [ ] [18439 LCS 6](https://www.acmicpc.net/problem/18439)
 - [ ] [18440 LCS 7](https://www.acmicpc.net/problem/18440)
@@ -293,13 +293,13 @@
 
 ## 피보나치 수
 
-- [ ] [2747 피보나치 수](https://www.acmicpc.net/problem/2747)
-- [ ] [2748 피보나치 수 2](https://www.acmicpc.net/problem/2748)
-- [ ] [2749 피보나치 수 3](https://www.acmicpc.net/problem/2749)
-- [ ] [10826 피보나치 수 4](https://www.acmicpc.net/problem/10826)
-- [ ] [10870 피보나치 수 5](https://www.acmicpc.net/problem/10870)
-- [ ] [11444 피보나치 수 6](https://www.acmicpc.net/problem/11444)
-- [ ] [15624 피보나치 수 7](https://www.acmicpc.net/problem/15624)
+- [x] [2747 피보나치 수](https://www.acmicpc.net/problem/2747)
+- [x] [2748 피보나치 수 2](https://www.acmicpc.net/problem/2748)
+- [x] [2749 피보나치 수 3](https://www.acmicpc.net/problem/2749)
+- [x] [10826 피보나치 수 4](https://www.acmicpc.net/problem/10826)
+- [x] [10870 피보나치 수 5](https://www.acmicpc.net/problem/10870)
+- [x] [11444 피보나치 수 6](https://www.acmicpc.net/problem/11444)
+- [x] [15624 피보나치 수 7](https://www.acmicpc.net/problem/15624)
 
 ## 이항 계수
 
@@ -641,8 +641,8 @@
 
 ## 전깃줄
 
-- [ ] [2565 전깃줄](https://www.acmicpc.net/problem/2565)
-- [ ] [2568 전깃줄 - 2](https://www.acmicpc.net/problem/2568)
+- [x] [2565 전깃줄](https://www.acmicpc.net/problem/2565)
+- [x] [2568 전깃줄 - 2](https://www.acmicpc.net/problem/2568)
 
 ## 무한 수열
 

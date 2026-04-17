@@ -255,7 +255,7 @@
 - [ ] [14501 퇴사](https://www.acmicpc.net/problem/14501)
 - [ ] [15486 퇴사 2](https://www.acmicpc.net/problem/15486)
 - [ ] [10844 쉬운 계단 수](https://www.acmicpc.net/problem/10844)
-- [ ] [2748 피보나치 수 2](https://www.acmicpc.net/problem/2748)
+- [x] [2748 피보나치 수 2](https://www.acmicpc.net/problem/2748)
 - [ ] [2240 자두나무](https://www.acmicpc.net/problem/2240)
 - [ ] [14002 가장 긴 증가하는 부분 수열 4](https://www.acmicpc.net/problem/14002)
 - [ ] [2156 포도주 시식](https://www.acmicpc.net/problem/2156)
