@@ -312,8 +312,8 @@
 
 ## 수들의 합
 
-- [ ] [1789 수들의 합](https://www.acmicpc.net/problem/1789)
-- [ ] [2003 수들의 합 2](https://www.acmicpc.net/problem/2003)
+- [x] [1789 수들의 합](https://www.acmicpc.net/problem/1789)
+- [x] [2003 수들의 합 2](https://www.acmicpc.net/problem/2003)
 - [ ] [2007 수들의 합 3](https://www.acmicpc.net/problem/2007)
 - [ ] [2015 수들의 합 4](https://www.acmicpc.net/problem/2015)
 - [ ] [2018 수들의 합 5](https://www.acmicpc.net/problem/2018)
@@ -759,7 +759,7 @@
 
 ## 벌집
 
-- [ ] [2292 벌집](https://www.acmicpc.net/problem/2292)
+- [x] [2292 벌집](https://www.acmicpc.net/problem/2292)
 - [ ] [27436 벌집 2](https://www.acmicpc.net/problem/27436)
 
 ## 분수찾기

@@ -8,8 +8,8 @@
 - [ ] [17427 약수의 합 2](https://www.acmicpc.net/problem/17427)
 - [ ] [17425 약수의 합](https://www.acmicpc.net/problem/17425)
 - [x] [2609 최대공약수와 최소공배수](https://www.acmicpc.net/problem/2609)
-- [ ] [1978 소수 찾기](https://www.acmicpc.net/problem/1978)
-- [ ] [1929 소수 구하기](https://www.acmicpc.net/problem/1929)
+- [x] [1978 소수 찾기](https://www.acmicpc.net/problem/1978)
+- [x] [1929 소수 구하기](https://www.acmicpc.net/problem/1929)
 - [ ] [6588 골드바흐의 추측](https://www.acmicpc.net/problem/6588)
 
 ## 코딩 테스트 준비 - 기초 / 브루트 포스
@@ -161,9 +161,9 @@
 
 ## 코딩 테스트 준비 - 연습 / 브루트 포스 - 기타
 
-- [ ] [2003 수들의 합 2](https://www.acmicpc.net/problem/2003)
+- [x] [2003 수들의 합 2](https://www.acmicpc.net/problem/2003)
 - [ ] [1806 부분합](https://www.acmicpc.net/problem/1806)
-- [ ] [1644 소수의 연속합](https://www.acmicpc.net/problem/1644)
+- [x] [1644 소수의 연속합](https://www.acmicpc.net/problem/1644)
 - [ ] [1208 부분수열의 합 2](https://www.acmicpc.net/problem/1208)
 - [ ] [2143 두 배열의 합](https://www.acmicpc.net/problem/2143)
 
@@ -188,7 +188,7 @@
 - [ ] [16954 움직이는 미로 탈출](https://www.acmicpc.net/problem/16954)
 - [ ] [16236 아기 상어](https://www.acmicpc.net/problem/16236)
 - [ ] [6087 레이저 통신](https://www.acmicpc.net/problem/6087)
-- [ ] [1963 소수 경로](https://www.acmicpc.net/problem/1963)
+- [x] [1963 소수 경로](https://www.acmicpc.net/problem/1963)
 - [x] [10026 적록색약](https://www.acmicpc.net/problem/10026)
 - [ ] [14395 4연산](https://www.acmicpc.net/problem/14395)
 - [x] [5014 스타트링크](https://www.acmicpc.net/problem/5014)
@@ -375,8 +375,8 @@
 - [x] [10430 나머지](https://www.acmicpc.net/problem/10430)
 - [x] [2609 최대공약수와 최소공배수](https://www.acmicpc.net/problem/2609)
 - [x] [1934 최소공배수](https://www.acmicpc.net/problem/1934)
-- [ ] [1978 소수 찾기](https://www.acmicpc.net/problem/1978)
-- [ ] [1929 소수 구하기](https://www.acmicpc.net/problem/1929)
+- [x] [1978 소수 찾기](https://www.acmicpc.net/problem/1978)
+- [x] [1929 소수 구하기](https://www.acmicpc.net/problem/1929)
 - [ ] [6588 골드바흐의 추측](https://www.acmicpc.net/problem/6588)
 - [x] [10872 팩토리얼](https://www.acmicpc.net/problem/10872)
 - [x] [1676 팩토리얼 0의 개수](https://www.acmicpc.net/problem/1676)
@@ -396,7 +396,7 @@
 - [x] [11005 진법 변환 2](https://www.acmicpc.net/problem/11005)
 - [x] [2745 진법 변환](https://www.acmicpc.net/problem/2745)
 - [ ] [11576 Base Conversion](https://www.acmicpc.net/problem/11576)
-- [ ] [11653 소인수분해](https://www.acmicpc.net/problem/11653)
+- [x] [11653 소인수분해](https://www.acmicpc.net/problem/11653)
 
 ## 알고리즘 기초 1/2 / 400 - 다이나믹 프로그래밍 1
 
@@ -575,7 +575,7 @@
 - [ ] [3055 탈출](https://www.acmicpc.net/problem/3055)
 - [ ] [16236 아기 상어](https://www.acmicpc.net/problem/16236)
 - [ ] [6087 레이저 통신](https://www.acmicpc.net/problem/6087)
-- [ ] [1963 소수 경로](https://www.acmicpc.net/problem/1963)
+- [x] [1963 소수 경로](https://www.acmicpc.net/problem/1963)
 - [x] [10026 적록색약](https://www.acmicpc.net/problem/10026)
 - [ ] [14395 4연산](https://www.acmicpc.net/problem/14395)
 
@@ -643,7 +643,7 @@
 ## 알고리즘 중급 1/3 / 820 - 이분 탐색
 
 - [ ] [1790 수 이어 쓰기 2](https://www.acmicpc.net/problem/1790)
-- [ ] [1654 랜선 자르기](https://www.acmicpc.net/problem/1654)
+- [x] [1654 랜선 자르기](https://www.acmicpc.net/problem/1654)
 - [ ] [2805 나무 자르기](https://www.acmicpc.net/problem/2805)
 - [ ] [2110 공유기 설치](https://www.acmicpc.net/problem/2110)
 - [ ] [1939 중량제한](https://www.acmicpc.net/problem/1939)
@@ -705,9 +705,9 @@
 
 ## 알고리즘 중급 2/3 / 560 - 브루트 포스 - 기타
 
-- [ ] [2003 수들의 합 2](https://www.acmicpc.net/problem/2003)
+- [x] [2003 수들의 합 2](https://www.acmicpc.net/problem/2003)
 - [ ] [1806 부분합](https://www.acmicpc.net/problem/1806)
-- [ ] [1644 소수의 연속합](https://www.acmicpc.net/problem/1644)
+- [x] [1644 소수의 연속합](https://www.acmicpc.net/problem/1644)
 - [ ] [1208 부분수열의 합 2](https://www.acmicpc.net/problem/1208)
 - [ ] [2143 두 배열의 합](https://www.acmicpc.net/problem/2143)
 - [ ] [7453 합이 0인 네 정수](https://www.acmicpc.net/problem/7453)
@@ -814,7 +814,7 @@
 
 ## 알고리즘 중급 2/3 / 1100 - 수학 1
 
-- [ ] [1629 곱셈](https://www.acmicpc.net/problem/1629)
+- [x] [1629 곱셈](https://www.acmicpc.net/problem/1629)
 - [ ] [10830 행렬 제곱](https://www.acmicpc.net/problem/10830)
 - [x] [2747 피보나치 수](https://www.acmicpc.net/problem/2747)
 - [x] [2748 피보나치 수 2](https://www.acmicpc.net/problem/2748)

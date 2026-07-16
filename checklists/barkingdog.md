@@ -114,7 +114,7 @@
 
 ## 0x0B강 - 재귀
 
-- [ ] [1629 곱셈](https://www.acmicpc.net/problem/1629)
+- [x] [1629 곱셈](https://www.acmicpc.net/problem/1629)
 - [x] [11729 하노이 탑 이동 순서](https://www.acmicpc.net/problem/11729)
 - [x] [1074 Z](https://www.acmicpc.net/problem/1074)
 - [x] [17478 재귀함수가 뭔가요?](https://www.acmicpc.net/problem/17478)
@@ -291,20 +291,20 @@
 
 ## 0x12강 - 수학
 
-- [ ] [1978 소수 찾기](https://www.acmicpc.net/problem/1978)
-- [ ] [1929 소수 구하기](https://www.acmicpc.net/problem/1929)
-- [ ] [11653 소인수분해](https://www.acmicpc.net/problem/11653)
+- [x] [1978 소수 찾기](https://www.acmicpc.net/problem/1978)
+- [x] [1929 소수 구하기](https://www.acmicpc.net/problem/1929)
+- [x] [11653 소인수분해](https://www.acmicpc.net/problem/11653)
 - [ ] [6064 카잉 달력](https://www.acmicpc.net/problem/6064)
 - [ ] [11050 이항 계수 1](https://www.acmicpc.net/problem/11050)
 - [ ] [11051 이항 계수 2](https://www.acmicpc.net/problem/11051)
 - [x] [15894 수학은 체육과목 입니다](https://www.acmicpc.net/problem/15894)
 - [ ] [4796 캠핑](https://www.acmicpc.net/problem/4796)
-- [ ] [2960 에라토스테네스의 체](https://www.acmicpc.net/problem/2960)
+- [x] [2960 에라토스테네스의 체](https://www.acmicpc.net/problem/2960)
 - [x] [1193 분수찾기](https://www.acmicpc.net/problem/1193)
 - [ ] [4948 베르트랑 공준](https://www.acmicpc.net/problem/4948)
 - [x] [1676 팩토리얼 0의 개수](https://www.acmicpc.net/problem/1676)
 - [x] [9613 GCD 합](https://www.acmicpc.net/problem/9613)
-- [ ] [2292 벌집](https://www.acmicpc.net/problem/2292)
+- [x] [2292 벌집](https://www.acmicpc.net/problem/2292)
 - [x] [2869 달팽이는 올라가고 싶다](https://www.acmicpc.net/problem/2869)
 - [x] [10610 30](https://www.acmicpc.net/problem/10610)
 - [ ] [6359 만취한 상범](https://www.acmicpc.net/problem/6359)
@@ -312,7 +312,7 @@
 - [ ] [1456 거의 소수](https://www.acmicpc.net/problem/1456)
 - [x] [2839 설탕 배달](https://www.acmicpc.net/problem/2839)
 - [ ] [17103 골드바흐 파티션](https://www.acmicpc.net/problem/17103)
-- [ ] [2312 수 복원하기](https://www.acmicpc.net/problem/2312)
+- [x] [2312 수 복원하기](https://www.acmicpc.net/problem/2312)
 - [ ] [9020 골드바흐의 추측](https://www.acmicpc.net/problem/9020)
 - [x] [5347 LCM](https://www.acmicpc.net/problem/5347)
 - [ ] [1476 날짜 계산](https://www.acmicpc.net/problem/1476)
@@ -325,7 +325,7 @@
 - [ ] [3036 링](https://www.acmicpc.net/problem/3036)
 - [x] [1735 분수 합](https://www.acmicpc.net/problem/1735)
 - [ ] [3343 장미](https://www.acmicpc.net/problem/3343)
-- [ ] [1963 소수 경로](https://www.acmicpc.net/problem/1963)
+- [x] [1963 소수 경로](https://www.acmicpc.net/problem/1963)
 - [ ] [1747 소수&팰린드롬](https://www.acmicpc.net/problem/1747)
 - [ ] [1256 사전](https://www.acmicpc.net/problem/1256)
 - [ ] [2089 -2진수](https://www.acmicpc.net/problem/2089)
@@ -337,7 +337,7 @@
 - [x] [10816 숫자 카드 2](https://www.acmicpc.net/problem/10816)
 - [x] [18870 좌표 압축](https://www.acmicpc.net/problem/18870)
 - [x] [2295 세 수의 합](https://www.acmicpc.net/problem/2295)
-- [ ] [1654 랜선 자르기](https://www.acmicpc.net/problem/1654)
+- [x] [1654 랜선 자르기](https://www.acmicpc.net/problem/1654)
 - [x] [10815 숫자 카드](https://www.acmicpc.net/problem/10815)
 - [ ] [1822 차집합](https://www.acmicpc.net/problem/1822)
 - [ ] [16401 과자 나눠주기](https://www.acmicpc.net/problem/16401)
@@ -357,10 +357,10 @@
 
 ## 0x14강 - 투 포인터
 
-- [ ] [2230 수 고르기](https://www.acmicpc.net/problem/2230)
+- [x] [2230 수 고르기](https://www.acmicpc.net/problem/2230)
 - [ ] [1806 부분합](https://www.acmicpc.net/problem/1806)
-- [ ] [1644 소수의 연속합](https://www.acmicpc.net/problem/1644)
-- [ ] [2003 수들의 합 2](https://www.acmicpc.net/problem/2003)
+- [x] [1644 소수의 연속합](https://www.acmicpc.net/problem/1644)
+- [x] [2003 수들의 합 2](https://www.acmicpc.net/problem/2003)
 - [ ] [13144 List of Unique Numbers](https://www.acmicpc.net/problem/13144)
 - [ ] [22862 가장 긴 짝수 연속한 부분 수열 (large)](https://www.acmicpc.net/problem/22862)
 - [ ] [2531 회전 초밥](https://www.acmicpc.net/problem/2531)
@@ -518,7 +518,7 @@
 ## 부록 A - 문자열 기초
 
 - [ ] [1543 문서 검색](https://www.acmicpc.net/problem/1543)
-- [ ] [2941 크로아티아 알파벳](https://www.acmicpc.net/problem/2941)
+- [x] [2941 크로아티아 알파벳](https://www.acmicpc.net/problem/2941)
 - [ ] [9996 한국이 그리울 땐 서버에 접속하지](https://www.acmicpc.net/problem/9996)
 - [ ] [3613 Java vs C++](https://www.acmicpc.net/problem/3613)
 - [ ] [2870 수학숙제](https://www.acmicpc.net/problem/2870)

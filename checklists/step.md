@@ -74,10 +74,10 @@
 - [x] [3003 킹, 퀸, 룩, 비숍, 나이트, 폰](https://www.acmicpc.net/problem/3003)
 - [x] [2444 별 찍기 - 7](https://www.acmicpc.net/problem/2444)
 - [x] [10988 팰린드롬인지 확인하기](https://www.acmicpc.net/problem/10988)
-- [ ] [1157 단어 공부](https://www.acmicpc.net/problem/1157)
-- [ ] [2941 크로아티아 알파벳](https://www.acmicpc.net/problem/2941)
+- [x] [1157 단어 공부](https://www.acmicpc.net/problem/1157)
+- [x] [2941 크로아티아 알파벳](https://www.acmicpc.net/problem/2941)
 - [x] [1316 그룹 단어 체커](https://www.acmicpc.net/problem/1316)
-- [ ] [25206 너의 평점은](https://www.acmicpc.net/problem/25206)
+- [x] [25206 너의 평점은](https://www.acmicpc.net/problem/25206)
 
 ## 7단계 - 2차원 배열
 
@@ -92,24 +92,24 @@
 - [x] [11005 진법 변환 2](https://www.acmicpc.net/problem/11005)
 - [x] [2720 세탁소 사장 동혁](https://www.acmicpc.net/problem/2720)
 - [x] [2903 중앙 이동 알고리즘](https://www.acmicpc.net/problem/2903)
-- [ ] [2292 벌집](https://www.acmicpc.net/problem/2292)
+- [x] [2292 벌집](https://www.acmicpc.net/problem/2292)
 - [x] [1193 분수찾기](https://www.acmicpc.net/problem/1193)
 - [x] [2869 달팽이는 올라가고 싶다](https://www.acmicpc.net/problem/2869)
 
 ## 9단계 - 약수, 배수와 소수 1
 
 - [x] [5086 배수와 약수](https://www.acmicpc.net/problem/5086)
-- [ ] [2501 약수 구하기](https://www.acmicpc.net/problem/2501)
+- [x] [2501 약수 구하기](https://www.acmicpc.net/problem/2501)
 - [x] [9506 약수들의 합](https://www.acmicpc.net/problem/9506)
-- [ ] [1978 소수 찾기](https://www.acmicpc.net/problem/1978)
-- [ ] [2581 소수](https://www.acmicpc.net/problem/2581)
-- [ ] [11653 소인수분해](https://www.acmicpc.net/problem/11653)
+- [x] [1978 소수 찾기](https://www.acmicpc.net/problem/1978)
+- [x] [2581 소수](https://www.acmicpc.net/problem/2581)
+- [x] [11653 소인수분해](https://www.acmicpc.net/problem/11653)
 
 ## 10단계 - 기하 1: 직사각형과 삼각형
 
 - [x] [27323 직사각형](https://www.acmicpc.net/problem/27323)
 - [x] [1085 직사각형에서 탈출](https://www.acmicpc.net/problem/1085)
-- [ ] [3009 네 번째 점](https://www.acmicpc.net/problem/3009)
+- [x] [3009 네 번째 점](https://www.acmicpc.net/problem/3009)
 - [x] [15894 수학은 체육과목 입니다](https://www.acmicpc.net/problem/15894)
 - [x] [9063 대지](https://www.acmicpc.net/problem/9063)
 - [x] [10101 삼각형 외우기](https://www.acmicpc.net/problem/10101)
@@ -167,7 +167,7 @@
 - [x] [1735 분수 합](https://www.acmicpc.net/problem/1735)
 - [x] [2485 가로수](https://www.acmicpc.net/problem/2485)
 - [ ] [4134 다음 소수](https://www.acmicpc.net/problem/4134)
-- [ ] [1929 소수 구하기](https://www.acmicpc.net/problem/1929)
+- [x] [1929 소수 구하기](https://www.acmicpc.net/problem/1929)
 - [ ] [4948 베르트랑 공준](https://www.acmicpc.net/problem/4948)
 - [ ] [17103 골드바흐 파티션](https://www.acmicpc.net/problem/17103)
 - [x] [13909 창문 닫기](https://www.acmicpc.net/problem/13909)
@@ -245,7 +245,7 @@
 ## 22단계 - 누적 합
 
 - [x] [11659 구간 합 구하기 4](https://www.acmicpc.net/problem/11659)
-- [ ] [2559 수열](https://www.acmicpc.net/problem/2559)
+- [x] [2559 수열](https://www.acmicpc.net/problem/2559)
 - [ ] [16139 인간-컴퓨터 상호작용](https://www.acmicpc.net/problem/16139)
 - [ ] [10986 나머지 합](https://www.acmicpc.net/problem/10986)
 - [x] [11660 구간 합 구하기 5](https://www.acmicpc.net/problem/11660)
@@ -264,7 +264,7 @@
 - [x] [2630 색종이 만들기](https://www.acmicpc.net/problem/2630)
 - [x] [1992 쿼드트리](https://www.acmicpc.net/problem/1992)
 - [x] [1780 종이의 개수](https://www.acmicpc.net/problem/1780)
-- [ ] [1629 곱셈](https://www.acmicpc.net/problem/1629)
+- [x] [1629 곱셈](https://www.acmicpc.net/problem/1629)
 - [ ] [11401 이항 계수 3](https://www.acmicpc.net/problem/11401)
 - [x] [2740 행렬 곱셈](https://www.acmicpc.net/problem/2740)
 - [ ] [10830 행렬 제곱](https://www.acmicpc.net/problem/10830)
@@ -275,7 +275,7 @@
 
 - [ ] [1920 수 찾기](https://www.acmicpc.net/problem/1920)
 - [x] [10816 숫자 카드 2](https://www.acmicpc.net/problem/10816)
-- [ ] [1654 랜선 자르기](https://www.acmicpc.net/problem/1654)
+- [x] [1654 랜선 자르기](https://www.acmicpc.net/problem/1654)
 - [ ] [2805 나무 자르기](https://www.acmicpc.net/problem/2805)
 - [ ] [2110 공유기 설치](https://www.acmicpc.net/problem/2110)
 - [ ] [1300 K번째 수](https://www.acmicpc.net/problem/1300)
@@ -330,7 +330,7 @@
 - [x] [3273 두 수의 합](https://www.acmicpc.net/problem/3273)
 - [ ] [2470 두 용액](https://www.acmicpc.net/problem/2470)
 - [ ] [1806 부분합](https://www.acmicpc.net/problem/1806)
-- [ ] [1644 소수의 연속합](https://www.acmicpc.net/problem/1644)
+- [x] [1644 소수의 연속합](https://www.acmicpc.net/problem/1644)
 - [ ] [1450 냅색문제](https://www.acmicpc.net/problem/1450)
 
 ## 31단계 - 동적 계획법 2
