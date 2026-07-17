@@ -129,7 +129,7 @@
 ## 12단계 - 브루트 포스
 
 - [x] [2798 블랙잭](https://www.acmicpc.net/problem/2798)
-- [ ] [2231 분해합](https://www.acmicpc.net/problem/2231)
+- [x] [2231 분해합](https://www.acmicpc.net/problem/2231)
 - [x] [19532 수학은 비대면강의입니다](https://www.acmicpc.net/problem/19532)
 - [x] [1018 체스판 다시 칠하기](https://www.acmicpc.net/problem/1018)
 - [x] [1436 영화감독 숌](https://www.acmicpc.net/problem/1436)
@@ -169,7 +169,7 @@
 - [ ] [4134 다음 소수](https://www.acmicpc.net/problem/4134)
 - [x] [1929 소수 구하기](https://www.acmicpc.net/problem/1929)
 - [ ] [4948 베르트랑 공준](https://www.acmicpc.net/problem/4948)
-- [ ] [17103 골드바흐 파티션](https://www.acmicpc.net/problem/17103)
+- [x] [17103 골드바흐 파티션](https://www.acmicpc.net/problem/17103)
 - [x] [13909 창문 닫기](https://www.acmicpc.net/problem/13909)
 
 ## 16단계 - 스택, 큐, 덱 1
@@ -191,7 +191,7 @@
 - [x] [15439 베라의 패션](https://www.acmicpc.net/problem/15439)
 - [x] [24723 녹색거탑](https://www.acmicpc.net/problem/24723)
 - [x] [10872 팩토리얼](https://www.acmicpc.net/problem/10872)
-- [ ] [11050 이항 계수 1](https://www.acmicpc.net/problem/11050)
+- [x] [11050 이항 계수 1](https://www.acmicpc.net/problem/11050)
 - [x] [1010 다리 놓기](https://www.acmicpc.net/problem/1010)
 
 ## 18단계 - 심화 2
@@ -233,7 +233,7 @@
 - [ ] [1149 RGB거리](https://www.acmicpc.net/problem/1149)
 - [x] [1932 정수 삼각형](https://www.acmicpc.net/problem/1932)
 - [ ] [2579 계단 오르기](https://www.acmicpc.net/problem/2579)
-- [ ] [1463 1로 만들기](https://www.acmicpc.net/problem/1463)
+- [x] [1463 1로 만들기](https://www.acmicpc.net/problem/1463)
 - [ ] [10844 쉬운 계단 수](https://www.acmicpc.net/problem/10844)
 - [ ] [2156 포도주 시식](https://www.acmicpc.net/problem/2156)
 - [x] [11053 가장 긴 증가하는 부분 수열](https://www.acmicpc.net/problem/11053)
@@ -265,7 +265,7 @@
 - [x] [1992 쿼드트리](https://www.acmicpc.net/problem/1992)
 - [x] [1780 종이의 개수](https://www.acmicpc.net/problem/1780)
 - [x] [1629 곱셈](https://www.acmicpc.net/problem/1629)
-- [ ] [11401 이항 계수 3](https://www.acmicpc.net/problem/11401)
+- [x] [11401 이항 계수 3](https://www.acmicpc.net/problem/11401)
 - [x] [2740 행렬 곱셈](https://www.acmicpc.net/problem/2740)
 - [ ] [10830 행렬 제곱](https://www.acmicpc.net/problem/10830)
 - [x] [11444 피보나치 수 6](https://www.acmicpc.net/problem/11444)
@@ -283,8 +283,8 @@
 
 ## 26단계 - 우선순위 큐
 
-- [ ] [11279 최대 힙](https://www.acmicpc.net/problem/11279)
-- [ ] [1927 최소 힙](https://www.acmicpc.net/problem/1927)
+- [x] [11279 최대 힙](https://www.acmicpc.net/problem/11279)
+- [x] [1927 최소 힙](https://www.acmicpc.net/problem/1927)
 - [ ] [11286 절댓값 힙](https://www.acmicpc.net/problem/11286)
 - [ ] [2075 N번째 큰 수](https://www.acmicpc.net/problem/2075)
 - [ ] [2696 중앙값 구하기](https://www.acmicpc.net/problem/2696)
@@ -306,7 +306,7 @@
 - [x] [7576 토마토](https://www.acmicpc.net/problem/7576)
 - [x] [7569 토마토](https://www.acmicpc.net/problem/7569)
 - [ ] [16928 뱀과 사다리 게임](https://www.acmicpc.net/problem/16928)
-- [ ] [2206 벽 부수고 이동하기](https://www.acmicpc.net/problem/2206)
+- [x] [2206 벽 부수고 이동하기](https://www.acmicpc.net/problem/2206)
 - [ ] [1707 이분 그래프](https://www.acmicpc.net/problem/1707)
 
 ## 28단계 - 위상 정렬
@@ -367,8 +367,8 @@
 
 ## 34단계 - 유니온 파인드 1
 
-- [ ] [1717 집합의 표현](https://www.acmicpc.net/problem/1717)
-- [ ] [1976 여행 가자](https://www.acmicpc.net/problem/1976)
+- [x] [1717 집합의 표현](https://www.acmicpc.net/problem/1717)
+- [x] [1976 여행 가자](https://www.acmicpc.net/problem/1976)
 - [ ] [4195 친구 네트워크](https://www.acmicpc.net/problem/4195)
 - [ ] [20040 사이클 게임](https://www.acmicpc.net/problem/20040)
 
@@ -409,7 +409,7 @@
 - [ ] [17299 오등큰수](https://www.acmicpc.net/problem/17299)
 - [ ] [1725 히스토그램](https://www.acmicpc.net/problem/1725)
 - [x] [3015 오아시스 재결합](https://www.acmicpc.net/problem/3015)
-- [ ] [11003 최솟값 찾기](https://www.acmicpc.net/problem/11003)
+- [x] [11003 최솟값 찾기](https://www.acmicpc.net/problem/11003)
 - [ ] [5977 Mowing the Lawn](https://www.acmicpc.net/problem/5977)
 - [ ] [15678 연세워터파크](https://www.acmicpc.net/problem/15678)
 - [ ] [33918 맛있는 스콘 만들기](https://www.acmicpc.net/problem/33918)
@@ -598,7 +598,7 @@
 
 ## 56단계 - 수학 3
 
-- [ ] [11402 이항 계수 4](https://www.acmicpc.net/problem/11402)
+- [x] [11402 이항 계수 4](https://www.acmicpc.net/problem/11402)
 - [ ] [5615 아파트 임대](https://www.acmicpc.net/problem/5615)
 - [ ] [4149 큰 수 소인수분해](https://www.acmicpc.net/problem/4149)
 - [ ] [22940 선형 연립 방정식](https://www.acmicpc.net/problem/22940)

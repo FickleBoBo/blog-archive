@@ -303,10 +303,10 @@
 
 ## 이항 계수
 
-- [ ] [11050 이항 계수 1](https://www.acmicpc.net/problem/11050)
-- [ ] [11051 이항 계수 2](https://www.acmicpc.net/problem/11051)
-- [ ] [11401 이항 계수 3](https://www.acmicpc.net/problem/11401)
-- [ ] [11402 이항 계수 4](https://www.acmicpc.net/problem/11402)
+- [x] [11050 이항 계수 1](https://www.acmicpc.net/problem/11050)
+- [x] [11051 이항 계수 2](https://www.acmicpc.net/problem/11051)
+- [x] [11401 이항 계수 3](https://www.acmicpc.net/problem/11401)
+- [x] [11402 이항 계수 4](https://www.acmicpc.net/problem/11402)
 - [ ] [11439 이항 계수 5](https://www.acmicpc.net/problem/11439)
 - [ ] [14854 이항 계수 6](https://www.acmicpc.net/problem/14854)
 
@@ -340,10 +340,10 @@
 
 ## 벽 부수고 이동하기
 
-- [ ] [2206 벽 부수고 이동하기](https://www.acmicpc.net/problem/2206)
-- [ ] [14442 벽 부수고 이동하기 2](https://www.acmicpc.net/problem/14442)
-- [ ] [16933 벽 부수고 이동하기 3](https://www.acmicpc.net/problem/16933)
-- [ ] [16946 벽 부수고 이동하기 4](https://www.acmicpc.net/problem/16946)
+- [x] [2206 벽 부수고 이동하기](https://www.acmicpc.net/problem/2206)
+- [x] [14442 벽 부수고 이동하기 2](https://www.acmicpc.net/problem/14442)
+- [x] [16933 벽 부수고 이동하기 3](https://www.acmicpc.net/problem/16933)
+- [x] [16946 벽 부수고 이동하기 4](https://www.acmicpc.net/problem/16946)
 
 ## 영화감독 숌
 
@@ -618,7 +618,7 @@
 
 ## 타일 채우기
 
-- [ ] [2133 타일 채우기](https://www.acmicpc.net/problem/2133)
+- [x] [2133 타일 채우기](https://www.acmicpc.net/problem/2133)
 - [ ] [13976 타일 채우기 2](https://www.acmicpc.net/problem/13976)
 - [ ] [14852 타일 채우기 3](https://www.acmicpc.net/problem/14852)
 - [ ] [15700 타일 채우기 4](https://www.acmicpc.net/problem/15700)
@@ -769,14 +769,14 @@
 
 ## 1로 만들기
 
-- [ ] [1463 1로 만들기](https://www.acmicpc.net/problem/1463)
+- [x] [1463 1로 만들기](https://www.acmicpc.net/problem/1463)
 - [ ] [12852 1로 만들기 2](https://www.acmicpc.net/problem/12852)
 - [ ] [27440 1로 만들기 3](https://www.acmicpc.net/problem/27440)
 
 ## 분해합
 
-- [ ] [2231 분해합](https://www.acmicpc.net/problem/2231)
-- [ ] [12348 분해합 2](https://www.acmicpc.net/problem/12348)
+- [x] [2231 분해합](https://www.acmicpc.net/problem/2231)
+- [x] [12348 분해합 2](https://www.acmicpc.net/problem/12348)
 
 ## 한수
 
