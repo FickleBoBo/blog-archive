@@ -240,7 +240,7 @@
 - [x] [11054 가장 긴 바이토닉 부분 수열](https://www.acmicpc.net/problem/11054)
 - [x] [2565 전깃줄](https://www.acmicpc.net/problem/2565)
 - [x] [9251 LCS](https://www.acmicpc.net/problem/9251)
-- [ ] [12865 평범한 배낭](https://www.acmicpc.net/problem/12865)
+- [x] [12865 평범한 배낭](https://www.acmicpc.net/problem/12865)
 
 ## 22단계 - 누적 합
 
@@ -256,7 +256,7 @@
 - [x] [11047 동전 0](https://www.acmicpc.net/problem/11047)
 - [ ] [1931 회의실 배정](https://www.acmicpc.net/problem/1931)
 - [x] [11399 ATM](https://www.acmicpc.net/problem/11399)
-- [ ] [1541 잃어버린 괄호](https://www.acmicpc.net/problem/1541)
+- [x] [1541 잃어버린 괄호](https://www.acmicpc.net/problem/1541)
 - [x] [13305 주유소](https://www.acmicpc.net/problem/13305)
 
 ## 24단계 - 분할 정복
@@ -267,16 +267,16 @@
 - [x] [1629 곱셈](https://www.acmicpc.net/problem/1629)
 - [x] [11401 이항 계수 3](https://www.acmicpc.net/problem/11401)
 - [x] [2740 행렬 곱셈](https://www.acmicpc.net/problem/2740)
-- [ ] [10830 행렬 제곱](https://www.acmicpc.net/problem/10830)
+- [x] [10830 행렬 제곱](https://www.acmicpc.net/problem/10830)
 - [x] [11444 피보나치 수 6](https://www.acmicpc.net/problem/11444)
 - [x] [6549 히스토그램에서 가장 큰 직사각형](https://www.acmicpc.net/problem/6549)
 
 ## 25단계 - 이분 탐색
 
-- [ ] [1920 수 찾기](https://www.acmicpc.net/problem/1920)
+- [x] [1920 수 찾기](https://www.acmicpc.net/problem/1920)
 - [x] [10816 숫자 카드 2](https://www.acmicpc.net/problem/10816)
 - [x] [1654 랜선 자르기](https://www.acmicpc.net/problem/1654)
-- [ ] [2805 나무 자르기](https://www.acmicpc.net/problem/2805)
+- [x] [2805 나무 자르기](https://www.acmicpc.net/problem/2805)
 - [ ] [2110 공유기 설치](https://www.acmicpc.net/problem/2110)
 - [ ] [1300 K번째 수](https://www.acmicpc.net/problem/1300)
 - [x] [12015 가장 긴 증가하는 부분 수열 2](https://www.acmicpc.net/problem/12015)
@@ -328,8 +328,8 @@
 ## 30단계 - 투 포인터
 
 - [x] [3273 두 수의 합](https://www.acmicpc.net/problem/3273)
-- [ ] [2470 두 용액](https://www.acmicpc.net/problem/2470)
-- [ ] [1806 부분합](https://www.acmicpc.net/problem/1806)
+- [x] [2470 두 용액](https://www.acmicpc.net/problem/2470)
+- [x] [1806 부분합](https://www.acmicpc.net/problem/1806)
 - [x] [1644 소수의 연속합](https://www.acmicpc.net/problem/1644)
 - [ ] [1450 냅색문제](https://www.acmicpc.net/problem/1450)
 
@@ -338,9 +338,9 @@
 - [ ] [11066 파일 합치기](https://www.acmicpc.net/problem/11066)
 - [ ] [11049 행렬 곱셈 순서](https://www.acmicpc.net/problem/11049)
 - [ ] [1520 내리막 길](https://www.acmicpc.net/problem/1520)
-- [ ] [2629 양팔저울](https://www.acmicpc.net/problem/2629)
-- [ ] [2293 동전 1](https://www.acmicpc.net/problem/2293)
-- [ ] [7579 앱](https://www.acmicpc.net/problem/7579)
+- [x] [2629 양팔저울](https://www.acmicpc.net/problem/2629)
+- [x] [2293 동전 1](https://www.acmicpc.net/problem/2293)
+- [x] [7579 앱](https://www.acmicpc.net/problem/7579)
 - [ ] [11062 카드 게임](https://www.acmicpc.net/problem/11062)
 
 ## 32단계 - 동적 계획법과 최단거리 역추적
@@ -541,7 +541,7 @@
 - [ ] [1648 격자판 채우기](https://www.acmicpc.net/problem/1648)
 - [ ] [1657 두부장수 장홍준](https://www.acmicpc.net/problem/1657)
 - [ ] [2315 가로등 끄기](https://www.acmicpc.net/problem/2315)
-- [ ] [13448 SW 역량 테스트](https://www.acmicpc.net/problem/13448)
+- [x] [13448 SW 역량 테스트](https://www.acmicpc.net/problem/13448)
 - [ ] [1040 정수](https://www.acmicpc.net/problem/1040)
 
 ## 51단계 - 기하 3

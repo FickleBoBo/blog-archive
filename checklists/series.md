@@ -365,8 +365,8 @@
 ## 동전
 
 - [x] [11047 동전 0](https://www.acmicpc.net/problem/11047)
-- [ ] [2293 동전 1](https://www.acmicpc.net/problem/2293)
-- [ ] [2294 동전 2](https://www.acmicpc.net/problem/2294)
+- [x] [2293 동전 1](https://www.acmicpc.net/problem/2293)
+- [x] [2294 동전 2](https://www.acmicpc.net/problem/2294)
 
 ## 구간 합 구하기
 
@@ -760,7 +760,7 @@
 ## 벌집
 
 - [x] [2292 벌집](https://www.acmicpc.net/problem/2292)
-- [ ] [27436 벌집 2](https://www.acmicpc.net/problem/27436)
+- [x] [27436 벌집 2](https://www.acmicpc.net/problem/27436)
 
 ## 분수찾기
 

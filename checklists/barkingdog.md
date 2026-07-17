@@ -264,7 +264,7 @@
 - [x] [11052 카드 구매하기](https://www.acmicpc.net/problem/11052)
 - [ ] [9465 스티커](https://www.acmicpc.net/problem/9465)
 - [ ] [11057 오르막 수](https://www.acmicpc.net/problem/11057)
-- [ ] [2293 동전 1](https://www.acmicpc.net/problem/2293)
+- [x] [2293 동전 1](https://www.acmicpc.net/problem/2293)
 - [x] [1904 01타일](https://www.acmicpc.net/problem/1904)
 - [ ] [1788 피보나치 수의 확장](https://www.acmicpc.net/problem/1788)
 - [ ] [4883 삼각 그래프](https://www.acmicpc.net/problem/4883)
@@ -277,7 +277,7 @@
 - [x] [1026 보물](https://www.acmicpc.net/problem/1026)
 - [x] [11399 ATM](https://www.acmicpc.net/problem/11399)
 - [x] [2457 공주님의 정원](https://www.acmicpc.net/problem/2457)
-- [ ] [1541 잃어버린 괄호](https://www.acmicpc.net/problem/1541)
+- [x] [1541 잃어버린 괄호](https://www.acmicpc.net/problem/1541)
 - [x] [11501 주식](https://www.acmicpc.net/problem/11501)
 - [x] [1744 수 묶기](https://www.acmicpc.net/problem/1744)
 - [x] [2847 게임을 만든 동준이](https://www.acmicpc.net/problem/2847)
@@ -333,22 +333,22 @@
 
 ## 0x13강 - 이분탐색
 
-- [ ] [1920 수 찾기](https://www.acmicpc.net/problem/1920)
+- [x] [1920 수 찾기](https://www.acmicpc.net/problem/1920)
 - [x] [10816 숫자 카드 2](https://www.acmicpc.net/problem/10816)
 - [x] [18870 좌표 압축](https://www.acmicpc.net/problem/18870)
 - [x] [2295 세 수의 합](https://www.acmicpc.net/problem/2295)
 - [x] [1654 랜선 자르기](https://www.acmicpc.net/problem/1654)
 - [x] [10815 숫자 카드](https://www.acmicpc.net/problem/10815)
 - [ ] [1822 차집합](https://www.acmicpc.net/problem/1822)
-- [ ] [16401 과자 나눠주기](https://www.acmicpc.net/problem/16401)
-- [ ] [2805 나무 자르기](https://www.acmicpc.net/problem/2805)
+- [x] [16401 과자 나눠주기](https://www.acmicpc.net/problem/16401)
+- [x] [2805 나무 자르기](https://www.acmicpc.net/problem/2805)
 - [ ] [18869 멀티버스 Ⅱ](https://www.acmicpc.net/problem/18869)
-- [ ] [2467 용액](https://www.acmicpc.net/problem/2467)
+- [x] [2467 용액](https://www.acmicpc.net/problem/2467)
 - [ ] [3151 합이 0](https://www.acmicpc.net/problem/3151)
 - [ ] [14921 용액 합성하기](https://www.acmicpc.net/problem/14921)
-- [ ] [1253 좋다](https://www.acmicpc.net/problem/1253)
+- [x] [1253 좋다](https://www.acmicpc.net/problem/1253)
 - [ ] [2143 두 배열의 합](https://www.acmicpc.net/problem/2143)
-- [ ] [2473 세 용액](https://www.acmicpc.net/problem/2473)
+- [x] [2473 세 용액](https://www.acmicpc.net/problem/2473)
 - [ ] [2110 공유기 설치](https://www.acmicpc.net/problem/2110)
 - [ ] [7453 합이 0인 네 정수](https://www.acmicpc.net/problem/7453)
 - [x] [12015 가장 긴 증가하는 부분 수열 2](https://www.acmicpc.net/problem/12015)
@@ -358,7 +358,7 @@
 ## 0x14강 - 투 포인터
 
 - [x] [2230 수 고르기](https://www.acmicpc.net/problem/2230)
-- [ ] [1806 부분합](https://www.acmicpc.net/problem/1806)
+- [x] [1806 부분합](https://www.acmicpc.net/problem/1806)
 - [x] [1644 소수의 연속합](https://www.acmicpc.net/problem/1644)
 - [x] [2003 수들의 합 2](https://www.acmicpc.net/problem/2003)
 - [ ] [13144 List of Unique Numbers](https://www.acmicpc.net/problem/13144)
@@ -367,7 +367,7 @@
 - [x] [20922 겹치는 건 싫어](https://www.acmicpc.net/problem/20922)
 - [ ] [2461 대표 선수](https://www.acmicpc.net/problem/2461)
 - [ ] [2283 구간 자르기](https://www.acmicpc.net/problem/2283)
-- [ ] [20366 같이 눈사람 만들래?](https://www.acmicpc.net/problem/20366)
+- [x] [20366 같이 눈사람 만들래?](https://www.acmicpc.net/problem/20366)
 
 ## 0x15강 - 해시
 
@@ -559,8 +559,8 @@
 ## 부록 E - 다이나믹 프로그래밍 심화
 
 - [x] [9251 LCS](https://www.acmicpc.net/problem/9251)
-- [ ] [9084 동전](https://www.acmicpc.net/problem/9084)
-- [ ] [12865 평범한 배낭](https://www.acmicpc.net/problem/12865)
+- [x] [9084 동전](https://www.acmicpc.net/problem/9084)
+- [x] [12865 평범한 배낭](https://www.acmicpc.net/problem/12865)
 - [ ] [1915 가장 큰 정사각형](https://www.acmicpc.net/problem/1915)
 - [ ] [1351 무한 수열](https://www.acmicpc.net/problem/1351)
 - [ ] [1937 욕심쟁이 판다](https://www.acmicpc.net/problem/1937)
@@ -574,7 +574,7 @@
 - [ ] [12784 인하니카 공화국](https://www.acmicpc.net/problem/12784)
 - [ ] [25515 트리 노드 합의 최댓값](https://www.acmicpc.net/problem/25515)
 - [ ] [21276 계보 복원가 호석](https://www.acmicpc.net/problem/21276)
-- [ ] [2294 동전 2](https://www.acmicpc.net/problem/2294)
+- [x] [2294 동전 2](https://www.acmicpc.net/problem/2294)
 - [x] [2133 타일 채우기](https://www.acmicpc.net/problem/2133)
 - [ ] [1520 내리막 길](https://www.acmicpc.net/problem/1520)
 - [ ] [2482 색상환](https://www.acmicpc.net/problem/2482)

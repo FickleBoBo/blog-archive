@@ -162,7 +162,7 @@
 ## 코딩 테스트 준비 - 연습 / 브루트 포스 - 기타
 
 - [x] [2003 수들의 합 2](https://www.acmicpc.net/problem/2003)
-- [ ] [1806 부분합](https://www.acmicpc.net/problem/1806)
+- [x] [1806 부분합](https://www.acmicpc.net/problem/1806)
 - [x] [1644 소수의 연속합](https://www.acmicpc.net/problem/1644)
 - [ ] [1208 부분수열의 합 2](https://www.acmicpc.net/problem/1208)
 - [ ] [2143 두 배열의 합](https://www.acmicpc.net/problem/2143)
@@ -208,12 +208,12 @@
 - [ ] [10942 팰린드롬?](https://www.acmicpc.net/problem/10942)
 - [ ] [15989 1, 2, 3 더하기 4](https://www.acmicpc.net/problem/15989)
 - [ ] [11066 파일 합치기](https://www.acmicpc.net/problem/11066)
-- [ ] [12865 평범한 배낭](https://www.acmicpc.net/problem/12865)
+- [x] [12865 평범한 배낭](https://www.acmicpc.net/problem/12865)
 - [ ] [1495 기타리스트](https://www.acmicpc.net/problem/1495)
 - [ ] [12869 뮤탈리스크](https://www.acmicpc.net/problem/12869)
 - [ ] [10422 괄호](https://www.acmicpc.net/problem/10422)
-- [ ] [2293 동전 1](https://www.acmicpc.net/problem/2293)
-- [ ] [2294 동전 2](https://www.acmicpc.net/problem/2294)
+- [x] [2293 동전 1](https://www.acmicpc.net/problem/2293)
+- [x] [2294 동전 2](https://www.acmicpc.net/problem/2294)
 - [ ] [11058 크리보드](https://www.acmicpc.net/problem/11058)
 - [x] [9251 LCS](https://www.acmicpc.net/problem/9251)
 - [x] [9252 LCS 2](https://www.acmicpc.net/problem/9252)
@@ -593,7 +593,7 @@
 
 ## 알고리즘 중급 1/3 / 711 - 그리디 알고리즘 (연습)
 
-- [ ] [1541 잃어버린 괄호](https://www.acmicpc.net/problem/1541)
+- [x] [1541 잃어버린 괄호](https://www.acmicpc.net/problem/1541)
 - [x] [1744 수 묶기](https://www.acmicpc.net/problem/1744)
 - [ ] [2875 대회 or 인턴](https://www.acmicpc.net/problem/2875)
 - [x] [10610 30](https://www.acmicpc.net/problem/10610)
@@ -644,7 +644,7 @@
 
 - [ ] [1790 수 이어 쓰기 2](https://www.acmicpc.net/problem/1790)
 - [x] [1654 랜선 자르기](https://www.acmicpc.net/problem/1654)
-- [ ] [2805 나무 자르기](https://www.acmicpc.net/problem/2805)
+- [x] [2805 나무 자르기](https://www.acmicpc.net/problem/2805)
 - [ ] [2110 공유기 설치](https://www.acmicpc.net/problem/2110)
 - [ ] [1939 중량제한](https://www.acmicpc.net/problem/1939)
 - [ ] [2022 사다리](https://www.acmicpc.net/problem/2022)
@@ -706,7 +706,7 @@
 ## 알고리즘 중급 2/3 / 560 - 브루트 포스 - 기타
 
 - [x] [2003 수들의 합 2](https://www.acmicpc.net/problem/2003)
-- [ ] [1806 부분합](https://www.acmicpc.net/problem/1806)
+- [x] [1806 부분합](https://www.acmicpc.net/problem/1806)
 - [x] [1644 소수의 연속합](https://www.acmicpc.net/problem/1644)
 - [ ] [1208 부분수열의 합 2](https://www.acmicpc.net/problem/1208)
 - [ ] [2143 두 배열의 합](https://www.acmicpc.net/problem/2143)
@@ -782,15 +782,15 @@
 - [ ] [10942 팰린드롬?](https://www.acmicpc.net/problem/10942)
 - [ ] [15989 1, 2, 3 더하기 4](https://www.acmicpc.net/problem/15989)
 - [ ] [11066 파일 합치기](https://www.acmicpc.net/problem/11066)
-- [ ] [12865 평범한 배낭](https://www.acmicpc.net/problem/12865)
+- [x] [12865 평범한 배낭](https://www.acmicpc.net/problem/12865)
 - [ ] [1495 기타리스트](https://www.acmicpc.net/problem/1495)
 - [ ] [12869 뮤탈리스크](https://www.acmicpc.net/problem/12869)
 - [ ] [10422 괄호](https://www.acmicpc.net/problem/10422)
 
 ## 알고리즘 중급 2/3 / 1001 - 다이나믹 프로그래밍 2 (연습)
 
-- [ ] [2293 동전 1](https://www.acmicpc.net/problem/2293)
-- [ ] [2294 동전 2](https://www.acmicpc.net/problem/2294)
+- [x] [2293 동전 1](https://www.acmicpc.net/problem/2293)
+- [x] [2294 동전 2](https://www.acmicpc.net/problem/2294)
 - [ ] [11058 크리보드](https://www.acmicpc.net/problem/11058)
 - [ ] [1890 점프](https://www.acmicpc.net/problem/1890)
 - [ ] [11049 행렬 곱셈 순서](https://www.acmicpc.net/problem/11049)
@@ -815,7 +815,7 @@
 ## 알고리즘 중급 2/3 / 1100 - 수학 1
 
 - [x] [1629 곱셈](https://www.acmicpc.net/problem/1629)
-- [ ] [10830 행렬 제곱](https://www.acmicpc.net/problem/10830)
+- [x] [10830 행렬 제곱](https://www.acmicpc.net/problem/10830)
 - [x] [2747 피보나치 수](https://www.acmicpc.net/problem/2747)
 - [x] [2748 피보나치 수 2](https://www.acmicpc.net/problem/2748)
 - [x] [2749 피보나치 수 3](https://www.acmicpc.net/problem/2749)
