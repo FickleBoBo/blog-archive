@@ -272,7 +272,7 @@
 ## 0x11강 - 그리디
 
 - [x] [11047 동전 0](https://www.acmicpc.net/problem/11047)
-- [ ] [1931 회의실 배정](https://www.acmicpc.net/problem/1931)
+- [x] [1931 회의실 배정](https://www.acmicpc.net/problem/1931)
 - [x] [2217 로프](https://www.acmicpc.net/problem/2217)
 - [x] [1026 보물](https://www.acmicpc.net/problem/1026)
 - [x] [11399 ATM](https://www.acmicpc.net/problem/11399)
@@ -301,7 +301,7 @@
 - [ ] [4796 캠핑](https://www.acmicpc.net/problem/4796)
 - [x] [2960 에라토스테네스의 체](https://www.acmicpc.net/problem/2960)
 - [x] [1193 분수찾기](https://www.acmicpc.net/problem/1193)
-- [ ] [4948 베르트랑 공준](https://www.acmicpc.net/problem/4948)
+- [x] [4948 베르트랑 공준](https://www.acmicpc.net/problem/4948)
 - [x] [1676 팩토리얼 0의 개수](https://www.acmicpc.net/problem/1676)
 - [x] [9613 GCD 합](https://www.acmicpc.net/problem/9613)
 - [x] [2292 벌집](https://www.acmicpc.net/problem/2292)
@@ -504,15 +504,15 @@
 
 ## 0x1F강 - 트라이
 
-- [ ] [14425 문자열 집합](https://www.acmicpc.net/problem/14425)
-- [ ] [14426 접두사 찾기](https://www.acmicpc.net/problem/14426)
-- [ ] [5052 전화번호 목록](https://www.acmicpc.net/problem/5052)
-- [ ] [7432 디스크 트리](https://www.acmicpc.net/problem/7432)
-- [ ] [14725 개미굴](https://www.acmicpc.net/problem/14725)
-- [ ] [16934 게임 닉네임](https://www.acmicpc.net/problem/16934)
-- [ ] [9202 Boggle](https://www.acmicpc.net/problem/9202)
-- [ ] [16906 욱제어](https://www.acmicpc.net/problem/16906)
-- [ ] [5670 휴대폰 자판](https://www.acmicpc.net/problem/5670)
+- [x] [14425 문자열 집합](https://www.acmicpc.net/problem/14425)
+- [x] [14426 접두사 찾기](https://www.acmicpc.net/problem/14426)
+- [x] [5052 전화번호 목록](https://www.acmicpc.net/problem/5052)
+- [x] [7432 디스크 트리](https://www.acmicpc.net/problem/7432)
+- [x] [14725 개미굴](https://www.acmicpc.net/problem/14725)
+- [x] [16934 게임 닉네임](https://www.acmicpc.net/problem/16934)
+- [x] [9202 Boggle](https://www.acmicpc.net/problem/9202)
+- [x] [16906 욱제어](https://www.acmicpc.net/problem/16906)
+- [x] [5670 휴대폰 자판](https://www.acmicpc.net/problem/5670)
 - [ ] [5446 용량 부족](https://www.acmicpc.net/problem/5446)
 
 ## 부록 A - 문자열 기초
@@ -532,7 +532,7 @@
 - [ ] [23304 아카라카](https://www.acmicpc.net/problem/23304)
 - [ ] [6581 HTML](https://www.acmicpc.net/problem/6581)
 - [ ] [17413 단어 뒤집기 2](https://www.acmicpc.net/problem/17413)
-- [ ] [1213 팰린드롬 만들기](https://www.acmicpc.net/problem/1213)
+- [x] [1213 팰린드롬 만들기](https://www.acmicpc.net/problem/1213)
 
 ## 부록 C - 비트마스킹
 

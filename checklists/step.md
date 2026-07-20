@@ -152,7 +152,7 @@
 ## 14단계 - 집합과 맵
 
 - [x] [10815 숫자 카드](https://www.acmicpc.net/problem/10815)
-- [ ] [14425 문자열 집합](https://www.acmicpc.net/problem/14425)
+- [x] [14425 문자열 집합](https://www.acmicpc.net/problem/14425)
 - [x] [7785 회사에 있는 사람](https://www.acmicpc.net/problem/7785)
 - [x] [1620 나는야 포켓몬 마스터 이다솜](https://www.acmicpc.net/problem/1620)
 - [x] [10816 숫자 카드 2](https://www.acmicpc.net/problem/10816)
@@ -166,9 +166,9 @@
 - [x] [13241 최소공배수](https://www.acmicpc.net/problem/13241)
 - [x] [1735 분수 합](https://www.acmicpc.net/problem/1735)
 - [x] [2485 가로수](https://www.acmicpc.net/problem/2485)
-- [ ] [4134 다음 소수](https://www.acmicpc.net/problem/4134)
+- [x] [4134 다음 소수](https://www.acmicpc.net/problem/4134)
 - [x] [1929 소수 구하기](https://www.acmicpc.net/problem/1929)
-- [ ] [4948 베르트랑 공준](https://www.acmicpc.net/problem/4948)
+- [x] [4948 베르트랑 공준](https://www.acmicpc.net/problem/4948)
 - [x] [17103 골드바흐 파티션](https://www.acmicpc.net/problem/17103)
 - [x] [13909 창문 닫기](https://www.acmicpc.net/problem/13909)
 
@@ -178,13 +178,13 @@
 - [x] [10773 제로](https://www.acmicpc.net/problem/10773)
 - [x] [9012 괄호](https://www.acmicpc.net/problem/9012)
 - [x] [4949 균형잡힌 세상](https://www.acmicpc.net/problem/4949)
-- [ ] [12789 도키도키 간식드리미](https://www.acmicpc.net/problem/12789)
+- [x] [12789 도키도키 간식드리미](https://www.acmicpc.net/problem/12789)
 - [x] [18258 큐 2](https://www.acmicpc.net/problem/18258)
 - [x] [2164 카드2](https://www.acmicpc.net/problem/2164)
 - [x] [11866 요세푸스 문제 0](https://www.acmicpc.net/problem/11866)
 - [x] [28279 덱 2](https://www.acmicpc.net/problem/28279)
-- [ ] [2346 풍선 터뜨리기](https://www.acmicpc.net/problem/2346)
-- [ ] [24511 queuestack](https://www.acmicpc.net/problem/24511)
+- [x] [2346 풍선 터뜨리기](https://www.acmicpc.net/problem/2346)
+- [x] [24511 queuestack](https://www.acmicpc.net/problem/24511)
 
 ## 17단계 - 조합론
 
@@ -196,10 +196,10 @@
 
 ## 18단계 - 심화 2
 
-- [ ] [1037 약수](https://www.acmicpc.net/problem/1037)
+- [x] [1037 약수](https://www.acmicpc.net/problem/1037)
 - [x] [25192 인사성 밝은 곰곰이](https://www.acmicpc.net/problem/25192)
 - [x] [26069 붙임성 좋은 총총이](https://www.acmicpc.net/problem/26069)
-- [ ] [2108 통계학](https://www.acmicpc.net/problem/2108)
+- [x] [2108 통계학](https://www.acmicpc.net/problem/2108)
 - [x] [20920 영단어 암기는 괴로워](https://www.acmicpc.net/problem/20920)
 
 ## 19단계 - 재귀
@@ -254,7 +254,7 @@
 ## 23단계 - 그리디 알고리즘 1
 
 - [x] [11047 동전 0](https://www.acmicpc.net/problem/11047)
-- [ ] [1931 회의실 배정](https://www.acmicpc.net/problem/1931)
+- [x] [1931 회의실 배정](https://www.acmicpc.net/problem/1931)
 - [x] [11399 ATM](https://www.acmicpc.net/problem/11399)
 - [x] [1541 잃어버린 괄호](https://www.acmicpc.net/problem/1541)
 - [x] [13305 주유소](https://www.acmicpc.net/problem/13305)
@@ -278,7 +278,7 @@
 - [x] [1654 랜선 자르기](https://www.acmicpc.net/problem/1654)
 - [x] [2805 나무 자르기](https://www.acmicpc.net/problem/2805)
 - [ ] [2110 공유기 설치](https://www.acmicpc.net/problem/2110)
-- [ ] [1300 K번째 수](https://www.acmicpc.net/problem/1300)
+- [x] [1300 K번째 수](https://www.acmicpc.net/problem/1300)
 - [x] [12015 가장 긴 증가하는 부분 수열 2](https://www.acmicpc.net/problem/12015)
 
 ## 26단계 - 우선순위 큐
@@ -475,14 +475,14 @@
 
 ## 44단계 - 세그먼트 트리 1
 
-- [ ] [2042 구간 합 구하기](https://www.acmicpc.net/problem/2042)
-- [ ] [11505 구간 곱 구하기](https://www.acmicpc.net/problem/11505)
-- [ ] [2357 최솟값과 최댓값](https://www.acmicpc.net/problem/2357)
+- [x] [2042 구간 합 구하기](https://www.acmicpc.net/problem/2042)
+- [x] [11505 구간 곱 구하기](https://www.acmicpc.net/problem/11505)
+- [x] [2357 최솟값과 최댓값](https://www.acmicpc.net/problem/2357)
 - [ ] [1517 버블 소트](https://www.acmicpc.net/problem/1517)
 - [ ] [9345 디지털 비디오 디스크(DVDs)](https://www.acmicpc.net/problem/9345)
 - [ ] [16975 수열과 쿼리 21](https://www.acmicpc.net/problem/16975)
-- [ ] [12899 데이터 구조](https://www.acmicpc.net/problem/12899)
-- [ ] [1168 요세푸스 문제 2](https://www.acmicpc.net/problem/1168)
+- [x] [12899 데이터 구조](https://www.acmicpc.net/problem/12899)
+- [x] [1168 요세푸스 문제 2](https://www.acmicpc.net/problem/1168)
 
 ## 45단계 - 수학 2
 
@@ -496,10 +496,10 @@
 
 - [ ] [1786 찾기](https://www.acmicpc.net/problem/1786)
 - [ ] [1305 광고](https://www.acmicpc.net/problem/1305)
-- [ ] [14725 개미굴](https://www.acmicpc.net/problem/14725)
-- [ ] [14425 문자열 집합](https://www.acmicpc.net/problem/14425)
-- [ ] [5670 휴대폰 자판](https://www.acmicpc.net/problem/5670)
-- [ ] [13505 두 수 XOR](https://www.acmicpc.net/problem/13505)
+- [x] [14725 개미굴](https://www.acmicpc.net/problem/14725)
+- [x] [14425 문자열 집합](https://www.acmicpc.net/problem/14425)
+- [x] [5670 휴대폰 자판](https://www.acmicpc.net/problem/5670)
+- [x] [13505 두 수 XOR](https://www.acmicpc.net/problem/13505)
 - [ ] [28122 아이템](https://www.acmicpc.net/problem/28122)
 - [ ] [21162 뒤집기 K](https://www.acmicpc.net/problem/21162)
 

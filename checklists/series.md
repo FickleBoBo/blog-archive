@@ -19,8 +19,8 @@
 - [ ] [13925 수열과 쿼리 13](https://www.acmicpc.net/problem/13925)
 - [ ] [13927 수열과 쿼리 14](https://www.acmicpc.net/problem/13927)
 - [ ] [14427 수열과 쿼리 15](https://www.acmicpc.net/problem/14427)
-- [ ] [14428 수열과 쿼리 16](https://www.acmicpc.net/problem/14428)
-- [ ] [14438 수열과 쿼리 17](https://www.acmicpc.net/problem/14438)
+- [x] [14428 수열과 쿼리 16](https://www.acmicpc.net/problem/14428)
+- [x] [14438 수열과 쿼리 17](https://www.acmicpc.net/problem/14438)
 - [ ] [14504 수열과 쿼리 18](https://www.acmicpc.net/problem/14504)
 - [ ] [14899 수열과 쿼리 19](https://www.acmicpc.net/problem/14899)
 - [ ] [16903 수열과 쿼리 20](https://www.acmicpc.net/problem/16903)
@@ -40,7 +40,7 @@
 - [ ] [17937 수열과 쿼리 34](https://www.acmicpc.net/problem/17937)
 - [ ] [17961 수열과 쿼리 35](https://www.acmicpc.net/problem/17961)
 - [ ] [18157 수열과 쿼리 36](https://www.acmicpc.net/problem/18157)
-- [ ] [18436 수열과 쿼리 37](https://www.acmicpc.net/problem/18436)
+- [x] [18436 수열과 쿼리 37](https://www.acmicpc.net/problem/18436)
 - [ ] [18917 수열과 쿼리 38](https://www.acmicpc.net/problem/18917)
 - [ ] [19651 수열과 쿼리 39](https://www.acmicpc.net/problem/19651)
 - [ ] [20846 수열과 쿼리 40](https://www.acmicpc.net/problem/20846)
@@ -318,7 +318,7 @@
 - [ ] [2015 수들의 합 4](https://www.acmicpc.net/problem/2015)
 - [ ] [2018 수들의 합 5](https://www.acmicpc.net/problem/2018)
 - [ ] [1821 수들의 합 6](https://www.acmicpc.net/problem/1821)
-- [ ] [2268 수들의 합 7](https://www.acmicpc.net/problem/2268)
+- [x] [2268 수들의 합 7](https://www.acmicpc.net/problem/2268)
 - [ ] [25332 수들의 합 8](https://www.acmicpc.net/problem/25332)
 
 ## 돌 게임
@@ -370,12 +370,12 @@
 
 ## 구간 합 구하기
 
-- [ ] [2042 구간 합 구하기](https://www.acmicpc.net/problem/2042)
+- [x] [2042 구간 합 구하기](https://www.acmicpc.net/problem/2042)
 - [ ] [10999 구간 합 구하기 2](https://www.acmicpc.net/problem/10999)
 - [ ] [11658 구간 합 구하기 3](https://www.acmicpc.net/problem/11658)
 - [x] [11659 구간 합 구하기 4](https://www.acmicpc.net/problem/11659)
 - [x] [11660 구간 합 구하기 5](https://www.acmicpc.net/problem/11660)
-- [ ] [11505 구간 곱 구하기](https://www.acmicpc.net/problem/11505)
+- [x] [11505 구간 곱 구하기](https://www.acmicpc.net/problem/11505)
 
 ## 열혈강호
 
@@ -424,7 +424,7 @@
 
 - [x] [11866 요세푸스 문제 0](https://www.acmicpc.net/problem/11866)
 - [x] [1158 요세푸스 문제](https://www.acmicpc.net/problem/1158)
-- [ ] [1168 요세푸스 문제 2](https://www.acmicpc.net/problem/1168)
+- [x] [1168 요세푸스 문제 2](https://www.acmicpc.net/problem/1168)
 - [ ] [11025 요세푸스 문제 3](https://www.acmicpc.net/problem/11025)
 - [ ] [1179 마지막 요세푸스 문제](https://www.acmicpc.net/problem/1179)
 
@@ -706,7 +706,7 @@
 
 ## 회의실 배정
 
-- [ ] [1931 회의실 배정](https://www.acmicpc.net/problem/1931)
+- [x] [1931 회의실 배정](https://www.acmicpc.net/problem/1931)
 - [ ] [19621 회의실 배정 2](https://www.acmicpc.net/problem/19621)
 - [ ] [19622 회의실 배정 3](https://www.acmicpc.net/problem/19622)
 - [ ] [19623 회의실 배정 4](https://www.acmicpc.net/problem/19623)

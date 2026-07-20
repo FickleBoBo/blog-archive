@@ -4,7 +4,7 @@
 
 - [x] [10430 나머지](https://www.acmicpc.net/problem/10430)
 - [ ] [4375 1](https://www.acmicpc.net/problem/4375)
-- [ ] [1037 약수](https://www.acmicpc.net/problem/1037)
+- [x] [1037 약수](https://www.acmicpc.net/problem/1037)
 - [ ] [17427 약수의 합 2](https://www.acmicpc.net/problem/17427)
 - [ ] [17425 약수의 합](https://www.acmicpc.net/problem/17425)
 - [x] [2609 최대공약수와 최소공배수](https://www.acmicpc.net/problem/2609)
@@ -582,7 +582,7 @@
 ## 알고리즘 중급 1/3 / 710 - 그리디 알고리즘
 
 - [x] [11047 동전 0](https://www.acmicpc.net/problem/11047)
-- [ ] [1931 회의실 배정](https://www.acmicpc.net/problem/1931)
+- [x] [1931 회의실 배정](https://www.acmicpc.net/problem/1931)
 - [x] [11399 ATM](https://www.acmicpc.net/problem/11399)
 - [ ] [1080 행렬](https://www.acmicpc.net/problem/1080)
 - [ ] [2138 전구와 스위치](https://www.acmicpc.net/problem/2138)
@@ -647,7 +647,7 @@
 - [x] [2805 나무 자르기](https://www.acmicpc.net/problem/2805)
 - [ ] [2110 공유기 설치](https://www.acmicpc.net/problem/2110)
 - [ ] [1939 중량제한](https://www.acmicpc.net/problem/1939)
-- [ ] [2022 사다리](https://www.acmicpc.net/problem/2022)
+- [x] [2022 사다리](https://www.acmicpc.net/problem/2022)
 - [ ] [11664 선분과 점](https://www.acmicpc.net/problem/11664)
 
 ## 알고리즘 중급 1/3 / 821 - 이분 탐색 (연습)
@@ -655,7 +655,7 @@
 - [ ] [2343 기타 레슨](https://www.acmicpc.net/problem/2343)
 - [ ] [13397 구간 나누기 2](https://www.acmicpc.net/problem/13397)
 - [ ] [1981 배열에서 이동](https://www.acmicpc.net/problem/1981)
-- [ ] [1300 K번째 수](https://www.acmicpc.net/problem/1300)
+- [x] [1300 K번째 수](https://www.acmicpc.net/problem/1300)
 - [ ] [1561 놀이 공원](https://www.acmicpc.net/problem/1561)
 
 ## 알고리즘 중급 2/3 / 550 - 브루트 포스 - 문제
@@ -753,9 +753,9 @@
 - [ ] [1786 찾기](https://www.acmicpc.net/problem/1786)
 - [ ] [1305 광고](https://www.acmicpc.net/problem/1305)
 - [ ] [1701 Cubeditor](https://www.acmicpc.net/problem/1701)
-- [ ] [14425 문자열 집합](https://www.acmicpc.net/problem/14425)
-- [ ] [14426 접두사 찾기](https://www.acmicpc.net/problem/14426)
-- [ ] [13505 두 수 XOR](https://www.acmicpc.net/problem/13505)
+- [x] [14425 문자열 집합](https://www.acmicpc.net/problem/14425)
+- [x] [14426 접두사 찾기](https://www.acmicpc.net/problem/14426)
+- [x] [13505 두 수 XOR](https://www.acmicpc.net/problem/13505)
 - [ ] [9250 문자열 집합 판별](https://www.acmicpc.net/problem/9250)
 - [ ] [10256 돌연변이](https://www.acmicpc.net/problem/10256)
 
@@ -764,8 +764,8 @@
 - [ ] [12104 순환 순열](https://www.acmicpc.net/problem/12104)
 - [ ] [13506 카멜레온 부분 문자열](https://www.acmicpc.net/problem/13506)
 - [ ] [13576 Prefix와 Suffix](https://www.acmicpc.net/problem/13576)
-- [ ] [9202 Boggle](https://www.acmicpc.net/problem/9202)
-- [ ] [5052 전화번호 목록](https://www.acmicpc.net/problem/5052)
+- [x] [9202 Boggle](https://www.acmicpc.net/problem/9202)
+- [x] [5052 전화번호 목록](https://www.acmicpc.net/problem/5052)
 - [ ] [13504 XOR 합](https://www.acmicpc.net/problem/13504)
 - [ ] [13445 부분 수열 XOR](https://www.acmicpc.net/problem/13445)
 - [ ] [2809 아스키 거리](https://www.acmicpc.net/problem/2809)
@@ -826,7 +826,7 @@
 
 ## 알고리즘 중급 2/3 / 1102 - 수학 1 (도전)
 
-- [ ] [1016 제곱 ㄴㄴ 수](https://www.acmicpc.net/problem/1016)
+- [x] [1016 제곱 ㄴㄴ 수](https://www.acmicpc.net/problem/1016)
 - [ ] [1557 제곱 ㄴㄴ](https://www.acmicpc.net/problem/1557)
 
 ## 알고리즘 중급 2/3 / 1103 - 수학 1 (참고)
@@ -915,8 +915,8 @@
 
 ## 알고리즘 중급 3/3 / 1230 - 세그먼트 트리
 
-- [ ] [10868 최솟값](https://www.acmicpc.net/problem/10868)
-- [ ] [14438 수열과 쿼리 17](https://www.acmicpc.net/problem/14438)
+- [x] [10868 최솟값](https://www.acmicpc.net/problem/10868)
+- [x] [14438 수열과 쿼리 17](https://www.acmicpc.net/problem/14438)
 
 ## 알고리즘 중급 3/3 / 1240 - 펜윅 트리
 
@@ -924,7 +924,7 @@
 - [ ] [2015 수들의 합 4](https://www.acmicpc.net/problem/2015)
 - [ ] [10986 나머지 합](https://www.acmicpc.net/problem/10986)
 - [x] [11660 구간 합 구하기 5](https://www.acmicpc.net/problem/11660)
-- [ ] [2042 구간 합 구하기](https://www.acmicpc.net/problem/2042)
+- [x] [2042 구간 합 구하기](https://www.acmicpc.net/problem/2042)
 - [ ] [11658 구간 합 구하기 3](https://www.acmicpc.net/problem/11658)
 
 ## 알고리즘 중급 3/3 / 1300 - 다이나믹 프로그래밍 3
@@ -965,7 +965,7 @@
 - [ ] [1126 같은 탑](https://www.acmicpc.net/problem/1126)
 - [ ] [1513 경로 찾기](https://www.acmicpc.net/problem/1513)
 - [ ] [2618 경찰차](https://www.acmicpc.net/problem/2618)
-- [ ] [1801 직사각형 만들기](https://www.acmicpc.net/problem/1801)
+- [x] [1801 직사각형 만들기](https://www.acmicpc.net/problem/1801)
 - [ ] [1750 서로소의 개수](https://www.acmicpc.net/problem/1750)
 - [ ] [3644 그래프 매칭](https://www.acmicpc.net/problem/3644)
 
@@ -1060,9 +1060,9 @@
 - [x] [12738 가장 긴 증가하는 부분 수열 3](https://www.acmicpc.net/problem/12738)
 - [ ] [7578 공장](https://www.acmicpc.net/problem/7578)
 - [ ] [3653 영화 수집](https://www.acmicpc.net/problem/3653)
-- [ ] [18436 수열과 쿼리 37](https://www.acmicpc.net/problem/18436)
-- [ ] [5676 음주 코딩](https://www.acmicpc.net/problem/5676)
-- [ ] [2243 사탕상자](https://www.acmicpc.net/problem/2243)
+- [x] [18436 수열과 쿼리 37](https://www.acmicpc.net/problem/18436)
+- [x] [5676 음주 코딩](https://www.acmicpc.net/problem/5676)
+- [x] [2243 사탕상자](https://www.acmicpc.net/problem/2243)
 - [ ] [1849 순열](https://www.acmicpc.net/problem/1849)
 
 ## 알고리즘 고급으로 가는 연결고리 1/2 / 1601 - 세그먼트 트리와 펜윅 트리 (연습)
@@ -1076,7 +1076,7 @@
 - [ ] [5012 불만 정렬](https://www.acmicpc.net/problem/5012)
 - [ ] [1273 샷](https://www.acmicpc.net/problem/1273)
 - [ ] [9426 중앙값 측정](https://www.acmicpc.net/problem/9426)
-- [ ] [1168 요세푸스 문제 2](https://www.acmicpc.net/problem/1168)
+- [x] [1168 요세푸스 문제 2](https://www.acmicpc.net/problem/1168)
 
 ## 알고리즘 고급으로 가는 연결고리 1/2 / 1602 - 세그먼트 트리와 펜윅 트리 (도전)
 
