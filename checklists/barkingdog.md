@@ -513,7 +513,7 @@
 - [x] [9202 Boggle](https://www.acmicpc.net/problem/9202)
 - [x] [16906 욱제어](https://www.acmicpc.net/problem/16906)
 - [x] [5670 휴대폰 자판](https://www.acmicpc.net/problem/5670)
-- [ ] [5446 용량 부족](https://www.acmicpc.net/problem/5446)
+- [x] [5446 용량 부족](https://www.acmicpc.net/problem/5446)
 
 ## 부록 A - 문자열 기초
 

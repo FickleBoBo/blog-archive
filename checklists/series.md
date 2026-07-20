@@ -334,7 +334,7 @@
 
 ## XOR 합
 
-- [ ] [13504 XOR 합](https://www.acmicpc.net/problem/13504)
+- [x] [13504 XOR 합](https://www.acmicpc.net/problem/13504)
 - [ ] [13709 XOR 합 2](https://www.acmicpc.net/problem/13709)
 - [ ] [13710 XOR 합 3](https://www.acmicpc.net/problem/13710)
 

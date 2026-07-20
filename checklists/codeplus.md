@@ -766,7 +766,7 @@
 - [ ] [13576 Prefix와 Suffix](https://www.acmicpc.net/problem/13576)
 - [x] [9202 Boggle](https://www.acmicpc.net/problem/9202)
 - [x] [5052 전화번호 목록](https://www.acmicpc.net/problem/5052)
-- [ ] [13504 XOR 합](https://www.acmicpc.net/problem/13504)
+- [x] [13504 XOR 합](https://www.acmicpc.net/problem/13504)
 - [ ] [13445 부분 수열 XOR](https://www.acmicpc.net/problem/13445)
 - [ ] [2809 아스키 거리](https://www.acmicpc.net/problem/2809)
 
