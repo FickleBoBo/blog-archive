@@ -1,0 +1,18 @@
+---
+---
+
+/* prettier-ignore */
+@use 'main
+{%- if jekyll.environment == 'production' -%}
+  .bundle
+{%- endif -%}
+';
+
+/* append your custom style below */
+main .content h2 {
+  margin-bottom: 4rem;
+}
+
+main .content h3 {
+  margin-bottom: 2rem;
+}
