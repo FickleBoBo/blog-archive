@@ -3,15 +3,13 @@ title: "[자료구조/알고리즘] 이진 거듭제곱 (Binary Exponentiation)"
 slug: binary-exponentiation
 date: 2025-12-10
 categories: [DSA]
-tags: [Math, Binary Exponentiation, Divide and Conquer]
+tags: [Math, Divide and Conquer, Binary Exponentiation]
 toc: true
 math: true
 image: /assets/posts/binary-exponentiation/thumbnail.drawio.svg
 ---
 
 ## 1. 이진 거듭제곱
-
-<br>
 
 **이진 거듭제곱(Binary Exponentiation, Exponentiation by Squaring)**은 $a^n$ 연산의 결과를 $O(\log{n})$ 의 시간복잡도로 해결하는 알고리즘이다.
 
@@ -20,8 +18,6 @@ $a^n$ 은 $a$ 를 $n$ 번 곱한 수이므로 반복문을 활용해 $a \times a
 ---
 
 ## 2. 이진 거듭제곱 아이디어
-
-<br>
 
 이진 거듭제곱의 핵심 아이디어는 지수인 $n$ 을 2진수로 표현하여 계산을 나누는 것이다.
 
@@ -74,8 +70,6 @@ $$
 ---
 
 ## 3. 이진 거듭제곱 코드
-
-<br>
 
 반복문을 활용한 이진 거듭제곱은 $n$ 에 대한 2진수 표현과 비트 연산을 활용해 이진 거듭제곱을 구현한다. 먼저 거듭제곱의 결과를 나타내는 변수 $res$ 를 $1$ 로 초기화한다. $n$ 과 자연수 $1$ 과의 비트 AND 연산은 $n$ 을 2진수로 나타냈을 때 마지막 자릿수가 $1$ 인지 여부를 알 수 있다. 2진수로 나타냈을 때 1인 비트는 계산에 포함하는 항이고 0인 비트는 계산에 포함하지 않는 항이므로 1일 경우 $res = res * a$ 로 해당 항을 곱해준다. 이후 다음 항에서 이 과정을 반복해야 하는데 이때 $a$ 는 거듭제곱을 하면 다음 항의 값이 되고, $n$ 은 비트 시프트 연산으로 2진수로 나타낸 끝 자리를 날려서 다음 비트로 이동한 효과를 주면 된다. 비트 연산 대신 몫과 나머지를 구하는 방식으로 구현해도 된다.
 
@@ -151,8 +145,6 @@ int binpow(int a, int n) {
 
 ## 4. Problems
 
-<br>
-
 - [BaekJoon 1629번 - 곱셈](https://www.acmicpc.net/problem/1629)
 - [BaekJoon 10830번 - 행렬 제곱](https://www.acmicpc.net/problem/10830)
 - [BaekJoon 11444번 - 피보나치 수 6](https://www.acmicpc.net/problem/11444)
@@ -160,8 +152,6 @@ int binpow(int a, int n) {
 ---
 
 ## Ref
-
-<br>
 
 - [cp-algorithms - Binary Exponentiation](https://cp-algorithms.com/algebra/binary-exp.html)
 - [IOI KOREA - 빠른 거듭제곱](https://www.youtube.com/watch?v=6LBjvH39WNo)
