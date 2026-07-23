@@ -11,8 +11,6 @@ image: /assets/posts/euclidean-algorithm/thumbnail.drawio.svg
 
 ## 1. 유클리드 호제법
 
-<br>
-
 **유클리드 호제법(Euclidean Algorithm)**은 두 자연수 또는 다항식의 **최대공약수(GCD, Greatest Common Divisor)**를 구하는 알고리즘의 하나이다. 호제법이란 말은 두 수가 서로 상대방 수를 나누어서 결국 원하는 수를 얻는다는 뜻이다.
 
 <br>
@@ -40,15 +38,11 @@ $72$ 를 $36$ 으로 나눈 나머지가 $0$ 이 됐다. 따라서, $78696$ 과 
 
 ## 2. 유클리드 호제법 성능
 
-<br>
-
 유클리드 호제법은 두 수 $a$, $b$ 에 대해 $O(\log{\min(a, b)})$ 의 시간복잡도를 갖는 알고리즘이다. 나머지가 최대한 느리게 줄어들수록 계산량이 많아지는데 Lamé's theorem에 따르면 연속한 피보나치 수 쌍의 경우가 worst case이다.
 
 ---
 
 ## 3. 유클리드 호제법 증명
-
-<br>
 
 자연수 $a$, $b$ 에 대해 $a > b$ 인 경우 아래와 같이 나타낼 수 있다.($0 \le r < b$)
 
@@ -111,8 +105,6 @@ $$
 ---
 
 ## 4. 유클리드 호제법 코드
-
-<br>
 
 유클리드 호제법은 재귀를 활용한 구현과 재귀를 활용하지 않은 구현 두 가지 모두 가능하다.
 
@@ -184,8 +176,6 @@ int gcd(int a, int b) {
 
 ## 5. Problems
 
-<br>
-
 - [BaekJoon 9613번 - GCD 합](https://www.acmicpc.net/problem/9613)
 - [BaekJoon 1735번 - 분수 합](https://www.acmicpc.net/problem/1735)
 - [BaekJoon 5347번 - LCM](https://www.acmicpc.net/problem/5347)
@@ -194,8 +184,6 @@ int gcd(int a, int b) {
 ---
 
 ## Ref
-
-<br>
 
 - [wikipedia - 유클리드 호제법](https://ko.wikipedia.org/wiki/%EC%9C%A0%ED%81%B4%EB%A6%AC%EB%93%9C_%ED%98%B8%EC%A0%9C%EB%B2%95)
 - [cp-algorithms - Euclidean Algorithm](https://cp-algorithms.com/algebra/euclid-algorithm.html)
