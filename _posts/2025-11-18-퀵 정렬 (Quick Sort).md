@@ -11,15 +11,11 @@ image: /assets/posts/quick-sort/thumbnail.drawio.svg
 
 ## 1. 퀵 정렬
 
-<br>
-
 **퀵 정렬(Quick Sort)**은 정렬 알고리즘 중 하나로 **분할 정복을 통해 정렬**하는 알고리즘이다. 이름 그대로 빠른 정렬이 특징인 정렬 알고리즘이다.
 
 ---
 
 ## 2. 퀵 정렬 성능
-
-<br>
 
 | 평균 시간복잡도 | $O(N\log{N})$ |
 | --------------- | ------------- |
@@ -39,8 +35,6 @@ $N$ 개의 원소에 대한 퀵 정렬은 최선, 평균 시간복잡도가 $O(N
 ---
 
 ## 3. 퀵 정렬 진행 과정
-
-<br>
 
 퀵 정렬은 주어진 원소들에 대해 파티션을 나누며 정렬을 수행하고 이 과정이 재귀적으로 일어난다. 이 파티션을 나누며 정렬하는 방법은 크게 **Lomuto Partition** 방식과 **Hoare Partition** 방식이 있다. Lomuto Partition은 좀 더 이해하기 쉽지만 성능은 약간 떨어지며, Hoare Partition은 좀 더 이해하기 어렵지만 성능은 더 좋다. 일반적으로 퀵 정렬이라고 하면 Hoare Partition을 말한다.
 
@@ -504,8 +498,6 @@ Hoare Partition은 피봇을 설정하고 두 포인터로 양 끝 원소를 교
 
 ## 4. 퀵 정렬 코드
 
-<br>
-
 ### 1. Lomuto Partition [Java]
 
 Lomuto Partition은 구현이 직관적이고 간단하다는 장점이 있다.
@@ -666,8 +658,6 @@ void quickSort(vector<int>& a, int l, int r) {
 ---
 
 ## Ref
-
-<br>
 
 - [wikipedia - 퀵 정렬](https://ko.wikipedia.org/wiki/%ED%80%B5_%EC%A0%95%EB%A0%AC)
 
